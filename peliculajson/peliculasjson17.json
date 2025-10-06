@@ -1,0 +1,351 @@
+{
+  "media": [
+    {
+      "title": "Luke Cage",
+      "synopsis": "Un exconvicto con fuerza sobrehumana y piel irrompible lucha por limpiar su nombre y defender su barrio en Harlem.",
+      "releaseDate": "2016-09-30",
+      "duration": 55,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090344"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 72,
+          "votes": 2200
+        }
+      },
+      "cast": [
+        {
+          "actor": "Mike Colter",
+          "character": "Luke Cage",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Mahershala Ali",
+          "character": "Cornell 'Cottonmouth' Stokes",
+          "role": "Antagonista"
+        },
+        {
+          "actor": "Alfre Woodard",
+          "character": "Mariah Dillard",
+          "role": "Antagonista"
+        },
+        {
+          "actor": "Simone Missick",
+          "character": "Misty Knight",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Cheo Hodari Coker",
+          "role": "Creador/Guionista"
+        },
+        {
+          "name": "Archie Goodwin",
+          "role": "Creador de personajes"
+        },
+        {
+          "name": "John Romita Sr.",
+          "role": "Creador de personajes"
+        }
+      ],
+      "technical": {
+        "language": "Español",
+        "subtitles": [
+          "Inglés",
+          "Francés",
+          "Italiano"
+        ],
+        "country": "Estados Unidos",
+        "budget": {
+          "amount": 120000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": null,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cJiG9hTnbnoRt8MPR2pJssYRN0z.jpg",
+      "trailer": "https://www.youtube.com/watch?v=hfJ0m9PY6mw",
+      "tags": [
+        "Marvel",
+        "Luke Cage",
+        "Harlem",
+        "superhéroes"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "The Defenders",
+      "synopsis": "Daredevil, Jessica Jones, Luke Cage y Iron Fist unen fuerzas para salvar Nueva York de una organización criminal conocida como La Mano.",
+      "releaseDate": "2017-08-18",
+      "duration": 50,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 72,
+          "votes": 2100
+        }
+      },
+      "cast": [
+        {
+          "actor": "Charlie Cox",
+          "character": "Matt Murdock / Daredevil",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Krysten Ritter",
+          "character": "Jessica Jones",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Mike Colter",
+          "character": "Luke Cage",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Finn Jones",
+          "character": "Danny Rand / Iron Fist",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Sigourney Weaver",
+          "character": "Alexandra Reid",
+          "role": "Antagonista"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Douglas Petrie",
+          "role": "Creador/Guionista"
+        },
+        {
+          "name": "Marco Ramirez",
+          "role": "Creador/Guionista"
+        },
+        {
+          "name": "Stan Lee",
+          "role": "Creador de personajes"
+        },
+        {
+          "name": "Jack Kirby",
+          "role": "Creador de personajes"
+        }
+      ],
+      "technical": {
+        "language": "Español",
+        "subtitles": [
+          "Inglés",
+          "Francés",
+          "Portugués"
+        ],
+        "country": "Estados Unidos",
+        "budget": {
+          "amount": 150000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": null,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7lLJ1UQZa5oZgfwcMNSh2rbcvFm.jpg",
+      "trailer": "https://www.youtube.com/watch?v=D_6J9BqgonU",
+      "tags": [
+        "Marvel",
+        "Defenders",
+        "La Mano",
+        "Daredevil",
+        "Jessica Jones"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Agents of S.H.I.E.L.D.",
+      "synopsis": "El agente Phil Coulson lidera un equipo de agentes de S.H.I.E.L.D. para investigar casos extraños en un mundo lleno de superhéroes y amenazas alienígenas.",
+      "releaseDate": "2013-09-24",
+      "duration": 43,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090344",
+        "68e2ccbee06821ba04090343"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 74,
+          "votes": 4000
+        }
+      },
+      "cast": [
+        {
+          "actor": "Clark Gregg",
+          "character": "Phil Coulson",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Ming-Na Wen",
+          "character": "Melinda May",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Chloe Bennet",
+          "character": "Daisy Johnson / Quake",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Iain De Caestecker",
+          "character": "Leo Fitz",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Elizabeth Henstridge",
+          "character": "Jemma Simmons",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Joss Whedon",
+          "role": "Creador"
+        },
+        {
+          "name": "Jed Whedon",
+          "role": "Creador"
+        },
+        {
+          "name": "Maurissa Tancharoen",
+          "role": "Creadora"
+        }
+      ],
+      "technical": {
+        "language": "Español",
+        "subtitles": [
+          "Inglés",
+          "Francés",
+          "Italiano"
+        ],
+        "country": "Estados Unidos",
+        "budget": {
+          "amount": 220000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": null,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qtr5i6hOm6oVzTYl3jOQAYP3oc7.jpg",
+      "trailer": "https://www.youtube.com/watch?v=T3T-evQZiQo",
+      "tags": [
+        "Marvel",
+        "S.H.I.E.L.D.",
+        "Phil Coulson",
+        "superhéroes"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Agent Carter",
+      "synopsis": "Peggy Carter, tras perder a Steve Rogers, lucha contra el sexismo en la SSR mientras ayuda a Howard Stark y combate amenazas secretas en los años 40.",
+      "releaseDate": "2015-01-06",
+      "duration": 42,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090344",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 76,
+          "votes": 1800
+        }
+      },
+      "cast": [
+        {
+          "actor": "Hayley Atwell",
+          "character": "Peggy Carter",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "James D'Arcy",
+          "character": "Edwin Jarvis",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Enver Gjokaj",
+          "character": "Daniel Sousa",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Dominic Cooper",
+          "character": "Howard Stark",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Christopher Markus",
+          "role": "Creador/Guionista"
+        },
+        {
+          "name": "Stephen McFeely",
+          "role": "Creador/Guionista"
+        },
+        {
+          "name": "Stan Lee",
+          "role": "Creador de personajes"
+        },
+        {
+          "name": "Jack Kirby",
+          "role": "Creador de personajes"
+        }
+      ],
+      "technical": {
+        "language": "Español",
+        "subtitles": [
+          "Inglés",
+          "Francés",
+          "Portugués"
+        ],
+        "country": "Estados Unidos",
+        "budget": {
+          "amount": 100000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": null,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jMbQ04lsYn80vY6Nnz1z93zLMFg.jpg",
+      "trailer": "https://www.youtube.com/watch?v=MfzL1pZpLrk",
+      "tags": [
+        "Marvel",
+        "Peggy Carter",
+        "SSR",
+        "Howard Stark"
+      ],
+      "isActive": true
+    }
+  ]
+}

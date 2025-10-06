@@ -1,0 +1,54 @@
+{
+  "title": "Inception",
+  "originalTitle": "Inception",
+  "synopsis": "Dom Cobb es un ladrón hábil, el mejor en el peligroso arte de la extracción: robar los secretos del subconsciente durante el estado de sueño cuando la mente está más vulnerable.",
+  "releaseDate": "2010-07-16",
+  "duration": 148,
+  "type": "68e1e3e5133c69fe31ca30b6",
+  "director": "68e1e42b133c69fe31ca30bf",
+  "producer": "68e1e406133c69fe31ca30b9",
+  "genres": ["68e1e419133c69fe31ca30bc"],
+  "rating": {
+    "imdb": {
+      "score": 8.8,
+      "votes": 2000000
+    },
+    "metacritic": 74,
+    "rottenTomatoes": 87
+  },
+  "cast": [
+    {
+      "actor": "Leonardo DiCaprio",
+      "character": "Dom Cobb",
+      "role": "Protagonista"
+    },
+    {
+      "actor": "Marion Cotillard",
+      "character": "Mal",
+      "role": "Secundario"
+    }
+  ],
+  "crew": [
+    {
+      "name": "Christopher Nolan",
+      "role": "Guionista"
+    }
+  ],
+  "technical": {
+    "language": "Inglés",
+    "subtitles": ["Español", "Francés"],
+    "country": "Estados Unidos",
+    "budget": {
+      "amount": 160000000,
+      "currency": "USD"
+    },
+    "boxOffice": {
+      "amount": 836836967,
+      "currency": "USD"
+    }
+  },
+  "poster": "https://example.com/inception-poster.jpg",
+  "trailer": "https://www.youtube.com/watch?v=YoHD9XEInc0",
+  "tags": ["ciencia ficción", "thriller", "sueños", "acción"],
+  "isActive": true
+}

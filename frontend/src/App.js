@@ -11,6 +11,7 @@ import {
   Types,
   Media,
 } from './pages';
+import Catalog from './pages/Catalog';
 import './App.css';
 
 // Create Material-UI theme
@@ -70,25 +71,41 @@ function App() {
     <ThemeProvider theme={theme}>
       <CssBaseline />
       <Router>
-        <Box sx={{ display: 'flex', minHeight: '100vh' }}>
-          <Layout>
-            <Routes>
-              {/* Default route redirects to dashboard */}
-              <Route path="/" element={<Navigate to="/dashboard" replace />} />
-              
-              {/* Main application routes */}
-              <Route path="/dashboard" element={<Dashboard />} />
-              <Route path="/genres" element={<Genres />} />
-              <Route path="/directors" element={<Directors />} />
-              <Route path="/producers" element={<Producers />} />
-              <Route path="/types" element={<Types />} />
-              <Route path="/media" element={<Media />} />
-              
-              {/* Catch-all route for 404 */}
-              <Route path="*" element={<Navigate to="/dashboard" replace />} />
-            </Routes>
-          </Layout>
-        </Box>
+        <Routes>
+          {/* Public catalog route - accessible without admin layout */}
+          <Route path="/catalog" element={<Catalog />} />
+          
+          {/* Default route redirects to catalog for public users */}
+          <Route path="/" element={<Navigate to="/catalog" replace />} />
+          
+          {/* Admin routes with layout */}
+          <Route path="/admin/*" element={
+            <Box sx={{ display: 'flex', minHeight: '100vh' }}>
+              <Layout>
+                <Routes>
+                  <Route path="/" element={<Navigate to="dashboard" replace />} />
+                  <Route path="dashboard" element={<Dashboard />} />
+                  <Route path="genres" element={<Genres />} />
+                  <Route path="directors" element={<Directors />} />
+                  <Route path="producers" element={<Producers />} />
+                  <Route path="types" element={<Types />} />
+                  <Route path="media" element={<Media />} />
+                </Routes>
+              </Layout>
+            </Box>
+          } />
+          
+          {/* Legacy routes for backward compatibility */}
+          <Route path="/dashboard" element={<Navigate to="/admin/dashboard" replace />} />
+          <Route path="/genres" element={<Navigate to="/admin/genres" replace />} />
+          <Route path="/directors" element={<Navigate to="/admin/directors" replace />} />
+          <Route path="/producers" element={<Navigate to="/admin/producers" replace />} />
+          <Route path="/types" element={<Navigate to="/admin/types" replace />} />
+          <Route path="/media" element={<Navigate to="/admin/media" replace />} />
+          
+          {/* Catch-all route for 404 */}
+          <Route path="*" element={<Navigate to="/catalog" replace />} />
+        </Routes>
       </Router>
     </ThemeProvider>
   );

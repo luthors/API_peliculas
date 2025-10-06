@@ -1,0 +1,52 @@
+{
+  "directors": [
+    {
+      "name": "Christopher Nolan",
+      "biography": "Director británico-estadounidense conocido por sus películas complejas y narrativas no lineales",
+      "birthDate": "1970-07-30",
+      "nationality": "Británico-Estadounidense",
+      "awards": [
+        {
+          "name": "Oscar al Mejor Director",
+          "year": 2024,
+          "category": "Mejor Director"
+        }
+      ],
+      "socialMedia": {
+        "website": "https://www.christophernolan.net"
+      }
+    },
+    {
+      "name": "Quentin Tarantino",
+      "biography": "Director estadounidense conocido por su estilo único y diálogos distintivos",
+      "birthDate": "1963-03-27",
+      "nationality": "Estadounidense",
+      "awards": [
+        {
+          "name": "Oscar al Mejor Guión Original",
+          "year": 2013,
+          "category": "Mejor Guión Original"
+        }
+      ],
+      "socialMedia": {
+        "website": "https://www.tarantino.info"
+      }
+    },
+    {
+      "name": "Greta Gerwig",
+      "biography": "Directora y guionista estadounidense, pionera en el cine independiente",
+      "birthDate": "1983-08-04",
+      "nationality": "Estadounidense",
+      "awards": [
+        {
+          "name": "Nominación al Oscar",
+          "year": 2018,
+          "category": "Mejor Director"
+        }
+      ],
+      "socialMedia": {
+        "website": "https://www.gretagerwigfilms.com"
+      }
+    }
+  ]
+}

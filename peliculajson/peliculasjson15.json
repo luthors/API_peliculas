@@ -1,0 +1,455 @@
+{
+  "media": [
+    {
+      "title": "She-Hulk: Defensora de Héroes",
+      "synopsis": "Jennifer Walters, una abogada especializada en casos legales de superhumanos, debe equilibrar su vida como profesional y como superhéroe tras recibir poderes de Hulk.",
+      "releaseDate": "2022-08-18",
+      "duration": 35,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba04090360",
+      "genres": [
+        "68e2ccbee06821ba04090345",
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090343"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 59,
+          "votes": 5000
+        }
+      },
+      "cast": [
+        {
+          "actor": "Tatiana Maslany",
+          "character": "Jennifer Walters / She-Hulk",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Mark Ruffalo",
+          "character": "Bruce Banner / Hulk",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Tim Roth",
+          "character": "Emil Blonsky / Abominación",
+          "role": "Antagonista"
+        },
+        {
+          "actor": "Ginger Gonzaga",
+          "character": "Nikki Ramos",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Jameela Jamil",
+          "character": "Titania",
+          "role": "Antagonista"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Kat Coiro",
+          "role": "Directora"
+        },
+        {
+          "name": "Jessica Gao",
+          "role": "Creadora/Guionista"
+        },
+        {
+          "name": "Stan Lee",
+          "role": "Creador de personajes"
+        },
+        {
+          "name": "John Buscema",
+          "role": "Creador de personajes"
+        }
+      ],
+      "technical": {
+        "language": "Español",
+        "subtitles": [
+          "Inglés",
+          "Francés",
+          "Portugués"
+        ],
+        "country": "Estados Unidos",
+        "budget": {
+          "amount": 150000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": null,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
+      "trailer": "https://www.youtube.com/watch?v=u7JsKhI2An0",
+      "tags": [
+        "Marvel",
+        "She-Hulk",
+        "Hulk",
+        "abogada"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Secret Invasion",
+      "synopsis": "Nick Fury y Talos descubren una invasión clandestina de los Skrulls, una raza alienígena que se ha infiltrado en la Tierra durante años.",
+      "releaseDate": "2023-06-21",
+      "duration": 45,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba04090360",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090343",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 62,
+          "votes": 4200
+        }
+      },
+      "cast": [
+        {
+          "actor": "Samuel L. Jackson",
+          "character": "Nick Fury",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Ben Mendelsohn",
+          "character": "Talos",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Kingsley Ben-Adir",
+          "character": "Gravik",
+          "role": "Antagonista"
+        },
+        {
+          "actor": "Emilia Clarke",
+          "character": "G'iah",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Olivia Colman",
+          "character": "Sonya Falsworth",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Ali Selim",
+          "role": "Director"
+        },
+        {
+          "name": "Kyle Bradstreet",
+          "role": "Creador/Guionista"
+        },
+        {
+          "name": "Brian Michael Bendis",
+          "role": "Creador de personajes"
+        },
+        {
+          "name": "Mark Millar",
+          "role": "Creador de personajes"
+        }
+      ],
+      "technical": {
+        "language": "Español",
+        "subtitles": [
+          "Inglés",
+          "Francés",
+          "Italiano"
+        ],
+        "country": "Estados Unidos",
+        "budget": {
+          "amount": 212000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": null,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qVNyhhCgm20BrYzGTJrLRIkt6l8.jpg",
+      "trailer": "https://www.youtube.com/watch?v=Tp_YZNqNBhw",
+      "tags": [
+        "Marvel",
+        "Nick Fury",
+        "Skrulls",
+        "invasión secreta"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "What If...?",
+      "synopsis": "Una serie animada que explora realidades alternativas del Universo Cinematográfico de Marvel, mostrando lo que sucedería si los eventos ocurrieran de manera diferente.",
+      "releaseDate": "2021-08-11",
+      "duration": 33,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba04090360",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090343",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 79,
+          "votes": 8000
+        }
+      },
+      "cast": [
+        {
+          "actor": "Jeffrey Wright",
+          "character": "The Watcher (voz)",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Chadwick Boseman",
+          "character": "T'Challa (voz)",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Hayley Atwell",
+          "character": "Peggy Carter (voz)",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Benedict Cumberbatch",
+          "character": "Doctor Strange (voz)",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Samuel L. Jackson",
+          "character": "Nick Fury (voz)",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Bryan Andrews",
+          "role": "Director"
+        },
+        {
+          "name": "A.C. Bradley",
+          "role": "Creadora/Guionista"
+        },
+        {
+          "name": "Stan Lee",
+          "role": "Creador de personajes"
+        }
+      ],
+      "technical": {
+        "language": "Español",
+        "subtitles": [
+          "Inglés",
+          "Francés",
+          "Portugués"
+        ],
+        "country": "Estados Unidos",
+        "budget": {
+          "amount": 150000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": null,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lztz5XBMG1x6Y5ubz7CxfPFsAcW.jpg",
+      "trailer": "https://www.youtube.com/watch?v=x9D0uUKJ5KI",
+      "tags": [
+        "Marvel",
+        "multiverso",
+        "animación",
+        "universos alternativos"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Echo",
+      "synopsis": "Maya Lopez, conocida como Echo, regresa a su ciudad natal para enfrentar su pasado y reconectar con sus raíces nativas americanas mientras lidia con su identidad de heroína.",
+      "releaseDate": "2024-01-09",
+      "duration": 45,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba04090360",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090344"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 67,
+          "votes": 1200
+        }
+      },
+      "cast": [
+        {
+          "actor": "Alaqua Cox",
+          "character": "Maya Lopez / Echo",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Zahn McClarnon",
+          "character": "William Lopez",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Vincent D'Onofrio",
+          "character": "Wilson Fisk / Kingpin",
+          "role": "Antagonista"
+        },
+        {
+          "actor": "Charlie Cox",
+          "character": "Matt Murdock / Daredevil",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Devery Jacobs",
+          "character": "Bonnie",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Sydney Freeland",
+          "role": "Directora"
+        },
+        {
+          "name": "Marion Dayre",
+          "role": "Creadora/Guionista"
+        },
+        {
+          "name": "David Mack",
+          "role": "Creador de personajes"
+        },
+        {
+          "name": "Joe Quesada",
+          "role": "Creador de personajes"
+        }
+      ],
+      "technical": {
+        "language": "Español",
+        "subtitles": [
+          "Inglés",
+          "Francés",
+          "Portugués"
+        ],
+        "country": "Estados Unidos",
+        "budget": {
+          "amount": 150000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": null,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qnx7BfBcz1MZSkYMcR6L1zWQCkC.jpg",
+      "trailer": "https://www.youtube.com/watch?v=1ajh4pRfgWc",
+      "tags": [
+        "Marvel",
+        "Echo",
+        "Kingpin",
+        "Daredevil"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Daredevil: Born Again",
+      "synopsis": "Matt Murdock, abogado ciego de día y justiciero por la noche, regresa para enfrentar a nuevos y viejos enemigos en Hell’s Kitchen tras los sucesos de 'Echo'.",
+      "releaseDate": "2025-03-01",
+      "duration": 50,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba04090360",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090344"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": null,
+          "votes": null
+        }
+      },
+      "cast": [
+        {
+          "actor": "Charlie Cox",
+          "character": "Matt Murdock / Daredevil",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Vincent D'Onofrio",
+          "character": "Wilson Fisk / Kingpin",
+          "role": "Antagonista"
+        },
+        {
+          "actor": "Deborah Ann Woll",
+          "character": "Karen Page",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Elden Henson",
+          "character": "Foggy Nelson",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Jon Bernthal",
+          "character": "Frank Castle / The Punisher",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Matt Corman",
+          "role": "Creador/Guionista"
+        },
+        {
+          "name": "Chris Ord",
+          "role": "Creador/Guionista"
+        },
+        {
+          "name": "Stan Lee",
+          "role": "Creador de personajes"
+        },
+        {
+          "name": "Bill Everett",
+          "role": "Creador de personajes"
+        }
+      ],
+      "technical": {
+        "language": "Español",
+        "subtitles": [
+          "Inglés",
+          "Francés",
+          "Portugués"
+        ],
+        "country": "Estados Unidos",
+        "budget": {
+          "amount": 200000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": null,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yfXc2gX2hbgxYwWjWwr0fZxvv6x.jpg",
+      "trailer": "https://www.youtube.com/watch?v=6pTZ2ac2aFg",
+      "tags": [
+        "Marvel",
+        "Daredevil",
+        "Kingpin",
+        "Hell’s Kitchen"
+      ],
+      "isActive": true
+    }
+  ]
+}

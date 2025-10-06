@@ -1,0 +1,459 @@
+{
+  "media": [
+    {
+      "title": "The Batman",
+      "synopsis": "Cuando un asesino apunta a la élite de Gotham con una serie de maquinaciones sádicas, Batman debe investigar la corrupción oculta de la ciudad y cuestionar el papel de su familia.",
+      "releaseDate": "2022-03-04",
+      "duration": 176,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 77,
+          "votes": 9500
+        }
+      },
+      "cast": [
+        {
+          "actor": "Robert Pattinson",
+          "character": "Bruce Wayne / Batman",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Zoë Kravitz",
+          "character": "Selina Kyle / Catwoman",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Paul Dano",
+          "character": "Edward Nashton / Enigma",
+          "role": "Antagonista"
+        },
+        {
+          "actor": "Colin Farrell",
+          "character": "Oswald Cobblepot / Pingüino",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Jeffrey Wright",
+          "character": "James Gordon",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Matt Reeves",
+          "role": "Director/Guionista"
+        },
+        {
+          "name": "Peter Craig",
+          "role": "Guionista"
+        },
+        {
+          "name": "Bill Finger",
+          "role": "Creador de personajes"
+        },
+        {
+          "name": "Bob Kane",
+          "role": "Creador de personajes"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French",
+          "German"
+        ],
+        "country": "United States",
+        "budget": {
+          "amount": 185000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 772000000,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg",
+      "trailer": "https://www.youtube.com/watch?v=mqqft2x_Aa4",
+      "tags": [
+        "Batman",
+        "DC Comics",
+        "Enigma",
+        "Catwoman",
+        "justicia"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Avatar: The Way of Water",
+      "synopsis": "Jake Sully y Neytiri han formado una familia y hacen todo lo posible para permanecer juntos. Sin embargo, deben abandonar su hogar y explorar las regiones acuáticas de Pandora.",
+      "releaseDate": "2022-12-16",
+      "duration": 192,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090343",
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 77,
+          "votes": 11000
+        }
+      },
+      "cast": [
+        {
+          "actor": "Sam Worthington",
+          "character": "Jake Sully",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Zoe Saldaña",
+          "character": "Neytiri",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Sigourney Weaver",
+          "character": "Kiri",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Stephen Lang",
+          "character": "Coronel Quaritch",
+          "role": "Antagonista"
+        },
+        {
+          "actor": "Kate Winslet",
+          "character": "Ronal",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "James Cameron",
+          "role": "Director/Guionista"
+        },
+        {
+          "name": "Rick Jaffa",
+          "role": "Guionista"
+        },
+        {
+          "name": "Amanda Silver",
+          "role": "Guionista"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French",
+          "Japanese"
+        ],
+        "country": "United States",
+        "budget": {
+          "amount": 460000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 2320000000,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "trailer": "https://www.youtube.com/watch?v=d9MyW72ELq0",
+      "tags": [
+        "Pandora",
+        "Na'vi",
+        "familia",
+        "ecología",
+        "fantasía"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Guardians of the Galaxy Vol. 3",
+      "synopsis": "Peter Quill, aún conmocionado por la pérdida de Gamora, debe reunir a su equipo para defender el universo y proteger a uno de los suyos de una amenaza peligrosa.",
+      "releaseDate": "2023-05-05",
+      "duration": 150,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba04090360",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090343"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 80,
+          "votes": 7500
+        }
+      },
+      "cast": [
+        {
+          "actor": "Chris Pratt",
+          "character": "Peter Quill / Star-Lord",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Zoe Saldaña",
+          "character": "Gamora",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Dave Bautista",
+          "character": "Drax",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Karen Gillan",
+          "character": "Nebula",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Bradley Cooper",
+          "character": "Rocket (voz)",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "James Gunn",
+          "role": "Director/Guionista"
+        },
+        {
+          "name": "Kevin Feige",
+          "role": "Productor"
+        },
+        {
+          "name": "Stan Lee",
+          "role": "Creador de personajes"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French",
+          "German"
+        ],
+        "country": "United States",
+        "budget": {
+          "amount": 250000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 845000000,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+      "trailer": "https://www.youtube.com/watch?v=u3V5KDHRQvk",
+      "tags": [
+        "Marvel",
+        "Guardianes de la Galaxia",
+        "Rocket",
+        "Gamora",
+        "Star-Lord"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Black Panther: Wakanda Forever",
+      "synopsis": "La reina Ramonda, Shuri, M'Baku, Okoye y Dora Milaje luchan para proteger a Wakanda tras la muerte del rey T’Challa, mientras emerge una nueva amenaza: Namor, rey de una nación submarina.",
+      "releaseDate": "2022-11-11",
+      "duration": 161,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba04090360",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090343"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 70,
+          "votes": 7200
+        }
+      },
+      "cast": [
+        {
+          "actor": "Letitia Wright",
+          "character": "Shuri",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Angela Bassett",
+          "character": "Ramonda",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Danai Gurira",
+          "character": "Okoye",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Tenoch Huerta",
+          "character": "Namor",
+          "role": "Antagonista"
+        },
+        {
+          "actor": "Lupita Nyong'o",
+          "character": "Nakia",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Ryan Coogler",
+          "role": "Director/Guionista"
+        },
+        {
+          "name": "Joe Robert Cole",
+          "role": "Guionista"
+        },
+        {
+          "name": "Stan Lee",
+          "role": "Creador de personajes"
+        },
+        {
+          "name": "Jack Kirby",
+          "role": "Creador de personajes"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French",
+          "Portuguese"
+        ],
+        "country": "United States",
+        "budget": {
+          "amount": 250000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 859000000,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+      "trailer": "https://www.youtube.com/watch?v=_Z3QKkl1WyM",
+      "tags": [
+        "Marvel",
+        "Wakanda",
+        "Namor",
+        "Shuri",
+        "Pantera Negra"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Spider-Man: No Way Home",
+      "synopsis": "Con la identidad de Spider-Man revelada, Peter Parker pide ayuda a Doctor Strange. El hechizo sale mal y abre el multiverso, trayendo villanos de otras realidades.",
+      "releaseDate": "2021-12-17",
+      "duration": 148,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba04090360",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090343"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 80,
+          "votes": 14000
+        }
+      },
+      "cast": [
+        {
+          "actor": "Tom Holland",
+          "character": "Peter Parker / Spider-Man",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Zendaya",
+          "character": "MJ",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Benedict Cumberbatch",
+          "character": "Doctor Strange",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Willem Dafoe",
+          "character": "Norman Osborn / Duende Verde",
+          "role": "Antagonista"
+        },
+        {
+          "actor": "Alfred Molina",
+          "character": "Otto Octavius / Doctor Octopus",
+          "role": "Antagonista"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Jon Watts",
+          "role": "Director"
+        },
+        {
+          "name": "Chris McKenna",
+          "role": "Guionista"
+        },
+        {
+          "name": "Erik Sommers",
+          "role": "Guionista"
+        },
+        {
+          "name": "Stan Lee",
+          "role": "Creador de personajes"
+        },
+        {
+          "name": "Steve Ditko",
+          "role": "Creador de personajes"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French",
+          "Italian"
+        ],
+        "country": "United States",
+        "budget": {
+          "amount": 200000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 1920000000,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "trailer": "https://www.youtube.com/watch?v=JfVOs4VSpmA",
+      "tags": [
+        "Marvel",
+        "Spider-Man",
+        "multiverso",
+        "Doctor Strange"
+      ],
+      "isActive": true
+    }
+  ]
+}

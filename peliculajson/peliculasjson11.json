@@ -1,0 +1,387 @@
+{
+  "media": [
+    {
+      "title": "Joker",
+      "synopsis": "Arthur Fleck, un comediante con problemas mentales, inicia una espiral descendente hacia la locura y se convierte en el icónico criminal conocido como el Joker.",
+      "releaseDate": "2019-10-04",
+      "duration": 122,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090344",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 82,
+          "votes": 19000
+        }
+      },
+      "cast": [
+        {
+          "actor": "Joaquin Phoenix",
+          "character": "Arthur Fleck / Joker",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Robert De Niro",
+          "character": "Murray Franklin",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Zazie Beetz",
+          "character": "Sophie Dumond",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Frances Conroy",
+          "character": "Penny Fleck",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Brett Cullen",
+          "character": "Thomas Wayne",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Todd Phillips",
+          "role": "Director/Guionista"
+        },
+        {
+          "name": "Scott Silver",
+          "role": "Guionista"
+        },
+        {
+          "name": "Bob Kane",
+          "role": "Creador de personajes"
+        },
+        {
+          "name": "Bill Finger",
+          "role": "Creador de personajes"
+        }
+      ],
+      "technical": {
+        "language": "Español",
+        "subtitles": [
+          "Inglés",
+          "Francés",
+          "Italiano"
+        ],
+        "country": "Estados Unidos",
+        "budget": {
+          "amount": 55000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 1074000000,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "trailer": "https://www.youtube.com/watch?v=zAGVQLHvwOY",
+      "tags": [
+        "DC Comics",
+        "Joker",
+        "villanos",
+        "origen",
+        "psicología"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Avengers: Endgame",
+      "synopsis": "Después de los devastadores eventos de 'Infinity War', los Vengadores restantes deben encontrar la forma de traer de vuelta a sus aliados y derrotar definitivamente a Thanos.",
+      "releaseDate": "2019-04-26",
+      "duration": 181,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba04090360",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090343"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 83,
+          "votes": 25000
+        }
+      },
+      "cast": [
+        {
+          "actor": "Robert Downey Jr.",
+          "character": "Tony Stark / Iron Man",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Chris Evans",
+          "character": "Steve Rogers / Capitán América",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Scarlett Johansson",
+          "character": "Natasha Romanoff / Black Widow",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Chris Hemsworth",
+          "character": "Thor",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Josh Brolin",
+          "character": "Thanos",
+          "role": "Antagonista"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Anthony Russo",
+          "role": "Director"
+        },
+        {
+          "name": "Joe Russo",
+          "role": "Director"
+        },
+        {
+          "name": "Christopher Markus",
+          "role": "Guionista"
+        },
+        {
+          "name": "Stephen McFeely",
+          "role": "Guionista"
+        },
+        {
+          "name": "Stan Lee",
+          "role": "Creador de personajes"
+        },
+        {
+          "name": "Jack Kirby",
+          "role": "Creador de personajes"
+        }
+      ],
+      "technical": {
+        "language": "Español",
+        "subtitles": [
+          "Inglés",
+          "Francés",
+          "Portugués"
+        ],
+        "country": "Estados Unidos",
+        "budget": {
+          "amount": 356000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 2798000000,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+      "trailer": "https://www.youtube.com/watch?v=TcMBFSGVi1c",
+      "tags": [
+        "Marvel",
+        "Avengers",
+        "Thanos",
+        "Infinity Stones",
+        "superhéroes"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Star Wars: Episode IV - A New Hope",
+      "synopsis": "Un joven granjero llamado Luke Skywalker se une a un grupo de rebeldes para luchar contra el Imperio Galáctico y destruir la Estrella de la Muerte.",
+      "releaseDate": "1977-05-25",
+      "duration": 121,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "imdb": {
+          "score": 8.6,
+          "votes": 1400000
+        },
+        "rottenTomatoes": 93,
+        "metacritic": 90
+      },
+      "cast": [
+        {
+          "actor": "Mark Hamill",
+          "character": "Luke Skywalker",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Harrison Ford",
+          "character": "Han Solo",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Carrie Fisher",
+          "character": "Princesa Leia Organa",
+          "role": "Protagonista"
+        }
+      ],
+      "crew": [
+        {
+          "name": "George Lucas",
+          "role": "Guionista"
+        },
+        {
+          "name": "John Williams",
+          "role": "Música"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French",
+          "German"
+        ],
+        "country": "United States",
+        "budget": {
+          "amount": 11000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 775000000,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "trailer": "https://www.youtube.com/watch?v=vZ734NWnAHA",
+      "tags": [
+        "Star Wars",
+        "rebeldes",
+        "imperio",
+        "espacio"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Game of Thrones",
+      "synopsis": "Nueve familias nobles luchan por el control de los Siete Reinos de Westeros, mientras una antigua amenaza regresa tras miles de años.",
+      "releaseDate": "2011-04-17",
+      "duration": 60,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090344",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "imdb": {
+          "score": 9.2,
+          "votes": 2200000
+        }
+      },
+      "cast": [
+        {
+          "actor": "Emilia Clarke",
+          "character": "Daenerys Targaryen",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Kit Harington",
+          "character": "Jon Snow",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Peter Dinklage",
+          "character": "Tyrion Lannister",
+          "role": "Protagonista"
+        }
+      ],
+      "crew": [
+        {
+          "name": "George R.R. Martin",
+          "role": "Autor original"
+        },
+        {
+          "name": "Ramin Djawadi",
+          "role": "Compositor"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French",
+          "Portuguese"
+        ],
+        "country": "United States"
+      },
+      "poster": "https://image.tmdb.org/t/p/w500/gameofthrones.jpg",
+      "trailer": "https://www.youtube.com/watch?v=gcTkNV5Vg1E",
+      "tags": [
+        "fantasy",
+        "dragons",
+        "politics",
+        "epic"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Breaking Bad",
+      "synopsis": "Un profesor de química con cáncer terminal comienza a producir metanfetaminas para asegurar el futuro de su familia.",
+      "releaseDate": "2008-01-20",
+      "duration": 47,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090344",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "imdb": {
+          "score": 9.5,
+          "votes": 2000000
+        }
+      },
+      "cast": [
+        {
+          "actor": "Bryan Cranston",
+          "character": "Walter White",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Aaron Paul",
+          "character": "Jesse Pinkman",
+          "role": "Protagonista"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Vince Gilligan",
+          "role": "Creador"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French"
+        ],
+        "country": "United States"
+      },
+      "poster": "https://image.tmdb.org/t/p/w500/breakingbad.jpg",
+      "trailer": "https://www.youtube.com/watch?v=HhesaQXLuRY",
+      "tags": [
+        "crime",
+        "drugs",
+        "antihero"
+      ],
+      "isActive": true
+    }
+  ]
+}

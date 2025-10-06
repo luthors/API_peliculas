@@ -1,0 +1,303 @@
+{
+  "media": [
+    {
+      "title": "Star Wars: Episode IV - A New Hope",
+      "synopsis": "Un joven granjero llamado Luke Skywalker se une a un grupo de rebeldes para luchar contra el Imperio Galáctico y destruir la Estrella de la Muerte.",
+      "releaseDate": "1977-05-25",
+      "duration": 121,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "imdb": {
+          "score": 8.6,
+          "votes": 1400000
+        },
+        "rottenTomatoes": 93,
+        "metacritic": 90
+      },
+      "cast": [
+        {
+          "actor": "Mark Hamill",
+          "character": "Luke Skywalker",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Harrison Ford",
+          "character": "Han Solo",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Carrie Fisher",
+          "character": "Princesa Leia Organa",
+          "role": "Protagonista"
+        }
+      ],
+      "crew": [
+        {
+          "name": "George Lucas",
+          "role": "Guionista"
+        },
+        {
+          "name": "John Williams",
+          "role": "Música"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French",
+          "German"
+        ],
+        "country": "United States",
+        "budget": {
+          "amount": 11000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 775000000,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "trailer": "https://www.youtube.com/watch?v=vZ734NWnAHA",
+      "tags": [
+        "Star Wars",
+        "rebeldes",
+        "imperio",
+        "espacio"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Game of Thrones",
+      "synopsis": "Nueve familias nobles luchan por el control de los Siete Reinos de Westeros, mientras una antigua amenaza regresa tras miles de años.",
+      "releaseDate": "2011-04-17",
+      "duration": 60,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090344",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "imdb": {
+          "score": 9.2,
+          "votes": 2200000
+        }
+      },
+      "cast": [
+        {
+          "actor": "Emilia Clarke",
+          "character": "Daenerys Targaryen",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Kit Harington",
+          "character": "Jon Snow",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Peter Dinklage",
+          "character": "Tyrion Lannister",
+          "role": "Protagonista"
+        }
+      ],
+      "crew": [
+        {
+          "name": "George R.R. Martin",
+          "role": "Autor original"
+        },
+        {
+          "name": "Ramin Djawadi",
+          "role": "Compositor"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French",
+          "Portuguese"
+        ],
+        "country": "United States"
+      },
+      "poster": "https://image.tmdb.org/t/p/w500/gameofthrones.jpg",
+      "trailer": "https://www.youtube.com/watch?v=gcTkNV5Vg1E",
+      "tags": [
+        "fantasy",
+        "dragons",
+        "politics",
+        "epic"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Breaking Bad",
+      "synopsis": "Un profesor de química con cáncer terminal comienza a producir metanfetaminas para asegurar el futuro de su familia.",
+      "releaseDate": "2008-01-20",
+      "duration": 47,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090344",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "imdb": {
+          "score": 9.5,
+          "votes": 2000000
+        }
+      },
+      "cast": [
+        {
+          "actor": "Bryan Cranston",
+          "character": "Walter White",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Aaron Paul",
+          "character": "Jesse Pinkman",
+          "role": "Protagonista"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Vince Gilligan",
+          "role": "Creador"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French"
+        ],
+        "country": "United States"
+      },
+      "poster": "https://image.tmdb.org/t/p/w500/breakingbad.jpg",
+      "trailer": "https://www.youtube.com/watch?v=HhesaQXLuRY",
+      "tags": [
+        "crime",
+        "drugs",
+        "antihero"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Stranger Things",
+      "synopsis": "En un pueblo de Indiana en los años 80, un grupo de niños descubre un mundo paralelo llamado el 'Upside Down'.",
+      "releaseDate": "2016-07-15",
+      "duration": 50,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090343",
+        "68e2ccbee06821ba04090346"
+      ],
+      "rating": {
+        "imdb": {
+          "score": 8.7,
+          "votes": 1300000
+        }
+      },
+      "cast": [
+        {
+          "actor": "Millie Bobby Brown",
+          "character": "Eleven",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Finn Wolfhard",
+          "character": "Mike Wheeler",
+          "role": "Protagonista"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Kyle Dixon & Michael Stein",
+          "role": "Compositores"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French",
+          "Portuguese"
+        ],
+        "country": "United States"
+      },
+      "poster": "https://image.tmdb.org/t/p/w500/strangerthings.jpg",
+      "trailer": "https://www.youtube.com/watch?v=b9EkMc79ZSU",
+      "tags": [
+        "mystery",
+        "sci-fi",
+        "retro"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "The Witcher",
+      "synopsis": "Geralt de Rivia, un cazador de monstruos mutante, lucha por encontrar su lugar en un mundo donde las personas son más perversas que las bestias.",
+      "releaseDate": "2019-12-20",
+      "duration": 60,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "imdb": {
+          "score": 8.0,
+          "votes": 600000
+        }
+      },
+      "cast": [
+        {
+          "actor": "Henry Cavill",
+          "character": "Geralt of Rivia",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Anya Chalotra",
+          "character": "Yennefer de Vengerberg",
+          "role": "Protagonista"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Andrzej Sapkowski",
+          "role": "Autor original"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French",
+          "German"
+        ],
+        "country": "United States"
+      },
+      "poster": "https://image.tmdb.org/t/p/w500/witcher.jpg",
+      "trailer": "https://www.youtube.com/watch?v=ndl1W4ltcmg",
+      "tags": [
+        "fantasy",
+        "magic",
+        "monsters"
+      ],
+      "isActive": true
+    }
+  ]
+}

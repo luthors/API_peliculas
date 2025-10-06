@@ -1,84 +1,31 @@
 Evidencia de aprendizaje: API REST - NodeJs
- 
 
 Objetivo:
 Desarrollar una API REST utilizando JavaScript del lado del servidor con NodeJs.
 
- 
-
 Instrucciones:
 Para el desarrollo de la actividad se debe realizar lo siguiente:
-
 Leer el documento: Caso_Estudio_Peliculas.pdf
-
 Diseñar y construir una API REST que permita realizar lo solicitado en los módulos de: Genero, Director, Productora, Tipo y Media (Películas y series).
-
 Para más comprensión de la actividad se recomienda leer la siguiente información:
-
 https://www.bbvaapimarket.com/es/mundo-api/api-rest-que-es-y-cuales-son-sus-ventajas-en-el-desarrollo-de-proyectos/Links to an external site.Links to an external site.
-
 https://www.redhat.com/es/topics/api/what-is-a-rest-api#:~:text=Una%20API%20de%20REST%2C%20o,de%20estado%20representacional%20(REST).Links to an external site.Links to an external site.
-
 https://www.itdo.com/blog/que-es-node-js-y-para-que-sirve/Links to an external site.Links to an external site.
-
 https://kinsta.com/es/base-de-conocimiento/que-es-node-js/Links to an external site.Links to an external site.
-
 https://www.lucushost.com/blog/que-es-node-js/Links to an external site.Links to an external site.
-
 https://expressjs.com/es/Links to an external site.Links to an external site.
 
 Aspectos a tener en cuenta para construir la API REST:
-
 Diseñar la base de datos.
-
 Construir los distintos métodos que realizaran las operaciones requeridas de la API (POST, PUT, DELETE, GET, etc.).
-
 El funcionamiento de la API se realizará utilizando postman o algún otro cliente que el estudiante considere.
-
 Para esta actividad el estudiante se apoyará en el material dado por el tutor en los encuentros sincrónicos y anuncios a través de la plataforma de Canvas. Por lo tanto, se recomienda asistir a los encuentros o mirar las grabaciones de las sesiones y estar activos en la plataforma de Canvas.
-
- 
 
 Entregar:
 Código fuente montado en Git (GitHub o Bitbucket).
-
 Video montado en YouTube explicando el funcionamiento de la aplicación. El video deberá ser claro, sin ruidos y con buena calidad.
-
 Si la actividad se realizó en grupo, antes de iniciar la explicación de la actividad nombrar a los compañeros con los cuales se desarrolló la actividad.
-
 Si el estudiante no puede subir el video, entonces deberá crear un documento con portada, introducción, desarrollo e explicación de cada servicio realizado y conclusión, utilizando las normas APA.
-
 Finalmente, haz clic en el botón Cargar Tarea, sube cada archivo y presiona el botón Enviar para remitirlo a tu asesor, con el fin de que este lo evalúe y realice la respectiva retalimentación.
-
- 
-
 Para conocer los criterios de evaluación, revisa la Rúbrica de la Evidencia de Aprendizaje 1.
-
- 
 Haz clic en Siguiente y demos cierre a esta unidad.
-
- 
-2%
-Rúbrica
-Rúbrica: Evidencia de Aprendizaje 1
-Rúbrica: Evidencia de Aprendizaje 1
-Criterios	Calificaciones	Pts
-Este criterio depende de una competencia de aprendizajeAprendizaje API REST
-85 pts
-La API permite crear y actualizar tipo de género, director, pro-ductora, tipo y media (Películas y series).
-70 pts
-La API permite crear y actuali-zar 4 módulos de los 5 reque-ridos.
-60 pts
-La API permite crear y actualizar 3 de los 5 módulos requeridos.
-45 pts
-La API permite realizar alguna operación de crear o actualizar de cualquier modulo.
-0 pts
-No entrega la acti-vidad
-85 pts
-Este criterio depende de una competencia de aprendizajePuntualidad y entrega
-10 pts
-Entrega puntual y correctamente, según lo pactado.
-0 pts
-Su entrega es fuera de tiempo pactado.
-10 pts
-Puntos totales: 95

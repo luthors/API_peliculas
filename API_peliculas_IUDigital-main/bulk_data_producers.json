@@ -1,0 +1,194 @@
+[
+  {
+    "name": "Marvel Studios",
+    "description": "Estudio cinematográfico estadounidense conocido por el Universo Cinematográfico de Marvel (MCU)",
+    "foundedYear": 1993,
+    "country": "Estados Unidos",
+    "headquarters": {
+      "city": "Burbank",
+      "address": "500 South Buena Vista Street",
+      "zipCode": "91521"
+    },
+    "contact": {
+      "website": "https://www.marvel.com",
+      "email": "info@marvel.com"
+    },
+    "specialties": ["accion", "ciencia-ficcion", "aventura", "fantasia"],
+    "budget": {
+      "currency": "USD",
+      "range": "blockbuster"
+    }
+  },
+  {
+    "name": "Warner Bros. Pictures",
+    "description": "Una de las principales compañías de entretenimiento del mundo, fundada en 1923",
+    "foundedYear": 1923,
+    "country": "Estados Unidos",
+    "headquarters": {
+      "city": "Burbank",
+      "address": "4000 Warner Boulevard",
+      "zipCode": "91522"
+    },
+    "contact": {
+      "website": "https://www.warnerbros.com",
+      "email": "contact@warnerbros.com"
+    },
+    "specialties": ["accion", "drama", "comedia", "fantasia", "thriller"],
+    "budget": {
+      "currency": "USD",
+      "range": "blockbuster"
+    }
+  },
+  {
+    "name": "Universal Pictures",
+    "description": "Estudio cinematográfico estadounidense fundado en 1912, uno de los más antiguos de Hollywood",
+    "foundedYear": 1912,
+    "country": "Estados Unidos",
+    "headquarters": {
+      "city": "Universal City",
+      "address": "100 Universal City Plaza",
+      "zipCode": "91608"
+    },
+    "contact": {
+      "website": "https://www.universalpictures.com"
+    },
+    "specialties": ["accion", "terror", "comedia", "thriller", "animacion"],
+    "budget": {
+      "currency": "USD",
+      "range": "blockbuster"
+    }
+  },
+  {
+    "name": "Sony Pictures Entertainment",
+    "description": "División cinematográfica de Sony Corporation, conocida por franquicias como Spider-Man",
+    "foundedYear": 1987,
+    "country": "Estados Unidos",
+    "headquarters": {
+      "city": "Culver City",
+      "address": "10202 West Washington Boulevard",
+      "zipCode": "90232"
+    },
+    "contact": {
+      "website": "https://www.sonypictures.com"
+    },
+    "specialties": ["accion", "comedia", "drama", "ciencia-ficcion"],
+    "budget": {
+      "currency": "USD",
+      "range": "high"
+    }
+  },
+  {
+    "name": "Paramount Pictures",
+    "description": "Estudio cinematográfico estadounidense fundado en 1912, conocido por franquicias icónicas",
+    "foundedYear": 1912,
+    "country": "Estados Unidos",
+    "headquarters": {
+      "city": "Hollywood",
+      "address": "5555 Melrose Avenue",
+      "zipCode": "90038"
+    },
+    "contact": {
+      "website": "https://www.paramount.com"
+    },
+    "specialties": ["accion", "aventura", "drama", "thriller"],
+    "budget": {
+      "currency": "USD",
+      "range": "blockbuster"
+    }
+  },
+  {
+    "name": "Netflix Studios",
+    "description": "División de producción original de Netflix, líder en contenido streaming",
+    "foundedYear": 2013,
+    "country": "Estados Unidos",
+    "headquarters": {
+      "city": "Los Gatos",
+      "address": "100 Winchester Circle",
+      "zipCode": "95032"
+    },
+    "contact": {
+      "website": "https://www.netflix.com"
+    },
+    "specialties": ["drama", "comedia", "documental", "thriller", "ciencia-ficcion"],
+    "budget": {
+      "currency": "USD",
+      "range": "high"
+    }
+  },
+  {
+    "name": "A24",
+    "description": "Compañía independiente conocida por películas artísticas y de autor",
+    "foundedYear": 2012,
+    "country": "Estados Unidos",
+    "headquarters": {
+      "city": "Nueva York",
+      "address": "31 West 27th Street",
+      "zipCode": "10001"
+    },
+    "contact": {
+      "website": "https://a24films.com"
+    },
+    "specialties": ["drama", "terror", "comedia", "thriller"],
+    "budget": {
+      "currency": "USD",
+      "range": "medium"
+    }
+  },
+  {
+    "name": "Studio Ghibli",
+    "description": "Estudio de animación japonés fundado por Hayao Miyazaki y Isao Takahata",
+    "foundedYear": 1985,
+    "country": "Japón",
+    "headquarters": {
+      "city": "Tokio",
+      "address": "1-4-25 Kajino-cho, Koganei",
+      "zipCode": "184-0002"
+    },
+    "contact": {
+      "website": "https://www.ghibli.jp"
+    },
+    "specialties": ["animacion", "fantasia", "aventura", "familia"],
+    "budget": {
+      "currency": "JPY",
+      "range": "medium"
+    }
+  },
+  {
+    "name": "Lionsgate Entertainment",
+    "description": "Compañía de entretenimiento canadiense-estadounidense conocida por franquicias de acción",
+    "foundedYear": 1997,
+    "country": "Canadá",
+    "headquarters": {
+      "city": "Santa Monica",
+      "address": "2700 Colorado Avenue",
+      "zipCode": "90404"
+    },
+    "contact": {
+      "website": "https://www.lionsgate.com"
+    },
+    "specialties": ["accion", "thriller", "terror", "drama"],
+    "budget": {
+      "currency": "USD",
+      "range": "medium"
+    }
+  },
+  {
+    "name": "Focus Features",
+    "description": "División de películas especializadas de Universal Pictures, enfocada en cine de autor",
+    "foundedYear": 2002,
+    "country": "Estados Unidos",
+    "headquarters": {
+      "city": "Nueva York",
+      "address": "65 Bleecker Street",
+      "zipCode": "10012"
+    },
+    "contact": {
+      "website": "https://www.focusfeatures.com"
+    },
+    "specialties": ["drama", "comedia", "biografia", "historia"],
+    "budget": {
+      "currency": "USD",
+      "range": "medium"
+    }
+  }
+]

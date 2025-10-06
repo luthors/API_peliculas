@@ -1,0 +1,22 @@
+{
+  "directors": [
+    {
+      "name": "Christopher Nolan",
+      "birthDate": "1970-07-30",
+      "nationality": "Británico",
+      "biography": "Director y guionista británico conocido por sus películas complejas y narrativas no lineales."
+    },
+    {
+      "name": "Quentin Tarantino",
+      "birthDate": "1963-03-27",
+      "nationality": "Estadounidense",
+      "biography": "Director estadounidense famoso por sus diálogos distintivos y referencias cinematográficas."
+    },
+    {
+      "name": "Martin Scorsese",
+      "birthDate": "1942-11-17",
+      "nationality": "Estadounidense",
+      "biography": "Director estadounidense reconocido por sus películas sobre crimen organizado y drama urbano."
+    }
+  ]
+}

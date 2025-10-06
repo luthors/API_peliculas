@@ -1,0 +1,19 @@
+{
+  "types": [
+    {
+      "name": "Película",
+      "description": "Largometraje cinematográfico",
+      "category": "Largometraje"
+    },
+    {
+      "name": "Serie",
+      "description": "Serie de televisión",
+      "category": "Serie TV"
+    },
+    {
+      "name": "Documental",
+      "description": "Película documental",
+      "category": "Documental"
+    }
+  ]
+}

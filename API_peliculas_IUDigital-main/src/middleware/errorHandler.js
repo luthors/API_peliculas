@@ -9,9 +9,23 @@ const errorHandler = (err, req, res, next) => {
   // Log del error para debugging
   console.error('🚨 Error capturado:', err);
 
+  // Error de validación personalizado con detalles
+  if (err.name === 'ValidationError' && err.details) {
+    return res.status(400).json({
+      success: false,
+      error: {
+        message: err.message,
+        details: err.details
+      },
+      timestamp: new Date().toISOString(),
+      path: req.originalUrl,
+      method: req.method
+    });
+  }
+
   // Error de validación de Mongoose
   if (err.name === 'ValidationError') {
-    const message = Object.values(err.errors).map(val => val.message).join(', ');
+    const message = Object.values(err.errors || {}).map(val => val.message).join(', ');
     error = {
       message: `Error de validación: ${message}`,
       statusCode: 400

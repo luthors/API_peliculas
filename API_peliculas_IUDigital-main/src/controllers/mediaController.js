@@ -117,6 +117,17 @@ const getAllMedia = async (req, res, next) => {
     });
 
   } catch (error) {
+    // Manejar errores de validación de referencias personalizados
+    if (error.name === 'ValidationError' && error.details) {
+      return res.status(400).json({
+        success: false,
+        error: {
+          message: error.message,
+          details: error.details
+        }
+      });
+    }
+    
     next(error);
   }
 };

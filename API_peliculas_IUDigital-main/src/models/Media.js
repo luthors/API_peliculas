@@ -253,20 +253,141 @@ mediaSchema.index({ producer: 1, releaseDate: -1 });
 mediaSchema.index({ 'technical.country': 1, releaseDate: -1 });
 
 // Validaciones personalizadas
-mediaSchema.pre('save', function(next) {
-  // Validar que tenga al menos un género
-  if (!this.genres || this.genres.length === 0) {
-    return next(new Error('Debe tener al menos un género'));
-  }
-  
-  // Validar información de series
-  if (this.seriesInfo && (this.seriesInfo.seasons || this.seriesInfo.episodes)) {
-    if (!this.seriesInfo.seasons || !this.seriesInfo.episodes) {
-      return next(new Error('Para series, tanto temporadas como episodios son obligatorios'));
+mediaSchema.pre('save', async function(next) {
+  try {
+    // Verificar si la conexión está lista antes de hacer consultas
+    if (mongoose.connection.readyState !== 1) {
+      return next();
     }
+
+    const validationErrors = [];
+
+    // Validar que el título no exista (solo para documentos nuevos)
+    if (this.isNew && this.title) {
+      const existingMedia = await mongoose.model('Media').findOne({ 
+        title: { $regex: new RegExp(`^${this.title.trim()}$`, 'i') },
+        isActive: true 
+      });
+      if (existingMedia) {
+        validationErrors.push({
+          type: 'field',
+          msg: `Ya existe un media con el título '${this.title}'`,
+          path: 'title',
+          location: 'body'
+        });
+      }
+    }
+
+    // Validar que tenga al menos un género
+    if (!this.genres || this.genres.length === 0) {
+      validationErrors.push({
+        type: 'field',
+        msg: 'Debe tener al menos un género',
+        path: 'genres',
+        location: 'body'
+      });
+    }
+
+    // Validar que el tipo exista
+    if (this.type) {
+      const Type = mongoose.model('Type');
+      const typeExists = await Type.findById(this.type);
+      if (!typeExists) {
+        validationErrors.push({
+          type: 'field',
+          msg: `El tipo con ID '${this.type}' no existe`,
+          path: 'type',
+          location: 'body'
+        });
+      }
+    }
+
+    // Validar que el director exista
+    if (this.director) {
+      const Director = mongoose.model('Director');
+      const directorExists = await Director.findById(this.director);
+      if (!directorExists) {
+        validationErrors.push({
+          type: 'field',
+          msg: `El director con ID '${this.director}' no existe`,
+          path: 'director',
+          location: 'body'
+        });
+      }
+    }
+
+    // Validar que la productora exista
+    if (this.producer) {
+      const Producer = mongoose.model('Producer');
+      const producerExists = await Producer.findById(this.producer);
+      if (!producerExists) {
+        validationErrors.push({
+          type: 'field',
+          msg: `La productora con ID '${this.producer}' no existe`,
+          path: 'producer',
+          location: 'body'
+        });
+      }
+    }
+
+    // Validar que todos los géneros existan
+    if (this.genres && this.genres.length > 0) {
+      const Genre = mongoose.model('Genre');
+      const genreIds = this.genres.filter(id => id); // Filtrar valores null/undefined
+      
+      if (genreIds.length > 0) {
+        const existingGenres = await Genre.find({ _id: { $in: genreIds } });
+        const existingGenreIds = existingGenres.map(g => g._id.toString());
+        
+        const invalidGenres = genreIds.filter(id => !existingGenreIds.includes(id.toString()));
+        
+        if (invalidGenres.length > 0) {
+          invalidGenres.forEach(genreId => {
+            validationErrors.push({
+              type: 'field',
+              msg: `El género con ID '${genreId}' no existe`,
+              path: 'genres',
+              location: 'body'
+            });
+          });
+        }
+      }
+    }
+
+    // Si hay errores de validación, crear un error personalizado
+    if (validationErrors.length > 0) {
+      const error = new Error('Errores de validación de referencias');
+      error.name = 'ValidationError';
+      error.details = validationErrors;
+      return next(error);
+    }
+
+    // Validar información de series
+    if (this.seriesInfo && (this.seriesInfo.seasons || this.seriesInfo.episodes)) {
+      if (!this.seriesInfo.seasons || !this.seriesInfo.episodes) {
+        const error = new Error('Para series, tanto temporadas como episodios son obligatorios');
+        return next(error);
+      }
+    }
+    
+    next();
+  } catch (error) {
+    // Si hay un error de conexión, continuar sin validación de referencias
+    console.warn('Advertencia: No se pudo validar referencias debido a problemas de conexión');
+    
+    // Solo validar reglas básicas
+    if (!this.genres || this.genres.length === 0) {
+      return next(new Error('Debe tener al menos un género'));
+    }
+    
+    if (this.seriesInfo && (this.seriesInfo.seasons || this.seriesInfo.episodes)) {
+      if (!this.seriesInfo.seasons || !this.seriesInfo.episodes) {
+        return next(new Error('Para series, tanto temporadas como episodios son obligatorios'));
+      }
+    }
+    
+    next();
   }
-  
-  next();
 });
 
 // Middleware pre-save para normalizar datos

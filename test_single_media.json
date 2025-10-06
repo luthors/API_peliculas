@@ -1,0 +1,14 @@
+{
+  "title": "Test Movie",
+  "synopsis": "A test movie for debugging purposes",
+  "releaseDate": "2023-01-01",
+  "duration": 120,
+  "technical": {
+    "language": "English",
+    "country": "United States"
+  },
+  "genres": ["68e2ccbee06821ba04090343"],
+  "type": "68e2cde0e06821ba04090359",
+  "director": "68e2cde5e06821ba0409035b",
+  "producer": "68e2cdf1e06821ba0409035f"
+}

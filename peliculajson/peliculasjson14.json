@@ -1,0 +1,451 @@
+{
+  "media": [
+    {
+      "title": "WandaVision",
+      "synopsis": "Wanda Maximoff y Vision viven una vida ideal en los suburbios, pero pronto comienzan a sospechar que todo no es lo que parece.",
+      "releaseDate": "2021-01-15",
+      "duration": 40,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba04090360",
+      "genres": [
+        "68e2ccbee06821ba04090343",
+        "68e2ccbee06821ba04090344",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 82,
+          "votes": 12500
+        }
+      },
+      "cast": [
+        {
+          "actor": "Elizabeth Olsen",
+          "character": "Wanda Maximoff",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Paul Bettany",
+          "character": "Vision",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Kathryn Hahn",
+          "character": "Agatha Harkness",
+          "role": "Antagonista"
+        },
+        {
+          "actor": "Teyonah Parris",
+          "character": "Monica Rambeau",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Evan Peters",
+          "character": "Ralph Bohner",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Matt Shakman",
+          "role": "Director"
+        },
+        {
+          "name": "Jac Schaeffer",
+          "role": "Creadora/Guionista"
+        },
+        {
+          "name": "Stan Lee",
+          "role": "Creador de personajes"
+        },
+        {
+          "name": "Jack Kirby",
+          "role": "Creador de personajes"
+        }
+      ],
+      "technical": {
+        "language": "Español",
+        "subtitles": [
+          "Inglés",
+          "Francés",
+          "Italiano"
+        ],
+        "country": "Estados Unidos",
+        "budget": {
+          "amount": 225000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": null,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
+      "trailer": "https://www.youtube.com/watch?v=sj9J2ecsSpo",
+      "tags": [
+        "Marvel",
+        "Wanda",
+        "Vision",
+        "sitcom",
+        "hechicería"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "The Falcon and the Winter Soldier",
+      "synopsis": "Sam Wilson y Bucky Barnes unen fuerzas en una aventura global que pone a prueba sus habilidades, su paciencia y su fe.",
+      "releaseDate": "2021-03-19",
+      "duration": 50,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba04090360",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090344"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 78,
+          "votes": 9500
+        }
+      },
+      "cast": [
+        {
+          "actor": "Anthony Mackie",
+          "character": "Sam Wilson / Falcon",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Sebastian Stan",
+          "character": "Bucky Barnes / Winter Soldier",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Wyatt Russell",
+          "character": "John Walker",
+          "role": "Antagonista"
+        },
+        {
+          "actor": "Daniel Brühl",
+          "character": "Barón Zemo",
+          "role": "Antagonista"
+        },
+        {
+          "actor": "Emily VanCamp",
+          "character": "Sharon Carter",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Kari Skogland",
+          "role": "Directora"
+        },
+        {
+          "name": "Malcolm Spellman",
+          "role": "Creador/Guionista"
+        },
+        {
+          "name": "Stan Lee",
+          "role": "Creador de personajes"
+        },
+        {
+          "name": "Jack Kirby",
+          "role": "Creador de personajes"
+        }
+      ],
+      "technical": {
+        "language": "Español",
+        "subtitles": [
+          "Inglés",
+          "Francés",
+          "Portugués"
+        ],
+        "country": "Estados Unidos",
+        "budget": {
+          "amount": 150000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": null,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
+      "trailer": "https://www.youtube.com/watch?v=IWBsDaFWyTE",
+      "tags": [
+        "Marvel",
+        "Falcon",
+        "Winter Soldier",
+        "Capitán América"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Hawkeye",
+      "synopsis": "Clint Barton, alias Hawkeye, se enfrenta a amenazas de su pasado mientras entrena a una joven arquera llamada Kate Bishop en la ciudad de Nueva York.",
+      "releaseDate": "2021-11-24",
+      "duration": 50,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba04090360",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090345"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 79,
+          "votes": 8500
+        }
+      },
+      "cast": [
+        {
+          "actor": "Jeremy Renner",
+          "character": "Clint Barton / Hawkeye",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Hailee Steinfeld",
+          "character": "Kate Bishop",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Florence Pugh",
+          "character": "Yelena Belova",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Alaqua Cox",
+          "character": "Maya Lopez / Echo",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Tony Dalton",
+          "character": "Jack Duquesne",
+          "role": "Antagonista"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Rhys Thomas",
+          "role": "Director"
+        },
+        {
+          "name": "Jonathan Igla",
+          "role": "Creador/Guionista"
+        },
+        {
+          "name": "Stan Lee",
+          "role": "Creador de personajes"
+        }
+      ],
+      "technical": {
+        "language": "Español",
+        "subtitles": [
+          "Inglés",
+          "Francés",
+          "Italiano"
+        ],
+        "country": "Estados Unidos",
+        "budget": {
+          "amount": 150000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": null,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ct5i8ncb1l0lHIaYlrh5rSe7uYk.jpg",
+      "trailer": "https://www.youtube.com/watch?v=5VYb3B1ETlk",
+      "tags": [
+        "Marvel",
+        "Hawkeye",
+        "Kate Bishop",
+        "arquería"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Moon Knight",
+      "synopsis": "Steven Grant, un empleado de una tienda de regalos, comienza a experimentar apagones y recuerdos de otra vida como el mercenario Marc Spector, avatar del dios egipcio Khonshu.",
+      "releaseDate": "2022-03-30",
+      "duration": 50,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba04090360",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 78,
+          "votes": 9000
+        }
+      },
+      "cast": [
+        {
+          "actor": "Oscar Isaac",
+          "character": "Marc Spector / Moon Knight",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Ethan Hawke",
+          "character": "Arthur Harrow",
+          "role": "Antagonista"
+        },
+        {
+          "actor": "May Calamawy",
+          "character": "Layla El-Faouly",
+          "role": "Secundario"
+        },
+        {
+          "actor": "F. Murray Abraham",
+          "character": "Khonshu (voz)",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Mohamed Diab",
+          "role": "Director"
+        },
+        {
+          "name": "Jeremy Slater",
+          "role": "Creador/Guionista"
+        },
+        {
+          "name": "Doug Moench",
+          "role": "Creador de personajes"
+        },
+        {
+          "name": "Don Perlin",
+          "role": "Creador de personajes"
+        }
+      ],
+      "technical": {
+        "language": "Español",
+        "subtitles": [
+          "Inglés",
+          "Francés",
+          "Portugués"
+        ],
+        "country": "Estados Unidos",
+        "budget": {
+          "amount": 150000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": null,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/94o3z0x0qJk9T0l7QIW1zRXLma7.jpg",
+      "trailer": "https://www.youtube.com/watch?v=x7Krla_UxRg",
+      "tags": [
+        "Marvel",
+        "Moon Knight",
+        "Khonshu",
+        "Egipto"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Ms. Marvel",
+      "synopsis": "Kamala Khan, una adolescente musulmana de Nueva Jersey, obtiene poderes cósmicos y se convierte en la heroína que siempre soñó ser: Ms. Marvel.",
+      "releaseDate": "2022-06-08",
+      "duration": 45,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba04090360",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090343"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 66,
+          "votes": 4500
+        }
+      },
+      "cast": [
+        {
+          "actor": "Iman Vellani",
+          "character": "Kamala Khan / Ms. Marvel",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Matt Lintz",
+          "character": "Bruno Carrelli",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Yasmeen Fletcher",
+          "character": "Nakia Bahadir",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Zenobia Shroff",
+          "character": "Muneeba Khan",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Mohan Kapur",
+          "character": "Yusuf Khan",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Bisha K. Ali",
+          "role": "Creadora/Guionista"
+        },
+        {
+          "name": "Adil El Arbi",
+          "role": "Director"
+        },
+        {
+          "name": "Bilall Fallah",
+          "role": "Director"
+        },
+        {
+          "name": "Stan Lee",
+          "role": "Creador de personajes"
+        }
+      ],
+      "technical": {
+        "language": "Español",
+        "subtitles": [
+          "Inglés",
+          "Francés",
+          "Árabe"
+        ],
+        "country": "Estados Unidos",
+        "budget": {
+          "amount": 150000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": null,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/84Kz8Sd2cwqisf7WwV7EN6Epb7Q.jpg",
+      "trailer": "https://www.youtube.com/watch?v=m9EX0f6V11Y",
+      "tags": [
+        "Marvel",
+        "Kamala Khan",
+        "Ms. Marvel",
+        "adolescencia"
+      ],
+      "isActive": true
+    }
+  ]
+}

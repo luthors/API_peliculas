@@ -17,6 +17,7 @@ import directorRoutes from "./routes/directorRoutes.js";
 import productorRoutes from "./routes/producerRoutes.js";
 import typeRoutes from "./routes/typeRoutes.js";
 import mediaRoutes from "./routes/mediaRoutes.js";
+import bulkRoutes from "./routes/bulkRoutes.js";
 
 
 // Crear instancia de Express
@@ -51,6 +52,7 @@ app.use(`${apiPrefix}/directors`, directorRoutes);
 app.use(`${apiPrefix}/producers`, productorRoutes);
 app.use(`${apiPrefix}/types`, typeRoutes);
 app.use(`${apiPrefix}/media`, mediaRoutes);
+app.use(`${apiPrefix}/bulk`, bulkRoutes);
 
 // Ruta de bienvenida
 app.get("/", (req, res) => {
@@ -79,18 +81,31 @@ const PORT = process.env.PORT || 3001;
 // Función para inicializar la aplicación
 const startServer = async () => {
   try {
-    // Conectar a la base de datos antes de inicializar el servidor
-    await connectDB();
+    // Intentar conectar a la base de datos
+    const dbConnection = await connectDB();
     
-    // Iniciar el servidor solo después de conectar a la base de datos
+    if (dbConnection) {
+      console.log('✅ Base de datos conectada correctamente');
+    } else {
+      console.log('⚠️  Ejecutando sin conexión a base de datos');
+    }
+    
+    // Iniciar el servidor independientemente del estado de la base de datos
     app.listen(PORT, () => {
       console.log(`🚀 Servidor ejecutándose en puerto ${PORT}`);
       console.log(`🌐 Entorno: ${process.env.NODE_ENV || 'development'}`);
       console.log(`📋 Health check: http://localhost:${PORT}/health`);
     });
   } catch (error) {
-    console.error('❌ Error al inicializar la aplicación:', error);
-    process.exit(1);
+    console.error('❌ Error al inicializar la aplicación:', error.message);
+    console.log('⚠️  Servidor continuará ejecutándose sin conexión a base de datos');
+    
+    // Iniciar servidor sin base de datos
+    app.listen(PORT, () => {
+      console.log(`🚀 Servidor ejecutándose en puerto ${PORT}`);
+      console.log(`🌐 Entorno: ${process.env.NODE_ENV || 'development'}`);
+      console.log(`📋 Health check: http://localhost:${PORT}/health`);
+    });
   }
 };
 

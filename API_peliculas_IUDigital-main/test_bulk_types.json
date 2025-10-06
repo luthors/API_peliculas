@@ -1,0 +1,49 @@
+{
+  "types": [
+    {
+      "name": "Película",
+      "description": "Largometraje cinematográfico para exhibición en salas",
+      "category": "Largometraje",
+      "format": "Digital",
+      "duration": {
+        "typical": {
+          "min": 90,
+          "max": 180
+        },
+        "unit": "minutos"
+      },
+      "characteristics": ["Narrativa completa", "Exhibición comercial"],
+      "platforms": ["Cine", "Streaming", "TV"]
+    },
+    {
+      "name": "Serie",
+      "description": "Contenido episódico para televisión o plataformas digitales",
+      "category": "Serie TV",
+      "format": "Digital",
+      "duration": {
+        "typical": {
+          "min": 20,
+          "max": 60
+        },
+        "unit": "minutos"
+      },
+      "characteristics": ["Episódico", "Temporadas múltiples"],
+      "platforms": ["TV", "Streaming"]
+    },
+    {
+      "name": "Documental",
+      "description": "Contenido no ficción que documenta la realidad",
+      "category": "Documental",
+      "format": "Digital",
+      "duration": {
+        "typical": {
+          "min": 60,
+          "max": 120
+        },
+        "unit": "minutos"
+      },
+      "characteristics": ["No ficción", "Educativo"],
+      "platforms": ["Cine", "TV", "Streaming"]
+    }
+  ]
+}

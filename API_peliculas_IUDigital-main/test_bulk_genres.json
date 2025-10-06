@@ -1,0 +1,29 @@
+{
+  "genres": [
+    {
+      "name": "Acción",
+      "description": "Películas y series con secuencias de acción, persecuciones y combates",
+      "tags": ["accion", "aventura", "combate"]
+    },
+    {
+      "name": "Drama",
+      "description": "Contenido que se centra en el desarrollo de personajes y situaciones emocionales",
+      "tags": ["drama", "emocional", "personajes"]
+    },
+    {
+      "name": "Comedia",
+      "description": "Entretenimiento diseñado para hacer reír y divertir al público",
+      "tags": ["comedia", "humor", "divertido"]
+    },
+    {
+      "name": "Terror",
+      "description": "Contenido diseñado para asustar, crear suspense y generar miedo",
+      "tags": ["terror", "miedo", "suspense"]
+    },
+    {
+      "name": "Ciencia Ficción",
+      "description": "Historias que exploran conceptos científicos y tecnológicos futuristas",
+      "tags": ["sci-fi", "futuro", "tecnologia"]
+    }
+  ]
+}

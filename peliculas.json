@@ -1,0 +1,2906 @@
+[
+  {
+    "title": "Los Cuatro Fantásticos: Primeros pasos",
+    "synopsis": "Con un mundo retrofuturista inspirado en los años 60 como telón de fondo, la Primera Familia de Marvel deberá hacer frente a su mayor desafío hasta la fecha. Obligados a buscar el equilibrio entre su papel de héroes y sus fuertes vínculos familiares, tendrán que defender la Tierra de un hambriento dios espacial llamado Galactus y su intrigante heraldo, Estela Plateada.",
+    "releaseDate": "2025-07-24",
+    "duration": 115,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Matt Shakman",
+    "producer": "Marvel Studios",
+    "genres": ["Ciencia ficción", "Aventura"],
+    "rating": { "tmdb": { "score": 72, "votes": null } },
+    "cast": [
+      { "actor": "Pedro Pascal", "character": "Reed Richards / Mr. Fantástico", "role": "Protagonista" },
+      { "actor": "Vanessa Kirby", "character": "Sue Storm / Mujer Invisible", "role": "Protagonista" },
+      { "actor": "Joseph Quinn", "character": "Johnny Storm / Antorcha Humana", "role": "Protagonista" },
+      { "actor": "Ebon Moss-Bachrach", "character": "Ben Grimm / La Mole", "role": "Protagonista" },
+      { "actor": "Por confirmar", "character": "Galactus", "role": "Antagonista" },
+      { "actor": "Por confirmar", "character": "Estela Plateada", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Eric Pearson", "role": "Guionista" },
+      { "name": "Ian Springer", "role": "Guionista" },
+      { "name": "Josh Friedman", "role": "Guionista" },
+      { "name": "Jeff Kaplan", "role": "Guionista" },
+      { "name": "Kat Wood", "role": "Guionista" },
+      { "name": "Stan Lee", "role": "Creador de personajes" },
+      { "name": "Jack Kirby", "role": "Creador de personajes" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "Portuguese"],
+      "country": "United States",
+      "budget": { "amount": null, "currency": "USD" },
+      "boxOffice": { "amount": null, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ckfiXWGEMWrUP53cc6QyHijLlhl.jpg",
+    "trailer": "https://www.youtube.com/watch?v=L1lCRrgTOc4",
+    "tags": ["Marvel", "superhéroes", "Galactus", "Estela Plateada", "retro-futurista", "familia"],
+    "isActive": true
+  },
+
+  {
+    "title": "Avengers: Endgame",
+    "synopsis": "Después de los devastadores eventos de 'Infinity War', los Vengadores restantes deben encontrar una forma de revertir el daño causado por Thanos y restaurar el equilibrio del universo.",
+    "releaseDate": "2019-04-26",
+    "duration": 181,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "68d37ccf90259a0395f694a1",
+    "producer": "68d3795c90259a0395f694b2",
+    "genres": ["68d35480400438b1d96619af", "68d361c2400438b1d96619bf"],
+    "rating": {
+      "imdb": {
+        "score": 8.4,
+        "votes": 1300000
+      },
+      "rottenTomatoes": 94,
+      "metacritic": 78
+    },
+    "cast": [
+      { "actor": "Robert Downey Jr.", "character": "Tony Stark / Iron Man", "role": "Protagonista" },
+      { "actor": "Chris Evans", "character": "Steve Rogers / Capitán América", "role": "Protagonista" },
+      { "actor": "Josh Brolin", "character": "Thanos", "role": "Antagonista" }
+    ],
+    "crew": [
+      { "name": "Christopher Markus", "role": "Guionista" },
+      { "name": "Stephen McFeely", "role": "Guionista" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "Portuguese"],
+      "country": "United States",
+      "budget": { "amount": 356000000, "currency": "USD" },
+      "boxOffice": { "amount": 2797800564, "currency": "USD" }
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "trailer": "https://www.youtube.com/watch?v=TcMBFSGVi1c",
+    "tags": ["Marvel", "superhéroes", "batalla final", "universo"],
+    "isActive": true
+  },
+  {
+    "title": "The Dark Knight",
+    "synopsis": "Batman, con la ayuda del fiscal Harvey Dent y el teniente Gordon, enfrenta al criminal más peligroso de Gotham: el Joker, que desata el caos en la ciudad.",
+    "releaseDate": "2008-07-18",
+    "duration": 152,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "68d37ccf90259a0395f694a2",
+    "producer": "68d3795c90259a0395f694b3",
+    "genres": ["68d35480400438b1d96619af", "68d361c2400438b1d96619bf"],
+    "rating": {
+      "imdb": { "score": 9.0, "votes": 2700000 },
+      "rottenTomatoes": 94,
+      "metacritic": 84
+    },
+    "cast": [
+      { "actor": "Christian Bale", "character": "Bruce Wayne / Batman", "role": "Protagonista" },
+      { "actor": "Heath Ledger", "character": "Joker", "role": "Antagonista" },
+      { "actor": "Aaron Eckhart", "character": "Harvey Dent / Dos Caras", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Jonathan Nolan", "role": "Guionista" },
+      { "name": "Wally Pfister", "role": "Cinematógrafo" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "German", "French"],
+      "country": "United States",
+      "budget": { "amount": 185000000, "currency": "USD" },
+      "boxOffice": { "amount": 1004558444, "currency": "USD" }
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "trailer": "https://www.youtube.com/watch?v=EXeTwQWrcwY",
+    "tags": ["Batman", "Joker", "Gotham", "DC Comics"],
+    "isActive": true
+  },
+  {
+    "title": "Inception",
+    "synopsis": "Un ladrón especializado en entrar en los sueños de las personas para robar secretos corporativos debe realizar la misión más difícil: implantar una idea en lugar de robarla.",
+    "releaseDate": "2010-07-16",
+    "duration": 148,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "68d37ccf90259a0395f694a3",
+    "producer": "68d3795c90259a0395f694b4",
+    "genres": ["68d35480400438b1d96619af", "68d361c2400438b1d96619c1"],
+    "rating": {
+      "imdb": { "score": 8.8, "votes": 2400000 },
+      "rottenTomatoes": 87,
+      "metacritic": 74
+    },
+    "cast": [
+      { "actor": "Leonardo DiCaprio", "character": "Dom Cobb", "role": "Protagonista" },
+      { "actor": "Joseph Gordon-Levitt", "character": "Arthur", "role": "Secundario" },
+      { "actor": "Tom Hardy", "character": "Eames", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Christopher Nolan", "role": "Guionista" },
+      { "name": "Hans Zimmer", "role": "Música" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "Portuguese"],
+      "country": "United States",
+      "budget": { "amount": 160000000, "currency": "USD" },
+      "boxOffice": { "amount": 829895144, "currency": "USD" }
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/edv5CZvWj09upOsy2Y6IwDhK8bt.jpg",
+    "trailer": "https://www.youtube.com/watch?v=YoHD9XEInc0",
+    "tags": ["sueños", "realidad", "psicología", "acción"],
+    "isActive": true
+  },
+  {
+    "title": "Avatar",
+    "synopsis": "Un ex marine parapléjico es enviado a Pandora, un planeta habitado por los Na'vi, donde debe decidir entre cumplir su misión militar o unirse a los nativos en su lucha por sobrevivir.",
+    "releaseDate": "2009-12-18",
+    "duration": 162,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "68d37ccf90259a0395f694a4",
+    "producer": "68d3795c90259a0395f694b5",
+    "genres": ["68d35480400438b1d96619af", "68d361c2400438b1d96619c2"],
+    "rating": {
+      "imdb": { "score": 7.9, "votes": 1400000 },
+      "rottenTomatoes": 82,
+      "metacritic": 83
+    },
+    "cast": [
+      { "actor": "Sam Worthington", "character": "Jake Sully", "role": "Protagonista" },
+      { "actor": "Zoe Saldaña", "character": "Neytiri", "role": "Protagonista" },
+      { "actor": "Stephen Lang", "character": "Coronel Miles Quaritch", "role": "Antagonista" }
+    ],
+    "crew": [
+      { "name": "James Cameron", "role": "Guionista" },
+      { "name": "Mauro Fiore", "role": "Cinematógrafo" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "German"],
+      "country": "United States",
+      "budget": { "amount": 237000000, "currency": "USD" },
+      "boxOffice": { "amount": 2923706026, "currency": "USD" }
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",
+    "trailer": "https://www.youtube.com/watch?v=5PSNL1qE6VY",
+    "tags": ["Pandora", "Na'vi", "ecología", "ciencia ficción"],
+    "isActive": true
+  },
+  {
+    "title": "Titanic",
+    "synopsis": "Una joven de clase alta se enamora de un humilde artista a bordo del lujoso Titanic, en un romance condenado por el destino del barco.",
+    "releaseDate": "1997-12-19",
+    "duration": 195,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "68d37ccf90259a0395f694a5",
+    "producer": "68d3795c90259a0395f694b6",
+    "genres": ["68d35480400438b1d96619b0", "68d361c2400438b1d96619c3"],
+    "rating": {
+      "imdb": { "score": 7.9, "votes": 1300000 },
+      "rottenTomatoes": 88,
+      "metacritic": 75
+    },
+    "cast": [
+      { "actor": "Leonardo DiCaprio", "character": "Jack Dawson", "role": "Protagonista" },
+      { "actor": "Kate Winslet", "character": "Rose DeWitt Bukater", "role": "Protagonista" },
+      { "actor": "Billy Zane", "character": "Cal Hockley", "role": "Antagonista" }
+    ],
+    "crew": [
+      { "name": "James Cameron", "role": "Guionista" },
+      { "name": "James Horner", "role": "Música" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "German"],
+      "country": "United States",
+      "budget": { "amount": 200000000, "currency": "USD" },
+      "boxOffice": { "amount": 2260000000, "currency": "USD" }
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+    "trailer": "https://www.youtube.com/watch?v=kVrqfYjkTdQ",
+    "tags": ["romance", "tragedia", "barco", "historia"],
+    "isActive": true
+  },
+  {
+    "title": "The Godfather",
+    "synopsis": "La historia de la familia Corleone, una de las más poderosas de la mafia italiana en Nueva York, liderada por Don Vito Corleone.",
+    "releaseDate": "1972-03-24",
+    "duration": 175,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "68d37ccf90259a0395f694a6",
+    "producer": "68d3795c90259a0395f694b7",
+    "genres": ["68d35480400438b1d96619b1", "68d361c2400438b1d96619c4"],
+    "rating": {
+      "imdb": { "score": 9.2, "votes": 2000000 },
+      "rottenTomatoes": 97,
+      "metacritic": 100
+    },
+    "cast": [
+      { "actor": "Marlon Brando", "character": "Don Vito Corleone", "role": "Protagonista" },
+      { "actor": "Al Pacino", "character": "Michael Corleone", "role": "Protagonista" },
+      { "actor": "James Caan", "character": "Sonny Corleone", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Francis Ford Coppola", "role": "Guionista" },
+      { "name": "Mario Puzo", "role": "Guionista" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "Italian", "French"],
+      "country": "United States",
+      "budget": { "amount": 6000000, "currency": "USD" },
+      "boxOffice": { "amount": 250000000, "currency": "USD" }
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "trailer": "https://www.youtube.com/watch?v=sY1S34973zA",
+    "tags": ["mafia", "familia", "crimen", "clásico"],
+    "isActive": true
+  },
+  {
+    "title": "Jurassic Park",
+    "synopsis": "Un parque temático de dinosaurios clonados se convierte en un caos cuando las criaturas escapan y amenazan a los visitantes.",
+    "releaseDate": "1993-06-11",
+    "duration": 127,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "68d37ccf90259a0395f694a7",
+    "producer": "68d3795c90259a0395f694b8",
+    "genres": ["68d35480400438b1d96619af", "68d361c2400438b1d96619c5"],
+    "rating": {
+      "imdb": { "score": 8.2, "votes": 1000000 },
+      "rottenTomatoes": 91,
+      "metacritic": 68
+    },
+    "cast": [
+      { "actor": "Sam Neill", "character": "Dr. Alan Grant", "role": "Protagonista" },
+      { "actor": "Laura Dern", "character": "Dr. Ellie Sattler", "role": "Protagonista" },
+      { "actor": "Jeff Goldblum", "character": "Dr. Ian Malcolm", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Michael Crichton", "role": "Historia original" },
+      { "name": "David Koepp", "role": "Guionista" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "German"],
+      "country": "United States",
+      "budget": { "amount": 63000000, "currency": "USD" },
+      "boxOffice": { "amount": 1040000000, "currency": "USD" }
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/c414cDeQ9b6qLPLeKmiJuLDUREJ.jpg",
+    "trailer": "https://www.youtube.com/watch?v=lc0UehYemQA",
+    "tags": ["dinosaurios", "parque", "ciencia ficción", "aventura"],
+    "isActive": true
+  },
+  {
+    "title": "The Matrix",
+    "synopsis": "Un programador descubre que la realidad es una simulación creada por máquinas, y se une a la resistencia para liberar a la humanidad.",
+    "releaseDate": "1999-03-31",
+    "duration": 136,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "68d37ccf90259a0395f694a8",
+    "producer": "68d3795c90259a0395f694b9",
+    "genres": ["68d35480400438b1d96619af", "68d361c2400438b1d96619c6"],
+    "rating": {
+      "imdb": { "score": 8.7, "votes": 1900000 },
+      "rottenTomatoes": 88,
+      "metacritic": 73
+    },
+    "cast": [
+      { "actor": "Keanu Reeves", "character": "Neo", "role": "Protagonista" },
+      { "actor": "Laurence Fishburne", "character": "Morpheus", "role": "Mentor" },
+      { "actor": "Hugo Weaving", "character": "Agente Smith", "role": "Antagonista" }
+    ],
+    "crew": [
+      { "name": "Lana Wachowski", "role": "Guionista" },
+      { "name": "Lilly Wachowski", "role": "Guionista" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "Portuguese"],
+      "country": "United States",
+      "budget": { "amount": 63000000, "currency": "USD" },
+      "boxOffice": { "amount": 466000000, "currency": "USD" }
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    "trailer": "https://www.youtube.com/watch?v=m8e-FF8MsqU",
+    "tags": ["simulación", "filosofía", "acción", "cyberpunk"],
+    "isActive": true
+  },
+  {
+    "title": "Forrest Gump",
+    "synopsis": "La historia de un hombre con un bajo coeficiente intelectual que, sin proponérselo, se convierte en testigo y protagonista de algunos de los momentos más importantes de la historia de Estados Unidos.",
+    "releaseDate": "1994-07-06",
+    "duration": 142,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "68d37ccf90259a0395f694a9",
+    "producer": "68d3795c90259a0395f694c0",
+    "genres": ["68d35480400438b1d96619b2", "68d361c2400438b1d96619c7"],
+    "rating": {
+      "imdb": { "score": 8.8, "votes": 2200000 },
+      "rottenTomatoes": 71,
+      "metacritic": 82
+    },
+    "cast": [
+      { "actor": "Tom Hanks", "character": "Forrest Gump", "role": "Protagonista" },
+      { "actor": "Robin Wright", "character": "Jenny Curran", "role": "Protagonista" },
+      { "actor": "Gary Sinise", "character": "Teniente Dan Taylor", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Eric Roth", "role": "Guionista" },
+      { "name": "Winston Groom", "role": "Historia original" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "German"],
+      "country": "United States",
+      "budget": { "amount": 55000000, "currency": "USD" },
+      "boxOffice": { "amount": 678000000, "currency": "USD" }
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
+    "trailer": "https://www.youtube.com/watch?v=bLvqoHBptjg",
+    "tags": ["historia", "vida", "superación", "romance"],
+    "isActive": true
+  },
+  {
+    "title": "Star Wars: Episode IV - A New Hope",
+    "synopsis": "Un joven granjero llamado Luke Skywalker se une a un grupo de rebeldes para luchar contra el Imperio Galáctico y destruir la Estrella de la Muerte.",
+    "releaseDate": "1977-05-25",
+    "duration": 121,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "68d37ccf90259a0395f694b0",
+    "producer": "68d3795c90259a0395f694c1",
+    "genres": ["68d35480400438b1d96619af", "68d361c2400438b1d96619c8"],
+    "rating": {
+      "imdb": { "score": 8.6, "votes": 1400000 },
+      "rottenTomatoes": 93,
+      "metacritic": 90
+    },
+    "cast": [
+      { "actor": "Mark Hamill", "character": "Luke Skywalker", "role": "Protagonista" },
+      { "actor": "Harrison Ford", "character": "Han Solo", "role": "Protagonista" },
+      { "actor": "Carrie Fisher", "character": "Princesa Leia Organa", "role": "Protagonista" }
+    ],
+    "crew": [
+      { "name": "George Lucas", "role": "Guionista" },
+      { "name": "John Williams", "role": "Música" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "German"],
+      "country": "United States",
+      "budget": { "amount": 11000000, "currency": "USD" },
+      "boxOffice": { "amount": 775000000, "currency": "USD" }
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+    "trailer": "https://www.youtube.com/watch?v=vZ734NWnAHA",
+    "tags": ["Star Wars", "rebeldes", "imperio", "espacio"],
+    "isActive": true
+  },
+  {
+    "title": "Game of Thrones",
+    "synopsis": "Nueve familias nobles luchan por el control de los Siete Reinos de Westeros, mientras una antigua amenaza regresa tras miles de años.",
+    "releaseDate": "2011-04-17",
+    "duration": 60,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "David Benioff & D.B. Weiss",
+    "producer": "HBO",
+    "genres": ["Drama", "Fantasía"],
+    "rating": {
+      "imdb": {
+        "score": 9.2,
+        "votes": 2200000
+      }
+    },
+    "cast": [
+      { "actor": "Emilia Clarke", "character": "Daenerys Targaryen", "role": "Protagonista" },
+      { "actor": "Kit Harington", "character": "Jon Snow", "role": "Protagonista" },
+      { "actor": "Peter Dinklage", "character": "Tyrion Lannister", "role": "Protagonista" }
+    ],
+    "crew": [
+      { "name": "George R.R. Martin", "role": "Autor original" },
+      { "name": "Ramin Djawadi", "role": "Compositor" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "Portuguese"],
+      "country": "United States"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/gameofthrones.jpg",
+    "trailer": "https://www.youtube.com/watch?v=gcTkNV5Vg1E",
+    "tags": ["fantasy", "dragons", "politics", "epic"],
+    "isActive": true
+  },
+  {
+    "title": "Breaking Bad",
+    "synopsis": "Un profesor de química con cáncer terminal comienza a producir metanfetaminas para asegurar el futuro de su familia.",
+    "releaseDate": "2008-01-20",
+    "duration": 47,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Vince Gilligan",
+    "producer": "AMC",
+    "genres": ["Drama", "Crimen"],
+    "rating": {
+      "imdb": {
+        "score": 9.5,
+        "votes": 2000000
+      }
+    },
+    "cast": [
+      { "actor": "Bryan Cranston", "character": "Walter White", "role": "Protagonista" },
+      { "actor": "Aaron Paul", "character": "Jesse Pinkman", "role": "Protagonista" }
+    ],
+    "crew": [
+      { "name": "Vince Gilligan", "role": "Creador" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French"],
+      "country": "United States"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/breakingbad.jpg",
+    "trailer": "https://www.youtube.com/watch?v=HhesaQXLuRY",
+    "tags": ["crime", "drugs", "antihero"],
+    "isActive": true
+  },
+  {
+    "title": "Stranger Things",
+    "synopsis": "En un pueblo de Indiana en los años 80, un grupo de niños descubre un mundo paralelo llamado el 'Upside Down'.",
+    "releaseDate": "2016-07-15",
+    "duration": 50,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "The Duffer Brothers",
+    "producer": "Netflix",
+    "genres": ["Ciencia ficción", "Terror"],
+    "rating": {
+      "imdb": {
+        "score": 8.7,
+        "votes": 1300000
+      }
+    },
+    "cast": [
+      { "actor": "Millie Bobby Brown", "character": "Eleven", "role": "Protagonista" },
+      { "actor": "Finn Wolfhard", "character": "Mike Wheeler", "role": "Protagonista" }
+    ],
+    "crew": [
+      { "name": "Kyle Dixon & Michael Stein", "role": "Compositores" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "Portuguese"],
+      "country": "United States"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/strangerthings.jpg",
+    "trailer": "https://www.youtube.com/watch?v=b9EkMc79ZSU",
+    "tags": ["mystery", "sci-fi", "retro"],
+    "isActive": true
+  },
+  {
+    "title": "The Witcher",
+    "synopsis": "Geralt de Rivia, un cazador de monstruos mutante, lucha por encontrar su lugar en un mundo donde las personas son más perversas que las bestias.",
+    "releaseDate": "2019-12-20",
+    "duration": 60,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Lauren Schmidt Hissrich",
+    "producer": "Netflix",
+    "genres": ["Fantasía", "Aventura"],
+    "rating": {
+      "imdb": {
+        "score": 8.0,
+        "votes": 600000
+      }
+    },
+    "cast": [
+      { "actor": "Henry Cavill", "character": "Geralt of Rivia", "role": "Protagonista" },
+      { "actor": "Anya Chalotra", "character": "Yennefer de Vengerberg", "role": "Protagonista" }
+    ],
+    "crew": [
+      { "name": "Andrzej Sapkowski", "role": "Autor original" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "German"],
+      "country": "United States"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/witcher.jpg",
+    "trailer": "https://www.youtube.com/watch?v=ndl1W4ltcmg",
+    "tags": ["fantasy", "magic", "monsters"],
+    "isActive": true
+  },
+  {
+    "title": "The Mandalorian",
+    "synopsis": "Un cazarrecompensas mandaloriano recorre la galaxia cuidando a un misterioso niño de la misma especie que Yoda.",
+    "releaseDate": "2019-11-12",
+    "duration": 40,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Jon Favreau",
+    "producer": "Disney+",
+    "genres": ["Ciencia ficción", "Aventura"],
+    "rating": {
+      "imdb": {
+        "score": 8.7,
+        "votes": 500000
+      }
+    },
+    "cast": [
+      { "actor": "Pedro Pascal", "character": "Din Djarin", "role": "Protagonista" },
+      { "actor": "Giancarlo Esposito", "character": "Moff Gideon", "role": "Antagonista" }
+    ],
+    "crew": [
+      { "name": "Dave Filoni", "role": "Productor" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French"],
+      "country": "United States"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/mandalorian.jpg",
+    "trailer": "https://www.youtube.com/watch?v=aOC8E8z_ifw",
+    "tags": ["star wars", "bounty hunter", "sci-fi"],
+    "isActive": true
+  },
+  {
+    "title": "The Last of Us",
+    "synopsis": "Un contrabandista debe escoltar a una niña inmune a través de un Estados Unidos postapocalíptico devastado por un hongo letal.",
+    "releaseDate": "2023-01-15",
+    "duration": 55,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Craig Mazin & Neil Druckmann",
+    "producer": "HBO",
+    "genres": ["Drama", "Aventura"],
+    "rating": {
+      "imdb": {
+        "score": 8.8,
+        "votes": 600000
+      }
+    },
+    "cast": [
+      { "actor": "Pedro Pascal", "character": "Joel Miller", "role": "Protagonista" },
+      { "actor": "Bella Ramsey", "character": "Ellie", "role": "Protagonista" }
+    ],
+    "crew": [
+      { "name": "Neil Druckmann", "role": "Creador original" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "Portuguese"],
+      "country": "United States"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/lastofus.jpg",
+    "trailer": "https://www.youtube.com/watch?v=uLtkt8BonwM",
+    "tags": ["apocalypse", "fungus", "survival"],
+    "isActive": true
+  },
+  {
+    "title": "The Boys",
+    "synopsis": "Un grupo de vigilantes intenta derribar a superhéroes corruptos que abusan de su fama y poder.",
+    "releaseDate": "2019-07-26",
+    "duration": 60,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Eric Kripke",
+    "producer": "Amazon Prime Video",
+    "genres": ["Acción", "Drama"],
+    "rating": {
+      "imdb": {
+        "score": 8.7,
+        "votes": 600000
+      }
+    },
+    "cast": [
+      { "actor": "Karl Urban", "character": "Billy Butcher", "role": "Protagonista" },
+      { "actor": "Antony Starr", "character": "Homelander", "role": "Antagonista" }
+    ],
+    "crew": [
+      { "name": "Seth Rogen", "role": "Productor" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French"],
+      "country": "United States"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/theboys.jpg",
+    "trailer": "https://www.youtube.com/watch?v=06rueu_fh30",
+    "tags": ["superheroes", "dark comedy", "violence"],
+    "isActive": true
+  },
+  {
+    "title": "Peaky Blinders",
+    "synopsis": "Una familia de gánsteres en Birmingham, Inglaterra, se abre camino en el crimen organizado después de la Primera Guerra Mundial.",
+    "releaseDate": "2013-09-12",
+    "duration": 55,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Steven Knight",
+    "producer": "BBC",
+    "genres": ["Drama", "Crimen"],
+    "rating": {
+      "imdb": {
+        "score": 8.8,
+        "votes": 600000
+      }
+    },
+    "cast": [
+      { "actor": "Cillian Murphy", "character": "Thomas Shelby", "role": "Protagonista" },
+      { "actor": "Paul Anderson", "character": "Arthur Shelby", "role": "Protagonista" }
+    ],
+    "crew": [
+      { "name": "Steven Knight", "role": "Creador" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French"],
+      "country": "United Kingdom"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/peakyblinders.jpg",
+    "trailer": "https://www.youtube.com/watch?v=oVzVdvGIC7U",
+    "tags": ["gangsters", "crime", "britain"],
+    "isActive": true
+  },
+  {
+    "title": "House of the Dragon",
+    "synopsis": "Precuela de Game of Thrones que narra la guerra civil de la Casa Targaryen conocida como la Danza de los Dragones.",
+    "releaseDate": "2022-08-21",
+    "duration": 60,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Ryan Condal & Miguel Sapochnik",
+    "producer": "HBO",
+    "genres": ["Drama", "Fantasía"],
+    "rating": {
+      "imdb": {
+        "score": 8.5,
+        "votes": 400000
+      }
+    },
+    "cast": [
+      { "actor": "Emma D'Arcy", "character": "Rhaenyra Targaryen", "role": "Protagonista" },
+      { "actor": "Matt Smith", "character": "Daemon Targaryen", "role": "Protagonista" }
+    ],
+    "crew": [
+      { "name": "George R.R. Martin", "role": "Autor original" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "Portuguese"],
+      "country": "United States"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/houseofthedragon.jpg",
+    "trailer": "https://www.youtube.com/watch?v=DotnJ7tTA34",
+    "tags": ["dragons", "fantasy", "civil war"],
+    "isActive": true
+  },
+  {
+    "title": "Loki",
+    "synopsis": "Después de robar el Teseracto, Loki es llevado ante la Autoridad de Variación Temporal, que lo obliga a reparar la línea temporal.",
+    "releaseDate": "2021-06-09",
+    "duration": 52,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Michael Waldron",
+    "producer": "Disney+",
+    "genres": ["Ciencia ficción", "Acción"],
+    "rating": {
+      "imdb": {
+        "score": 8.2,
+        "votes": 400000
+      }
+    },
+    "cast": [
+      { "actor": "Tom Hiddleston", "character": "Loki", "role": "Protagonista" },
+      { "actor": "Sophia Di Martino", "character": "Sylvie", "role": "Protagonista" }
+    ],
+    "crew": [
+      { "name": "Kate Herron", "role": "Directora (T1)" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French"],
+      "country": "United States"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/loki.jpg",
+    "trailer": "https://www.youtube.com/watch?v=nW948Va-l10",
+    "tags": ["marvel", "multiverse", "sci-fi"],
+    "isActive": true
+  },
+
+  {
+  "title": "La Casa de Papel",
+  "synopsis": "Un misterioso hombre apodado 'El Profesor' reúne a un grupo de ocho delincuentes con habilidades únicas para llevar a cabo el mayor atraco de la historia: entrar a la Fábrica Nacional de Moneda y Timbre de España y robar 2.400 millones de euros.",
+  "releaseDate": "2017-05-02",
+  "duration": 70,
+  "type": "68d31d4a400438b1d9661986",
+  "director": "Álex Pina",
+  "producer": "Vancouver Media / Netflix",
+  "genres": ["Drama", "Crimen", "Thriller"],
+  "rating": {
+    "imdb": {
+      "score": 8.2,
+      "votes": 550000
+    }
+  },
+  "cast": [
+    { "actor": "Álvaro Morte", "character": "Sergio Marquina 'El Profesor'", "role": "Protagonista" },
+    { "actor": "Úrsula Corberó", "character": "Silene Oliveira 'Tokio'", "role": "Protagonista" },
+    { "actor": "Pedro Alonso", "character": "Andrés de Fonollosa 'Berlín'", "role": "Protagonista" },
+    { "actor": "Itziar Ituño", "character": "Raquel Murillo / Lisboa", "role": "Protagonista" },
+    { "actor": "Miguel Herrán", "character": "Aníbal Cortés 'Río'", "role": "Protagonista" },
+    { "actor": "Jaime Lorente", "character": "Daniel Ramos 'Denver'", "role": "Protagonista" },
+    { "actor": "Darko Perić", "character": "Yashin Dasáyev 'Helsinki'", "role": "Protagonista" },
+    { "actor": "Alba Flores", "character": "Ágata Jiménez 'Nairobi'", "role": "Protagonista" }
+  ],
+  "crew": [
+    { "name": "Álex Pina", "role": "Creador" },
+    { "name": "Jesús Colmenar", "role": "Director" },
+    { "name": "Manel Santisteban", "role": "Compositor" }
+  ],
+  "technical": {
+    "language": "Spanish",
+    "subtitles": ["English", "French", "Portuguese", "German"],
+    "country": "Spain"
+  },
+  "poster": "https://image.tmdb.org/t/p/w500/lacasadepapel.jpg",
+  "trailer": "https://www.youtube.com/watch?v=To_kVMMu-Ls",
+  "tags": ["heist", "robbery", "thriller", "drama", "Spain"],
+  "isActive": true
+},
+
+
+  {
+    "title": "Los Cuatro Fantásticos: Primeros pasos",
+    "synopsis": "Con un mundo retrofuturista inspirado en los años 60 como telón de fondo, la Primera Familia de Marvel deberá hacer frente a su mayor desafío hasta la fecha. Obligados a buscar el equilibrio entre su papel de héroes y sus fuertes vínculos familiares, tendrán que defender la Tierra de un hambriento dios espacial llamado Galactus y su intrigante heraldo, Estela Plateada.",
+    "releaseDate": "2025-07-24",
+    "duration": 115,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Matt Shakman",
+    "producer": "Marvel Studios",
+    "genres": ["Ciencia ficción", "Aventura"],
+    "rating": { "tmdb": { "score": 72, "votes": null } },
+    "cast": [
+      { "actor": "Pedro Pascal", "character": "Reed Richards / Mr. Fantástico", "role": "Protagonista" },
+      { "actor": "Vanessa Kirby", "character": "Sue Storm / Mujer Invisible", "role": "Protagonista" },
+      { "actor": "Joseph Quinn", "character": "Johnny Storm / Antorcha Humana", "role": "Protagonista" },
+      { "actor": "Ebon Moss-Bachrach", "character": "Ben Grimm / La Mole", "role": "Protagonista" },
+      { "actor": "Por confirmar", "character": "Galactus", "role": "Antagonista" },
+      { "actor": "Por confirmar", "character": "Estela Plateada", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Eric Pearson", "role": "Guionista" },
+      { "name": "Ian Springer", "role": "Guionista" },
+      { "name": "Josh Friedman", "role": "Guionista" },
+      { "name": "Jeff Kaplan", "role": "Guionista" },
+      { "name": "Kat Wood", "role": "Guionista" },
+      { "name": "Stan Lee", "role": "Creador de personajes" },
+      { "name": "Jack Kirby", "role": "Creador de personajes" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "Portuguese"],
+      "country": "United States",
+      "budget": { "amount": null, "currency": "USD" },
+      "boxOffice": { "amount": null, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ckfiXWGEMWrUP53cc6QyHijLlhl.jpg",
+    "trailer": "https://www.youtube.com/watch?v=L1lCRrgTOc4",
+    "tags": ["Marvel", "superhéroes", "Galactus", "Estela Plateada", "retro-futurista", "familia"],
+    "isActive": true
+  },
+
+  {
+    "title": "Avengers: Endgame",
+    "synopsis": "Después de los devastadores eventos de 'Infinity War', los Vengadores restantes deben encontrar una forma de revertir el daño causado por Thanos y restaurar el equilibrio del universo.",
+    "releaseDate": "2019-04-26",
+    "duration": 181,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "68d37ccf90259a0395f694a1",
+    "producer": "68d3795c90259a0395f694b2",
+    "genres": ["68d35480400438b1d96619af", "68d361c2400438b1d96619bf"],
+    "rating": {
+      "imdb": {
+        "score": 8.4,
+        "votes": 1300000
+      },
+      "rottenTomatoes": 94,
+      "metacritic": 78
+    },
+    "cast": [
+      { "actor": "Robert Downey Jr.", "character": "Tony Stark / Iron Man", "role": "Protagonista" },
+      { "actor": "Chris Evans", "character": "Steve Rogers / Capitán América", "role": "Protagonista" },
+      { "actor": "Josh Brolin", "character": "Thanos", "role": "Antagonista" }
+    ],
+    "crew": [
+      { "name": "Christopher Markus", "role": "Guionista" },
+      { "name": "Stephen McFeely", "role": "Guionista" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "Portuguese"],
+      "country": "United States",
+      "budget": { "amount": 356000000, "currency": "USD" },
+      "boxOffice": { "amount": 2797800564, "currency": "USD" }
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "trailer": "https://www.youtube.com/watch?v=TcMBFSGVi1c",
+    "tags": ["Marvel", "superhéroes", "batalla final", "universo"],
+    "isActive": true
+  },
+  {
+    "title": "The Dark Knight",
+    "synopsis": "Batman, con la ayuda del fiscal Harvey Dent y el teniente Gordon, enfrenta al criminal más peligroso de Gotham: el Joker, que desata el caos en la ciudad.",
+    "releaseDate": "2008-07-18",
+    "duration": 152,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "68d37ccf90259a0395f694a2",
+    "producer": "68d3795c90259a0395f694b3",
+    "genres": ["68d35480400438b1d96619af", "68d361c2400438b1d96619bf"],
+    "rating": {
+      "imdb": { "score": 9.0, "votes": 2700000 },
+      "rottenTomatoes": 94,
+      "metacritic": 84
+    },
+    "cast": [
+      { "actor": "Christian Bale", "character": "Bruce Wayne / Batman", "role": "Protagonista" },
+      { "actor": "Heath Ledger", "character": "Joker", "role": "Antagonista" },
+      { "actor": "Aaron Eckhart", "character": "Harvey Dent / Dos Caras", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Jonathan Nolan", "role": "Guionista" },
+      { "name": "Wally Pfister", "role": "Cinematógrafo" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "German", "French"],
+      "country": "United States",
+      "budget": { "amount": 185000000, "currency": "USD" },
+      "boxOffice": { "amount": 1004558444, "currency": "USD" }
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "trailer": "https://www.youtube.com/watch?v=EXeTwQWrcwY",
+    "tags": ["Batman", "Joker", "Gotham", "DC Comics"],
+    "isActive": true
+  },
+  {
+    "title": "Inception",
+    "synopsis": "Un ladrón especializado en entrar en los sueños de las personas para robar secretos corporativos debe realizar la misión más difícil: implantar una idea en lugar de robarla.",
+    "releaseDate": "2010-07-16",
+    "duration": 148,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "68d37ccf90259a0395f694a3",
+    "producer": "68d3795c90259a0395f694b4",
+    "genres": ["68d35480400438b1d96619af", "68d361c2400438b1d96619c1"],
+    "rating": {
+      "imdb": { "score": 8.8, "votes": 2400000 },
+      "rottenTomatoes": 87,
+      "metacritic": 74
+    },
+    "cast": [
+      { "actor": "Leonardo DiCaprio", "character": "Dom Cobb", "role": "Protagonista" },
+      { "actor": "Joseph Gordon-Levitt", "character": "Arthur", "role": "Secundario" },
+      { "actor": "Tom Hardy", "character": "Eames", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Christopher Nolan", "role": "Guionista" },
+      { "name": "Hans Zimmer", "role": "Música" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "Portuguese"],
+      "country": "United States",
+      "budget": { "amount": 160000000, "currency": "USD" },
+      "boxOffice": { "amount": 829895144, "currency": "USD" }
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/edv5CZvWj09upOsy2Y6IwDhK8bt.jpg",
+    "trailer": "https://www.youtube.com/watch?v=YoHD9XEInc0",
+    "tags": ["sueños", "realidad", "psicología", "acción"],
+    "isActive": true
+  },
+  {
+    "title": "Avatar",
+    "synopsis": "Un ex marine parapléjico es enviado a Pandora, un planeta habitado por los Na'vi, donde debe decidir entre cumplir su misión militar o unirse a los nativos en su lucha por sobrevivir.",
+    "releaseDate": "2009-12-18",
+    "duration": 162,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "68d37ccf90259a0395f694a4",
+    "producer": "68d3795c90259a0395f694b5",
+    "genres": ["68d35480400438b1d96619af", "68d361c2400438b1d96619c2"],
+    "rating": {
+      "imdb": { "score": 7.9, "votes": 1400000 },
+      "rottenTomatoes": 82,
+      "metacritic": 83
+    },
+    "cast": [
+      { "actor": "Sam Worthington", "character": "Jake Sully", "role": "Protagonista" },
+      { "actor": "Zoe Saldaña", "character": "Neytiri", "role": "Protagonista" },
+      { "actor": "Stephen Lang", "character": "Coronel Miles Quaritch", "role": "Antagonista" }
+    ],
+    "crew": [
+      { "name": "James Cameron", "role": "Guionista" },
+      { "name": "Mauro Fiore", "role": "Cinematógrafo" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "German"],
+      "country": "United States",
+      "budget": { "amount": 237000000, "currency": "USD" },
+      "boxOffice": { "amount": 2923706026, "currency": "USD" }
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",
+    "trailer": "https://www.youtube.com/watch?v=5PSNL1qE6VY",
+    "tags": ["Pandora", "Na'vi", "ecología", "ciencia ficción"],
+    "isActive": true
+  },
+  {
+    "title": "Titanic",
+    "synopsis": "Una joven de clase alta se enamora de un humilde artista a bordo del lujoso Titanic, en un romance condenado por el destino del barco.",
+    "releaseDate": "1997-12-19",
+    "duration": 195,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "68d37ccf90259a0395f694a5",
+    "producer": "68d3795c90259a0395f694b6",
+    "genres": ["68d35480400438b1d96619b0", "68d361c2400438b1d96619c3"],
+    "rating": {
+      "imdb": { "score": 7.9, "votes": 1300000 },
+      "rottenTomatoes": 88,
+      "metacritic": 75
+    },
+    "cast": [
+      { "actor": "Leonardo DiCaprio", "character": "Jack Dawson", "role": "Protagonista" },
+      { "actor": "Kate Winslet", "character": "Rose DeWitt Bukater", "role": "Protagonista" },
+      { "actor": "Billy Zane", "character": "Cal Hockley", "role": "Antagonista" }
+    ],
+    "crew": [
+      { "name": "James Cameron", "role": "Guionista" },
+      { "name": "James Horner", "role": "Música" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "German"],
+      "country": "United States",
+      "budget": { "amount": 200000000, "currency": "USD" },
+      "boxOffice": { "amount": 2260000000, "currency": "USD" }
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+    "trailer": "https://www.youtube.com/watch?v=kVrqfYjkTdQ",
+    "tags": ["romance", "tragedia", "barco", "historia"],
+    "isActive": true
+  },
+
+
+  {
+    "title": "The Godfather",
+    "synopsis": "La historia de la familia Corleone, una de las más poderosas de la mafia italiana en Nueva York, liderada por Don Vito Corleone.",
+    "releaseDate": "1972-03-24",
+    "duration": 175,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "68d37ccf90259a0395f694a6",
+    "producer": "68d3795c90259a0395f694b7",
+    "genres": ["68d35480400438b1d96619b1", "68d361c2400438b1d96619c4"],
+    "rating": {
+      "imdb": { "score": 9.2, "votes": 2000000 },
+      "rottenTomatoes": 97,
+      "metacritic": 100
+    },
+    "cast": [
+      { "actor": "Marlon Brando", "character": "Don Vito Corleone", "role": "Protagonista" },
+      { "actor": "Al Pacino", "character": "Michael Corleone", "role": "Protagonista" },
+      { "actor": "James Caan", "character": "Sonny Corleone", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Francis Ford Coppola", "role": "Guionista" },
+      { "name": "Mario Puzo", "role": "Guionista" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "Italian", "French"],
+      "country": "United States",
+      "budget": { "amount": 6000000, "currency": "USD" },
+      "boxOffice": { "amount": 250000000, "currency": "USD" }
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "trailer": "https://www.youtube.com/watch?v=sY1S34973zA",
+    "tags": ["mafia", "familia", "crimen", "clásico"],
+    "isActive": true
+  },
+  {
+    "title": "Jurassic Park",
+    "synopsis": "Un parque temático de dinosaurios clonados se convierte en un caos cuando las criaturas escapan y amenazan a los visitantes.",
+    "releaseDate": "1993-06-11",
+    "duration": 127,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "68d37ccf90259a0395f694a7",
+    "producer": "68d3795c90259a0395f694b8",
+    "genres": ["68d35480400438b1d96619af", "68d361c2400438b1d96619c5"],
+    "rating": {
+      "imdb": { "score": 8.2, "votes": 1000000 },
+      "rottenTomatoes": 91,
+      "metacritic": 68
+    },
+    "cast": [
+      { "actor": "Sam Neill", "character": "Dr. Alan Grant", "role": "Protagonista" },
+      { "actor": "Laura Dern", "character": "Dr. Ellie Sattler", "role": "Protagonista" },
+      { "actor": "Jeff Goldblum", "character": "Dr. Ian Malcolm", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Michael Crichton", "role": "Historia original" },
+      { "name": "David Koepp", "role": "Guionista" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "German"],
+      "country": "United States",
+      "budget": { "amount": 63000000, "currency": "USD" },
+      "boxOffice": { "amount": 1040000000, "currency": "USD" }
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/c414cDeQ9b6qLPLeKmiJuLDUREJ.jpg",
+    "trailer": "https://www.youtube.com/watch?v=lc0UehYemQA",
+    "tags": ["dinosaurios", "parque", "ciencia ficción", "aventura"],
+    "isActive": true
+  },
+  {
+    "title": "The Matrix",
+    "synopsis": "Un programador descubre que la realidad es una simulación creada por máquinas, y se une a la resistencia para liberar a la humanidad.",
+    "releaseDate": "1999-03-31",
+    "duration": 136,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "68d37ccf90259a0395f694a8",
+    "producer": "68d3795c90259a0395f694b9",
+    "genres": ["68d35480400438b1d96619af", "68d361c2400438b1d96619c6"],
+    "rating": {
+      "imdb": { "score": 8.7, "votes": 1900000 },
+      "rottenTomatoes": 88,
+      "metacritic": 73
+    },
+    "cast": [
+      { "actor": "Keanu Reeves", "character": "Neo", "role": "Protagonista" },
+      { "actor": "Laurence Fishburne", "character": "Morpheus", "role": "Mentor" },
+      { "actor": "Hugo Weaving", "character": "Agente Smith", "role": "Antagonista" }
+    ],
+    "crew": [
+      { "name": "Lana Wachowski", "role": "Guionista" },
+      { "name": "Lilly Wachowski", "role": "Guionista" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "Portuguese"],
+      "country": "United States",
+      "budget": { "amount": 63000000, "currency": "USD" },
+      "boxOffice": { "amount": 466000000, "currency": "USD" }
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    "trailer": "https://www.youtube.com/watch?v=m8e-FF8MsqU",
+    "tags": ["simulación", "filosofía", "acción", "cyberpunk"],
+    "isActive": true
+  },
+  {
+    "title": "Forrest Gump",
+    "synopsis": "La historia de un hombre con un bajo coeficiente intelectual que, sin proponérselo, se convierte en testigo y protagonista de algunos de los momentos más importantes de la historia de Estados Unidos.",
+    "releaseDate": "1994-07-06",
+    "duration": 142,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "68d37ccf90259a0395f694a9",
+    "producer": "68d3795c90259a0395f694c0",
+    "genres": ["68d35480400438b1d96619b2", "68d361c2400438b1d96619c7"],
+    "rating": {
+      "imdb": { "score": 8.8, "votes": 2200000 },
+      "rottenTomatoes": 71,
+      "metacritic": 82
+    },
+    "cast": [
+      { "actor": "Tom Hanks", "character": "Forrest Gump", "role": "Protagonista" },
+      { "actor": "Robin Wright", "character": "Jenny Curran", "role": "Protagonista" },
+      { "actor": "Gary Sinise", "character": "Teniente Dan Taylor", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Eric Roth", "role": "Guionista" },
+      { "name": "Winston Groom", "role": "Historia original" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "German"],
+      "country": "United States",
+      "budget": { "amount": 55000000, "currency": "USD" },
+      "boxOffice": { "amount": 678000000, "currency": "USD" }
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
+    "trailer": "https://www.youtube.com/watch?v=bLvqoHBptjg",
+    "tags": ["historia", "vida", "superación", "romance"],
+    "isActive": true
+  },
+
+  {
+    "title": "Dune: Part Two",
+    "synopsis": "Paul Atreides se une a Chani y a los Fremen mientras busca venganza contra los conspiradores que destruyeron a su familia. Enfrentará una elección entre el amor de su vida y el destino del universo conocido.",
+    "releaseDate": "2024-02-29",
+    "duration": 166,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Denis Villeneuve",
+    "producer": "Legendary Pictures",
+    "genres": ["Ciencia ficción", "Aventura"],
+    "rating": { "tmdb": { "score": 83, "votes": 6500 } },
+    "cast": [
+      { "actor": "Timothée Chalamet", "character": "Paul Atreides", "role": "Protagonista" },
+      { "actor": "Zendaya", "character": "Chani", "role": "Protagonista" },
+      { "actor": "Rebecca Ferguson", "character": "Lady Jessica Atreides", "role": "Secundario" },
+      { "actor": "Javier Bardem", "character": "Stilgar", "role": "Secundario" },
+      { "actor": "Stellan Skarsgård", "character": "Barón Harkonnen", "role": "Antagonista" }
+    ],
+    "crew": [
+      { "name": "Denis Villeneuve", "role": "Director" },
+      { "name": "Jon Spaihts", "role": "Guionista" },
+      { "name": "Frank Herbert", "role": "Autor de la novela" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "German"],
+      "country": "United States",
+      "budget": { "amount": 190000000, "currency": "USD" },
+      "boxOffice": { "amount": 710000000, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg",
+    "trailer": "https://www.youtube.com/watch?v=U2Qp5pL3ovA",
+    "tags": ["sci-fi", "Fremen", "Atreides", "Arrakis", "desierto"],
+    "isActive": true
+  },
+  {
+    "title": "Oppenheimer",
+    "synopsis": "La historia del físico J. Robert Oppenheimer y su papel en el desarrollo de la bomba atómica durante la Segunda Guerra Mundial.",
+    "releaseDate": "2023-07-21",
+    "duration": 180,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Christopher Nolan",
+    "producer": "Universal Pictures",
+    "genres": ["Drama", "Historia"],
+    "rating": { "tmdb": { "score": 85, "votes": 9500 } },
+    "cast": [
+      { "actor": "Cillian Murphy", "character": "J. Robert Oppenheimer", "role": "Protagonista" },
+      { "actor": "Emily Blunt", "character": "Katherine 'Kitty' Oppenheimer", "role": "Secundario" },
+      { "actor": "Matt Damon", "character": "Leslie Groves", "role": "Secundario" },
+      { "actor": "Robert Downey Jr.", "character": "Lewis Strauss", "role": "Secundario" },
+      { "actor": "Florence Pugh", "character": "Jean Tatlock", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Christopher Nolan", "role": "Director/Guionista" },
+      { "name": "Kai Bird", "role": "Autor de libro biográfico" },
+      { "name": "Martin Sherwin", "role": "Autor de libro biográfico" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "Italian"],
+      "country": "United States",
+      "budget": { "amount": 100000000, "currency": "USD" },
+      "boxOffice": { "amount": 950000000, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bAFmcrkRNYVmsvvA8ydVF9SLRAm.jpg",
+    "trailer": "https://www.youtube.com/watch?v=uYPbbksJxIg",
+    "tags": ["biopic", "segunda guerra mundial", "ciencia", "historia"],
+    "isActive": true
+  },
+  {
+    "title": "Barbie",
+    "synopsis": "Barbie y Ken disfrutan de la perfección en el mundo de Barbie Land hasta que tienen la oportunidad de ir al mundo real.",
+    "releaseDate": "2023-07-21",
+    "duration": 114,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Greta Gerwig",
+    "producer": "Warner Bros. Pictures",
+    "genres": ["Comedia", "Fantasía"],
+    "rating": { "tmdb": { "score": 72, "votes": 12000 } },
+    "cast": [
+      { "actor": "Margot Robbie", "character": "Barbie", "role": "Protagonista" },
+      { "actor": "Ryan Gosling", "character": "Ken", "role": "Protagonista" },
+      { "actor": "America Ferrera", "character": "Gloria", "role": "Secundario" },
+      { "actor": "Kate McKinnon", "character": "Barbie rara", "role": "Secundario" },
+      { "actor": "Will Ferrell", "character": "CEO de Mattel", "role": "Antagonista" }
+    ],
+    "crew": [
+      { "name": "Greta Gerwig", "role": "Directora/Guionista" },
+      { "name": "Noah Baumbach", "role": "Guionista" },
+      { "name": "Ruth Handler", "role": "Creadora de Barbie" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "Portuguese"],
+      "country": "United States",
+      "budget": { "amount": 145000000, "currency": "USD" },
+      "boxOffice": { "amount": 1446000000, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+    "trailer": "https://www.youtube.com/watch?v=pBk4NYhWNMM",
+    "tags": ["fantasía", "comedia", "Ken", "Mattel", "auto-descubrimiento"],
+    "isActive": true
+  },
+  {
+    "title": "The Batman",
+    "synopsis": "Cuando un asesino apunta a la élite de Gotham con una serie de maquinaciones sádicas, Batman debe investigar la corrupción oculta de la ciudad y cuestionar el papel de su familia.",
+    "releaseDate": "2022-03-04",
+    "duration": 176,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Matt Reeves",
+    "producer": "Warner Bros. Pictures",
+    "genres": ["Acción", "Crimen", "Misterio"],
+    "rating": { "tmdb": { "score": 77, "votes": 9500 } },
+    "cast": [
+      { "actor": "Robert Pattinson", "character": "Bruce Wayne / Batman", "role": "Protagonista" },
+      { "actor": "Zoë Kravitz", "character": "Selina Kyle / Catwoman", "role": "Protagonista" },
+      { "actor": "Paul Dano", "character": "Edward Nashton / Enigma", "role": "Antagonista" },
+      { "actor": "Colin Farrell", "character": "Oswald Cobblepot / Pingüino", "role": "Secundario" },
+      { "actor": "Jeffrey Wright", "character": "James Gordon", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Matt Reeves", "role": "Director/Guionista" },
+      { "name": "Peter Craig", "role": "Guionista" },
+      { "name": "Bill Finger", "role": "Creador de personajes" },
+      { "name": "Bob Kane", "role": "Creador de personajes" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "German"],
+      "country": "United States",
+      "budget": { "amount": 185000000, "currency": "USD" },
+      "boxOffice": { "amount": 772000000, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg",
+    "trailer": "https://www.youtube.com/watch?v=mqqft2x_Aa4",
+    "tags": ["Batman", "DC Comics", "Enigma", "Catwoman", "justicia"],
+    "isActive": true
+  },
+  {
+    "title": "Avatar: The Way of Water",
+    "synopsis": "Jake Sully y Neytiri han formado una familia y hacen todo lo posible para permanecer juntos. Sin embargo, deben abandonar su hogar y explorar las regiones acuáticas de Pandora.",
+    "releaseDate": "2022-12-16",
+    "duration": 192,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "James Cameron",
+    "producer": "20th Century Studios",
+    "genres": ["Ciencia ficción", "Aventura", "Fantasía"],
+    "rating": { "tmdb": { "score": 77, "votes": 11000 } },
+    "cast": [
+      { "actor": "Sam Worthington", "character": "Jake Sully", "role": "Protagonista" },
+      { "actor": "Zoe Saldaña", "character": "Neytiri", "role": "Protagonista" },
+      { "actor": "Sigourney Weaver", "character": "Kiri", "role": "Secundario" },
+      { "actor": "Stephen Lang", "character": "Coronel Quaritch", "role": "Antagonista" },
+      { "actor": "Kate Winslet", "character": "Ronal", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "James Cameron", "role": "Director/Guionista" },
+      { "name": "Rick Jaffa", "role": "Guionista" },
+      { "name": "Amanda Silver", "role": "Guionista" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "Japanese"],
+      "country": "United States",
+      "budget": { "amount": 460000000, "currency": "USD" },
+      "boxOffice": { "amount": 2320000000, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+    "trailer": "https://www.youtube.com/watch?v=d9MyW72ELq0",
+    "tags": ["Pandora", "Na'vi", "familia", "ecología", "fantasía"],
+    "isActive": true
+  },
+
+
+  {
+    "title": "Guardians of the Galaxy Vol. 3",
+    "synopsis": "Peter Quill, aún conmocionado por la pérdida de Gamora, debe reunir a su equipo para defender el universo y proteger a uno de los suyos de una amenaza peligrosa.",
+    "releaseDate": "2023-05-05",
+    "duration": 150,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "James Gunn",
+    "producer": "Marvel Studios",
+    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "rating": { "tmdb": { "score": 80, "votes": 7500 } },
+    "cast": [
+      { "actor": "Chris Pratt", "character": "Peter Quill / Star-Lord", "role": "Protagonista" },
+      { "actor": "Zoe Saldaña", "character": "Gamora", "role": "Protagonista" },
+      { "actor": "Dave Bautista", "character": "Drax", "role": "Secundario" },
+      { "actor": "Karen Gillan", "character": "Nebula", "role": "Secundario" },
+      { "actor": "Bradley Cooper", "character": "Rocket (voz)", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "James Gunn", "role": "Director/Guionista" },
+      { "name": "Kevin Feige", "role": "Productor" },
+      { "name": "Stan Lee", "role": "Creador de personajes" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "German"],
+      "country": "United States",
+      "budget": { "amount": 250000000, "currency": "USD" },
+      "boxOffice": { "amount": 845000000, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+    "trailer": "https://www.youtube.com/watch?v=u3V5KDHRQvk",
+    "tags": ["Marvel", "Guardianes de la Galaxia", "Rocket", "Gamora", "Star-Lord"],
+    "isActive": true
+  },
+  {
+    "title": "Black Panther: Wakanda Forever",
+    "synopsis": "La reina Ramonda, Shuri, M'Baku, Okoye y Dora Milaje luchan para proteger a Wakanda tras la muerte del rey T’Challa, mientras emerge una nueva amenaza: Namor, rey de una nación submarina.",
+    "releaseDate": "2022-11-11",
+    "duration": 161,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Ryan Coogler",
+    "producer": "Marvel Studios",
+    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "rating": { "tmdb": { "score": 70, "votes": 7200 } },
+    "cast": [
+      { "actor": "Letitia Wright", "character": "Shuri", "role": "Protagonista" },
+      { "actor": "Angela Bassett", "character": "Ramonda", "role": "Secundario" },
+      { "actor": "Danai Gurira", "character": "Okoye", "role": "Secundario" },
+      { "actor": "Tenoch Huerta", "character": "Namor", "role": "Antagonista" },
+      { "actor": "Lupita Nyong'o", "character": "Nakia", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Ryan Coogler", "role": "Director/Guionista" },
+      { "name": "Joe Robert Cole", "role": "Guionista" },
+      { "name": "Stan Lee", "role": "Creador de personajes" },
+      { "name": "Jack Kirby", "role": "Creador de personajes" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "Portuguese"],
+      "country": "United States",
+      "budget": { "amount": 250000000, "currency": "USD" },
+      "boxOffice": { "amount": 859000000, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+    "trailer": "https://www.youtube.com/watch?v=_Z3QKkl1WyM",
+    "tags": ["Marvel", "Wakanda", "Namor", "Shuri", "Pantera Negra"],
+    "isActive": true
+  },
+  {
+    "title": "Spider-Man: No Way Home",
+    "synopsis": "Con la identidad de Spider-Man revelada, Peter Parker pide ayuda a Doctor Strange. El hechizo sale mal y abre el multiverso, trayendo villanos de otras realidades.",
+    "releaseDate": "2021-12-17",
+    "duration": 148,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Jon Watts",
+    "producer": "Marvel Studios",
+    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "rating": { "tmdb": { "score": 80, "votes": 14000 } },
+    "cast": [
+      { "actor": "Tom Holland", "character": "Peter Parker / Spider-Man", "role": "Protagonista" },
+      { "actor": "Zendaya", "character": "MJ", "role": "Protagonista" },
+      { "actor": "Benedict Cumberbatch", "character": "Doctor Strange", "role": "Secundario" },
+      { "actor": "Willem Dafoe", "character": "Norman Osborn / Duende Verde", "role": "Antagonista" },
+      { "actor": "Alfred Molina", "character": "Otto Octavius / Doctor Octopus", "role": "Antagonista" }
+    ],
+    "crew": [
+      { "name": "Jon Watts", "role": "Director" },
+      { "name": "Chris McKenna", "role": "Guionista" },
+      { "name": "Erik Sommers", "role": "Guionista" },
+      { "name": "Stan Lee", "role": "Creador de personajes" },
+      { "name": "Steve Ditko", "role": "Creador de personajes" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "Italian"],
+      "country": "United States",
+      "budget": { "amount": 200000000, "currency": "USD" },
+      "boxOffice": { "amount": 1920000000, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+    "trailer": "https://www.youtube.com/watch?v=JfVOs4VSpmA",
+    "tags": ["Marvel", "Spider-Man", "multiverso", "Doctor Strange"],
+    "isActive": true
+  },
+  {
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "synopsis": "Doctor Strange abre un portal al multiverso y, con la ayuda de nuevos y viejos aliados, enfrenta una misteriosa y poderosa nueva adversaria: Wanda Maximoff.",
+    "releaseDate": "2022-05-06",
+    "duration": 126,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Sam Raimi",
+    "producer": "Marvel Studios",
+    "genres": ["Acción", "Aventura", "Fantasía"],
+    "rating": { "tmdb": { "score": 72, "votes": 9000 } },
+    "cast": [
+      { "actor": "Benedict Cumberbatch", "character": "Stephen Strange / Doctor Strange", "role": "Protagonista" },
+      { "actor": "Elizabeth Olsen", "character": "Wanda Maximoff / Scarlet Witch", "role": "Antagonista" },
+      { "actor": "Xochitl Gomez", "character": "America Chavez", "role": "Secundario" },
+      { "actor": "Chiwetel Ejiofor", "character": "Karl Mordo", "role": "Secundario" },
+      { "actor": "Benedict Wong", "character": "Wong", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Sam Raimi", "role": "Director" },
+      { "name": "Michael Waldron", "role": "Guionista" },
+      { "name": "Stan Lee", "role": "Creador de personajes" },
+      { "name": "Steve Ditko", "role": "Creador de personajes" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "Portuguese"],
+      "country": "United States",
+      "budget": { "amount": 200000000, "currency": "USD" },
+      "boxOffice": { "amount": 955000000, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+    "trailer": "https://www.youtube.com/watch?v=aWzlQ2N6qqg",
+    "tags": ["Marvel", "Doctor Strange", "multiverso", "Wanda", "hechicería"],
+    "isActive": true
+  },
+  {
+    "title": "Thor: Love and Thunder",
+    "synopsis": "Thor se embarca en un viaje diferente a todo lo que ha vivido: una búsqueda de la paz interior. Sin embargo, Gorr, el asesino de dioses, interrumpe su retiro.",
+    "releaseDate": "2022-07-08",
+    "duration": 119,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Taika Waititi",
+    "producer": "Marvel Studios",
+    "genres": ["Acción", "Aventura", "Comedia"],
+    "rating": { "tmdb": { "score": 64, "votes": 8000 } },
+    "cast": [
+      { "actor": "Chris Hemsworth", "character": "Thor", "role": "Protagonista" },
+      { "actor": "Natalie Portman", "character": "Jane Foster / Mighty Thor", "role": "Protagonista" },
+      { "actor": "Christian Bale", "character": "Gorr", "role": "Antagonista" },
+      { "actor": "Tessa Thompson", "character": "Valkyrie", "role": "Secundario" },
+      { "actor": "Russell Crowe", "character": "Zeus", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Taika Waititi", "role": "Director/Guionista" },
+      { "name": "Stan Lee", "role": "Creador de personajes" },
+      { "name": "Jack Kirby", "role": "Creador de personajes" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "German"],
+      "country": "United States",
+      "budget": { "amount": 250000000, "currency": "USD" },
+      "boxOffice": { "amount": 760000000, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+    "trailer": "https://www.youtube.com/watch?v=Go8nTmfrQd8",
+    "tags": ["Marvel", "Thor", "dioses", "Jane Foster", "Gorr"],
+    "isActive": true
+  },
+
+  {
+    "title": "Eternals",
+    "synopsis": "Un grupo de héroes inmortales emerge después de miles de años ocultos para proteger a la humanidad de los Desviantes.",
+    "releaseDate": "2021-11-05",
+    "duration": 157,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Chloé Zhao",
+    "producer": "Marvel Studios",
+    "genres": ["Acción", "Aventura", "Fantasía"],
+    "rating": { "tmdb": { "score": 70, "votes": 8500 } },
+    "cast": [
+      { "actor": "Gemma Chan", "character": "Sersi", "role": "Protagonista" },
+      { "actor": "Richard Madden", "character": "Ikaris", "role": "Protagonista" },
+      { "actor": "Angelina Jolie", "character": "Thena", "role": "Secundario" },
+      { "actor": "Salma Hayek", "character": "Ajak", "role": "Secundario" },
+      { "actor": "Kumail Nanjiani", "character": "Kingo", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Chloé Zhao", "role": "Directora/Guionista" },
+      { "name": "Patrick Burleigh", "role": "Guionista" },
+      { "name": "Ryan Firpo", "role": "Guionista" },
+      { "name": "Kaz Firpo", "role": "Guionista" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "Portuguese"],
+      "country": "United States",
+      "budget": { "amount": 200000000, "currency": "USD" },
+      "boxOffice": { "amount": 402000000, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b6qUu00iIIkXX13szFy7d0CyNcg.jpg",
+    "trailer": "https://www.youtube.com/watch?v=x_me3xsvDgk",
+    "tags": ["Marvel", "inmortales", "Desviantes", "universo"],
+    "isActive": true
+  },
+  {
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "synopsis": "Shang-Chi se enfrenta al pasado que pensó haber dejado atrás cuando se ve envuelto en la red de la misteriosa organización de los Diez Anillos.",
+    "releaseDate": "2021-09-03",
+    "duration": 132,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Destin Daniel Cretton",
+    "producer": "Marvel Studios",
+    "genres": ["Acción", "Aventura", "Fantasía"],
+    "rating": { "tmdb": { "score": 77, "votes": 9500 } },
+    "cast": [
+      { "actor": "Simu Liu", "character": "Shang-Chi", "role": "Protagonista" },
+      { "actor": "Awkwafina", "character": "Katy", "role": "Secundario" },
+      { "actor": "Tony Leung Chiu-wai", "character": "Xu Wenwu", "role": "Antagonista" },
+      { "actor": "Meng'er Zhang", "character": "Xialing", "role": "Secundario" },
+      { "actor": "Michelle Yeoh", "character": "Ying Nan", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Destin Daniel Cretton", "role": "Director/Guionista" },
+      { "name": "Dave Callaham", "role": "Guionista" },
+      { "name": "Andrew Lanham", "role": "Guionista" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "German"],
+      "country": "United States",
+      "budget": { "amount": 150000000, "currency": "USD" },
+      "boxOffice": { "amount": 432000000, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg",
+    "trailer": "https://www.youtube.com/watch?v=giWIr7U1deA",
+    "tags": ["Marvel", "Shang-Chi", "Diez Anillos", "Kung-fu"],
+    "isActive": true
+  },
+  {
+    "title": "Venom: Let There Be Carnage",
+    "synopsis": "Eddie Brock y su simbionte Venom deben enfrentarse a Cletus Kasady, un asesino serial que adquiere un simbionte propio llamado Carnage.",
+    "releaseDate": "2021-10-01",
+    "duration": 97,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Andy Serkis",
+    "producer": "Columbia Pictures",
+    "genres": ["Acción", "Ciencia ficción"],
+    "rating": { "tmdb": { "score": 70, "votes": 6500 } },
+    "cast": [
+      { "actor": "Tom Hardy", "character": "Eddie Brock / Venom", "role": "Protagonista" },
+      { "actor": "Woody Harrelson", "character": "Cletus Kasady / Carnage", "role": "Antagonista" },
+      { "actor": "Michelle Williams", "character": "Anne Weying", "role": "Secundario" },
+      { "actor": "Naomie Harris", "character": "Frances Barrison / Shriek", "role": "Secundario" },
+      { "actor": "Reid Scott", "character": "Dan Lewis", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Andy Serkis", "role": "Director" },
+      { "name": "Kelly Marcel", "role": "Guionista" },
+      { "name": "Tom Hardy", "role": "Historia" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "Italian"],
+      "country": "United States",
+      "budget": { "amount": 110000000, "currency": "USD" },
+      "boxOffice": { "amount": 506000000, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg",
+    "trailer": "https://www.youtube.com/watch?v=-FmWuCgJmxo",
+    "tags": ["Marvel", "Venom", "Carnage", "simbionte"],
+    "isActive": true
+  },
+  {
+    "title": "The Suicide Squad",
+    "synopsis": "Un grupo de supervillanos es enviado en una misión suicida a una isla infestada de enemigos, bajo las órdenes de Amanda Waller.",
+    "releaseDate": "2021-08-06",
+    "duration": 132,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "James Gunn",
+    "producer": "DC Films",
+    "genres": ["Acción", "Aventura", "Comedia"],
+    "rating": { "tmdb": { "score": 77, "votes": 8000 } },
+    "cast": [
+      { "actor": "Margot Robbie", "character": "Harley Quinn", "role": "Protagonista" },
+      { "actor": "Idris Elba", "character": "Bloodsport", "role": "Protagonista" },
+      { "actor": "John Cena", "character": "Peacemaker", "role": "Secundario" },
+      { "actor": "Joel Kinnaman", "character": "Rick Flag", "role": "Secundario" },
+      { "actor": "Sylvester Stallone", "character": "King Shark (voz)", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "James Gunn", "role": "Director/Guionista" },
+      { "name": "John Ostrander", "role": "Creador de personajes" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "Portuguese"],
+      "country": "United States",
+      "budget": { "amount": 185000000, "currency": "USD" },
+      "boxOffice": { "amount": 168000000, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mbG5JwCkQaaAgf3Ugz4sDJwLP9Z.jpg",
+    "trailer": "https://www.youtube.com/watch?v=JuDLepNa7hw",
+    "tags": ["DC Comics", "escuadrón suicida", "villanos", "Harley Quinn"],
+    "isActive": true
+  },
+  {
+    "title": "The Flash",
+    "synopsis": "Barry Allen utiliza sus superpoderes para viajar en el tiempo con el fin de cambiar los acontecimientos del pasado. Pero su intento de salvar a su familia altera el futuro.",
+    "releaseDate": "2023-06-16",
+    "duration": 144,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Andy Muschietti",
+    "producer": "Warner Bros. Pictures",
+    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "rating": { "tmdb": { "score": 67, "votes": 4500 } },
+    "cast": [
+      { "actor": "Ezra Miller", "character": "Barry Allen / The Flash", "role": "Protagonista" },
+      { "actor": "Sasha Calle", "character": "Kara Zor-El / Supergirl", "role": "Secundario" },
+      { "actor": "Michael Keaton", "character": "Bruce Wayne / Batman (Tierra alterna)", "role": "Secundario" },
+      { "actor": "Ben Affleck", "character": "Bruce Wayne / Batman", "role": "Secundario" },
+      { "actor": "Michael Shannon", "character": "General Zod", "role": "Antagonista" }
+    ],
+    "crew": [
+      { "name": "Andy Muschietti", "role": "Director" },
+      { "name": "Christina Hodson", "role": "Guionista" },
+      { "name": "Gardner Fox", "role": "Creador de personajes" },
+      { "name": "Harry Lampert", "role": "Creador de personajes" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "Italian"],
+      "country": "United States",
+      "budget": { "amount": 200000000, "currency": "USD" },
+      "boxOffice": { "amount": 271000000, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+    "trailer": "https://www.youtube.com/watch?v=hebWYacbdvc",
+    "tags": ["DC Comics", "Flashpoint", "Batman", "Supergirl", "multiverso"],
+    "isActive": true
+  },
+
+
+  {
+    "title": "Aquaman y el Reino Perdido",
+    "synopsis": "Aquaman debe forjar una alianza incómoda con un antiguo enemigo para proteger a Atlantis y al mundo de una devastadora amenaza que pone en riesgo todo el planeta.",
+    "releaseDate": "2023-12-20",
+    "duration": 124,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "James Wan",
+    "producer": "Warner Bros. Pictures",
+    "genres": ["Acción", "Aventura", "Fantasía"],
+    "rating": { "tmdb": { "score": 63, "votes": 2500 } },
+    "cast": [
+      { "actor": "Jason Momoa", "character": "Arthur Curry / Aquaman", "role": "Protagonista" },
+      { "actor": "Patrick Wilson", "character": "Orm", "role": "Secundario" },
+      { "actor": "Amber Heard", "character": "Mera", "role": "Secundario" },
+      { "actor": "Yahya Abdul-Mateen II", "character": "Black Manta", "role": "Antagonista" },
+      { "actor": "Nicole Kidman", "character": "Atlanna", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "James Wan", "role": "Director" },
+      { "name": "David Leslie Johnson-McGoldrick", "role": "Guionista" },
+      { "name": "Paul Norris", "role": "Creador de personajes" },
+      { "name": "Mort Weisinger", "role": "Creador de personajes" }
+    ],
+    "technical": {
+      "language": "Español",
+      "subtitles": ["Inglés", "Francés", "Portugués"],
+      "country": "Estados Unidos",
+      "budget": { "amount": 205000000, "currency": "USD" },
+      "boxOffice": { "amount": 423000000, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mYpT2R7639KvKZ668uoQGS2QNFp.jpg",
+    "trailer": "https://www.youtube.com/watch?v=UGc5Tzz19UY",
+    "tags": ["DC Comics", "Aquaman", "Atlantis", "superhéroes", "fantasía"],
+    "isActive": true
+  },
+  {
+    "title": "Blue Beetle",
+    "synopsis": "Jaime Reyes, un joven recién graduado, encuentra un antiguo escarabajo alienígena que le otorga una armadura biomecánica con poderes extraordinarios.",
+    "releaseDate": "2023-08-18",
+    "duration": 127,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Ángel Manuel Soto",
+    "producer": "Warner Bros. Pictures",
+    "genres": ["Acción", "Ciencia ficción", "Aventura"],
+    "rating": { "tmdb": { "score": 69, "votes": 2200 } },
+    "cast": [
+      { "actor": "Xolo Maridueña", "character": "Jaime Reyes / Blue Beetle", "role": "Protagonista" },
+      { "actor": "Bruna Marquezine", "character": "Jenny Kord", "role": "Secundario" },
+      { "actor": "Susan Sarandon", "character": "Victoria Kord", "role": "Antagonista" },
+      { "actor": "George Lopez", "character": "Rudy Reyes", "role": "Secundario" },
+      { "actor": "Belissa Escobedo", "character": "Milagro Reyes", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Ángel Manuel Soto", "role": "Director" },
+      { "name": "Gareth Dunnet-Alcocer", "role": "Guionista" },
+      { "name": "Keith Giffen", "role": "Creador de personajes" },
+      { "name": "Cully Hamner", "role": "Creador de personajes" }
+    ],
+    "technical": {
+      "language": "Español",
+      "subtitles": ["Inglés", "Francés", "Italiano"],
+      "country": "Estados Unidos",
+      "budget": { "amount": 104000000, "currency": "USD" },
+      "boxOffice": { "amount": 130000000, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg",
+    "trailer": "https://www.youtube.com/watch?v=4wxyy8Rcz4k",
+    "tags": ["DC Comics", "Blue Beetle", "Latino", "superhéroes"],
+    "isActive": true
+  },
+  {
+    "title": "Wonder Woman 1984",
+    "synopsis": "Diana Prince entra en conflicto con el magnate Maxwell Lord y con su antigua amiga Barbara Minerva, quien se convierte en la feroz Cheetah.",
+    "releaseDate": "2020-12-25",
+    "duration": 151,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Patty Jenkins",
+    "producer": "Warner Bros. Pictures",
+    "genres": ["Acción", "Aventura", "Fantasía"],
+    "rating": { "tmdb": { "score": 64, "votes": 7000 } },
+    "cast": [
+      { "actor": "Gal Gadot", "character": "Diana Prince / Wonder Woman", "role": "Protagonista" },
+      { "actor": "Chris Pine", "character": "Steve Trevor", "role": "Secundario" },
+      { "actor": "Kristen Wiig", "character": "Barbara Minerva / Cheetah", "role": "Antagonista" },
+      { "actor": "Pedro Pascal", "character": "Maxwell Lord", "role": "Antagonista" },
+      { "actor": "Robin Wright", "character": "Antíope", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Patty Jenkins", "role": "Directora/Guionista" },
+      { "name": "Geoff Johns", "role": "Guionista" },
+      { "name": "William Moulton Marston", "role": "Creador de personajes" }
+    ],
+    "technical": {
+      "language": "Español",
+      "subtitles": ["Inglés", "Francés", "Portugués"],
+      "country": "Estados Unidos",
+      "budget": { "amount": 200000000, "currency": "USD" },
+      "boxOffice": { "amount": 169000000, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
+    "trailer": "https://www.youtube.com/watch?v=XW2E2Fnh52w",
+    "tags": ["DC Comics", "Wonder Woman", "Cheetah", "Maxwell Lord"],
+    "isActive": true
+  },
+  {
+    "title": "Joker",
+    "synopsis": "Arthur Fleck, un comediante con problemas mentales, inicia una espiral descendente hacia la locura y se convierte en el icónico criminal conocido como el Joker.",
+    "releaseDate": "2019-10-04",
+    "duration": 122,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Todd Phillips",
+    "producer": "Warner Bros. Pictures",
+    "genres": ["Crimen", "Drama", "Suspenso"],
+    "rating": { "tmdb": { "score": 82, "votes": 19000 } },
+    "cast": [
+      { "actor": "Joaquin Phoenix", "character": "Arthur Fleck / Joker", "role": "Protagonista" },
+      { "actor": "Robert De Niro", "character": "Murray Franklin", "role": "Secundario" },
+      { "actor": "Zazie Beetz", "character": "Sophie Dumond", "role": "Secundario" },
+      { "actor": "Frances Conroy", "character": "Penny Fleck", "role": "Secundario" },
+      { "actor": "Brett Cullen", "character": "Thomas Wayne", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Todd Phillips", "role": "Director/Guionista" },
+      { "name": "Scott Silver", "role": "Guionista" },
+      { "name": "Bob Kane", "role": "Creador de personajes" },
+      { "name": "Bill Finger", "role": "Creador de personajes" }
+    ],
+    "technical": {
+      "language": "Español",
+      "subtitles": ["Inglés", "Francés", "Italiano"],
+      "country": "Estados Unidos",
+      "budget": { "amount": 55000000, "currency": "USD" },
+      "boxOffice": { "amount": 1074000000, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+    "trailer": "https://www.youtube.com/watch?v=zAGVQLHvwOY",
+    "tags": ["DC Comics", "Joker", "villanos", "origen", "psicología"],
+    "isActive": true
+  },
+  {
+    "title": "Avengers: Endgame",
+    "synopsis": "Después de los devastadores eventos de 'Infinity War', los Vengadores restantes deben encontrar la forma de traer de vuelta a sus aliados y derrotar definitivamente a Thanos.",
+    "releaseDate": "2019-04-26",
+    "duration": 181,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Anthony Russo, Joe Russo",
+    "producer": "Marvel Studios",
+    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "rating": { "tmdb": { "score": 83, "votes": 25000 } },
+    "cast": [
+      { "actor": "Robert Downey Jr.", "character": "Tony Stark / Iron Man", "role": "Protagonista" },
+      { "actor": "Chris Evans", "character": "Steve Rogers / Capitán América", "role": "Protagonista" },
+      { "actor": "Scarlett Johansson", "character": "Natasha Romanoff / Black Widow", "role": "Protagonista" },
+      { "actor": "Chris Hemsworth", "character": "Thor", "role": "Protagonista" },
+      { "actor": "Josh Brolin", "character": "Thanos", "role": "Antagonista" }
+    ],
+    "crew": [
+      { "name": "Anthony Russo", "role": "Director" },
+      { "name": "Joe Russo", "role": "Director" },
+      { "name": "Christopher Markus", "role": "Guionista" },
+      { "name": "Stephen McFeely", "role": "Guionista" },
+      { "name": "Stan Lee", "role": "Creador de personajes" },
+      { "name": "Jack Kirby", "role": "Creador de personajes" }
+    ],
+    "technical": {
+      "language": "Español",
+      "subtitles": ["Inglés", "Francés", "Portugués"],
+      "country": "Estados Unidos",
+      "budget": { "amount": 356000000, "currency": "USD" },
+      "boxOffice": { "amount": 2798000000, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "trailer": "https://www.youtube.com/watch?v=TcMBFSGVi1c",
+    "tags": ["Marvel", "Avengers", "Thanos", "Infinity Stones", "superhéroes"],
+    "isActive": true
+  },
+
+  {
+    "title": "Star Wars: Episode IV - A New Hope",
+    "synopsis": "Un joven granjero llamado Luke Skywalker se une a un grupo de rebeldes para luchar contra el Imperio Galáctico y destruir la Estrella de la Muerte.",
+    "releaseDate": "1977-05-25",
+    "duration": 121,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "68d37ccf90259a0395f694b0",
+    "producer": "68d3795c90259a0395f694c1",
+    "genres": ["68d35480400438b1d96619af", "68d361c2400438b1d96619c8"],
+    "rating": {
+      "imdb": { "score": 8.6, "votes": 1400000 },
+      "rottenTomatoes": 93,
+      "metacritic": 90
+    },
+    "cast": [
+      { "actor": "Mark Hamill", "character": "Luke Skywalker", "role": "Protagonista" },
+      { "actor": "Harrison Ford", "character": "Han Solo", "role": "Protagonista" },
+      { "actor": "Carrie Fisher", "character": "Princesa Leia Organa", "role": "Protagonista" }
+    ],
+    "crew": [
+      { "name": "George Lucas", "role": "Guionista" },
+      { "name": "John Williams", "role": "Música" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "German"],
+      "country": "United States",
+      "budget": { "amount": 11000000, "currency": "USD" },
+      "boxOffice": { "amount": 775000000, "currency": "USD" }
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+    "trailer": "https://www.youtube.com/watch?v=vZ734NWnAHA",
+    "tags": ["Star Wars", "rebeldes", "imperio", "espacio"],
+    "isActive": true
+  },
+  {
+    "title": "Game of Thrones",
+    "synopsis": "Nueve familias nobles luchan por el control de los Siete Reinos de Westeros, mientras una antigua amenaza regresa tras miles de años.",
+    "releaseDate": "2011-04-17",
+    "duration": 60,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "David Benioff & D.B. Weiss",
+    "producer": "HBO",
+    "genres": ["Drama", "Fantasía"],
+    "rating": {
+      "imdb": {
+        "score": 9.2,
+        "votes": 2200000
+      }
+    },
+    "cast": [
+      { "actor": "Emilia Clarke", "character": "Daenerys Targaryen", "role": "Protagonista" },
+      { "actor": "Kit Harington", "character": "Jon Snow", "role": "Protagonista" },
+      { "actor": "Peter Dinklage", "character": "Tyrion Lannister", "role": "Protagonista" }
+    ],
+    "crew": [
+      { "name": "George R.R. Martin", "role": "Autor original" },
+      { "name": "Ramin Djawadi", "role": "Compositor" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "Portuguese"],
+      "country": "United States"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/gameofthrones.jpg",
+    "trailer": "https://www.youtube.com/watch?v=gcTkNV5Vg1E",
+    "tags": ["fantasy", "dragons", "politics", "epic"],
+    "isActive": true
+  },
+  {
+    "title": "Breaking Bad",
+    "synopsis": "Un profesor de química con cáncer terminal comienza a producir metanfetaminas para asegurar el futuro de su familia.",
+    "releaseDate": "2008-01-20",
+    "duration": 47,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Vince Gilligan",
+    "producer": "AMC",
+    "genres": ["Drama", "Crimen"],
+    "rating": {
+      "imdb": {
+        "score": 9.5,
+        "votes": 2000000
+      }
+    },
+    "cast": [
+      { "actor": "Bryan Cranston", "character": "Walter White", "role": "Protagonista" },
+      { "actor": "Aaron Paul", "character": "Jesse Pinkman", "role": "Protagonista" }
+    ],
+    "crew": [
+      { "name": "Vince Gilligan", "role": "Creador" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French"],
+      "country": "United States"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/breakingbad.jpg",
+    "trailer": "https://www.youtube.com/watch?v=HhesaQXLuRY",
+    "tags": ["crime", "drugs", "antihero"],
+    "isActive": true
+  },
+  {
+    "title": "Stranger Things",
+    "synopsis": "En un pueblo de Indiana en los años 80, un grupo de niños descubre un mundo paralelo llamado el 'Upside Down'.",
+    "releaseDate": "2016-07-15",
+    "duration": 50,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "The Duffer Brothers",
+    "producer": "Netflix",
+    "genres": ["Ciencia ficción", "Terror"],
+    "rating": {
+      "imdb": {
+        "score": 8.7,
+        "votes": 1300000
+      }
+    },
+    "cast": [
+      { "actor": "Millie Bobby Brown", "character": "Eleven", "role": "Protagonista" },
+      { "actor": "Finn Wolfhard", "character": "Mike Wheeler", "role": "Protagonista" }
+    ],
+    "crew": [
+      { "name": "Kyle Dixon & Michael Stein", "role": "Compositores" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "Portuguese"],
+      "country": "United States"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/strangerthings.jpg",
+    "trailer": "https://www.youtube.com/watch?v=b9EkMc79ZSU",
+    "tags": ["mystery", "sci-fi", "retro"],
+    "isActive": true
+  },
+  {
+    "title": "The Witcher",
+    "synopsis": "Geralt de Rivia, un cazador de monstruos mutante, lucha por encontrar su lugar en un mundo donde las personas son más perversas que las bestias.",
+    "releaseDate": "2019-12-20",
+    "duration": 60,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Lauren Schmidt Hissrich",
+    "producer": "Netflix",
+    "genres": ["Fantasía", "Aventura"],
+    "rating": {
+      "imdb": {
+        "score": 8.0,
+        "votes": 600000
+      }
+    },
+    "cast": [
+      { "actor": "Henry Cavill", "character": "Geralt of Rivia", "role": "Protagonista" },
+      { "actor": "Anya Chalotra", "character": "Yennefer de Vengerberg", "role": "Protagonista" }
+    ],
+    "crew": [
+      { "name": "Andrzej Sapkowski", "role": "Autor original" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French", "German"],
+      "country": "United States"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/witcher.jpg",
+    "trailer": "https://www.youtube.com/watch?v=ndl1W4ltcmg",
+    "tags": ["fantasy", "magic", "monsters"],
+    "isActive": true
+  },
+  {
+    "title": "The Mandalorian",
+    "synopsis": "Un cazarrecompensas mandaloriano recorre la galaxia cuidando a un misterioso niño de la misma especie que Yoda.",
+    "releaseDate": "2019-11-12",
+    "duration": 40,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Jon Favreau",
+    "producer": "Disney+",
+    "genres": ["Ciencia ficción", "Aventura"],
+    "rating": {
+      "imdb": {
+        "score": 8.7,
+        "votes": 500000
+      }
+    },
+    "cast": [
+      { "actor": "Pedro Pascal", "character": "Din Djarin", "role": "Protagonista" },
+      { "actor": "Giancarlo Esposito", "character": "Moff Gideon", "role": "Antagonista" }
+    ],
+    "crew": [
+      { "name": "Dave Filoni", "role": "Productor" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French"],
+      "country": "United States"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/mandalorian.jpg",
+    "trailer": "https://www.youtube.com/watch?v=aOC8E8z_ifw",
+    "tags": ["star wars", "bounty hunter", "sci-fi"],
+    "isActive": true
+  },
+  {
+    "title": "The Last of Us",
+    "synopsis": "Un contrabandista debe escoltar a una niña inmune a través de un Estados Unidos postapocalíptico devastado por un hongo letal.",
+    "releaseDate": "2023-01-15",
+    "duration": 55,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Craig Mazin & Neil Druckmann",
+    "producer": "HBO",
+    "genres": ["Drama", "Aventura"],
+    "rating": {
+      "imdb": {
+        "score": 8.8,
+        "votes": 600000
+      }
+    },
+    "cast": [
+      { "actor": "Pedro Pascal", "character": "Joel Miller", "role": "Protagonista" },
+      { "actor": "Bella Ramsey", "character": "Ellie", "role": "Protagonista" }
+    ],
+    "crew": [
+      { "name": "Neil Druckmann", "role": "Creador original" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "Portuguese"],
+      "country": "United States"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/lastofus.jpg",
+    "trailer": "https://www.youtube.com/watch?v=uLtkt8BonwM",
+    "tags": ["apocalypse", "fungus", "survival"],
+    "isActive": true
+  },
+  {
+    "title": "The Boys",
+    "synopsis": "Un grupo de vigilantes intenta derribar a superhéroes corruptos que abusan de su fama y poder.",
+    "releaseDate": "2019-07-26",
+    "duration": 60,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Eric Kripke",
+    "producer": "Amazon Prime Video",
+    "genres": ["Acción", "Drama"],
+    "rating": {
+      "imdb": {
+        "score": 8.7,
+        "votes": 600000
+      }
+    },
+    "cast": [
+      { "actor": "Karl Urban", "character": "Billy Butcher", "role": "Protagonista" },
+      { "actor": "Antony Starr", "character": "Homelander", "role": "Antagonista" }
+    ],
+    "crew": [
+      { "name": "Seth Rogen", "role": "Productor" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French"],
+      "country": "United States"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/theboys.jpg",
+    "trailer": "https://www.youtube.com/watch?v=06rueu_fh30",
+    "tags": ["superheroes", "dark comedy", "violence"],
+    "isActive": true
+  },
+  {
+    "title": "Peaky Blinders",
+    "synopsis": "Una familia de gánsteres en Birmingham, Inglaterra, se abre camino en el crimen organizado después de la Primera Guerra Mundial.",
+    "releaseDate": "2013-09-12",
+    "duration": 55,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Steven Knight",
+    "producer": "BBC",
+    "genres": ["Drama", "Crimen"],
+    "rating": {
+      "imdb": {
+        "score": 8.8,
+        "votes": 600000
+      }
+    },
+    "cast": [
+      { "actor": "Cillian Murphy", "character": "Thomas Shelby", "role": "Protagonista" },
+      { "actor": "Paul Anderson", "character": "Arthur Shelby", "role": "Protagonista" }
+    ],
+    "crew": [
+      { "name": "Steven Knight", "role": "Creador" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French"],
+      "country": "United Kingdom"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/peakyblinders.jpg",
+    "trailer": "https://www.youtube.com/watch?v=oVzVdvGIC7U",
+    "tags": ["gangsters", "crime", "britain"],
+    "isActive": true
+  },
+  {
+    "title": "House of the Dragon",
+    "synopsis": "Precuela de Game of Thrones que narra la guerra civil de la Casa Targaryen conocida como la Danza de los Dragones.",
+    "releaseDate": "2022-08-21",
+    "duration": 60,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Ryan Condal & Miguel Sapochnik",
+    "producer": "HBO",
+    "genres": ["Drama", "Fantasía"],
+    "rating": {
+      "imdb": {
+        "score": 8.5,
+        "votes": 400000
+      }
+    },
+    "cast": [
+      { "actor": "Emma D'Arcy", "character": "Rhaenyra Targaryen", "role": "Protagonista" },
+      { "actor": "Matt Smith", "character": "Daemon Targaryen", "role": "Protagonista" }
+    ],
+    "crew": [
+      { "name": "George R.R. Martin", "role": "Autor original" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "Portuguese"],
+      "country": "United States"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/houseofthedragon.jpg",
+    "trailer": "https://www.youtube.com/watch?v=DotnJ7tTA34",
+    "tags": ["dragons", "fantasy", "civil war"],
+    "isActive": true
+  },
+  {
+    "title": "Loki",
+    "synopsis": "Después de robar el Teseracto, Loki es llevado ante la Autoridad de Variación Temporal, que lo obliga a reparar la línea temporal.",
+    "releaseDate": "2021-06-09",
+    "duration": 52,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Michael Waldron",
+    "producer": "Disney+",
+    "genres": ["Ciencia ficción", "Acción"],
+    "rating": {
+      "imdb": {
+        "score": 8.2,
+        "votes": 400000
+      }
+    },
+    "cast": [
+      { "actor": "Tom Hiddleston", "character": "Loki", "role": "Protagonista" },
+      { "actor": "Sophia Di Martino", "character": "Sylvie", "role": "Protagonista" }
+    ],
+    "crew": [
+      { "name": "Kate Herron", "role": "Directora (T1)" }
+    ],
+    "technical": {
+      "language": "English",
+      "subtitles": ["Spanish", "French"],
+      "country": "United States"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/loki.jpg",
+    "trailer": "https://www.youtube.com/watch?v=nW948Va-l10",
+    "tags": ["marvel", "multiverse", "sci-fi"],
+    "isActive": true
+  },
+
+  {
+  "title": "La Casa de Papel",
+  "synopsis": "Un misterioso hombre apodado 'El Profesor' reúne a un grupo de ocho delincuentes con habilidades únicas para llevar a cabo el mayor atraco de la historia: entrar a la Fábrica Nacional de Moneda y Timbre de España y robar 2.400 millones de euros.",
+  "releaseDate": "2017-05-02",
+  "duration": 70,
+  "type": "68d31d4a400438b1d9661986",
+  "director": "Álex Pina",
+  "producer": "Vancouver Media / Netflix",
+  "genres": ["Drama", "Crimen", "Thriller"],
+  "rating": {
+    "imdb": {
+      "score": 8.2,
+      "votes": 550000
+    }
+  },
+  "cast": [
+    { "actor": "Álvaro Morte", "character": "Sergio Marquina 'El Profesor'", "role": "Protagonista" },
+    { "actor": "Úrsula Corberó", "character": "Silene Oliveira 'Tokio'", "role": "Protagonista" },
+    { "actor": "Pedro Alonso", "character": "Andrés de Fonollosa 'Berlín'", "role": "Protagonista" },
+    { "actor": "Itziar Ituño", "character": "Raquel Murillo / Lisboa", "role": "Protagonista" },
+    { "actor": "Miguel Herrán", "character": "Aníbal Cortés 'Río'", "role": "Protagonista" },
+    { "actor": "Jaime Lorente", "character": "Daniel Ramos 'Denver'", "role": "Protagonista" },
+    { "actor": "Darko Perić", "character": "Yashin Dasáyev 'Helsinki'", "role": "Protagonista" },
+    { "actor": "Alba Flores", "character": "Ágata Jiménez 'Nairobi'", "role": "Protagonista" }
+  ],
+  "crew": [
+    { "name": "Álex Pina", "role": "Creador" },
+    { "name": "Jesús Colmenar", "role": "Director" },
+    { "name": "Manel Santisteban", "role": "Compositor" }
+  ],
+  "technical": {
+    "language": "Spanish",
+    "subtitles": ["English", "French", "Portuguese", "German"],
+    "country": "Spain"
+  },
+  "poster": "https://image.tmdb.org/t/p/w500/lacasadepapel.jpg",
+  "trailer": "https://www.youtube.com/watch?v=To_kVMMu-Ls",
+  "tags": ["heist", "robbery", "thriller", "drama", "Spain"],
+  "isActive": true
+},
+
+  {
+    "title": "Loki",
+    "synopsis": "Después de robar el Teseracto, una variante de Loki es llevada ante la Autoridad de Variación Temporal, una organización burocrática que existe fuera del tiempo y el espacio.",
+    "releaseDate": "2021-06-09",
+    "duration": 52,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Kate Herron",
+    "producer": "Marvel Studios",
+    "genres": ["Ciencia ficción", "Fantasía", "Aventura"],
+    "rating": { "tmdb": { "score": 82, "votes": 12000 } },
+    "cast": [
+      { "actor": "Tom Hiddleston", "character": "Loki", "role": "Protagonista" },
+      { "actor": "Owen Wilson", "character": "Mobius M. Mobius", "role": "Secundario" },
+      { "actor": "Sophia Di Martino", "character": "Sylvie", "role": "Secundario" },
+      { "actor": "Gugu Mbatha-Raw", "character": "Ravonna Renslayer", "role": "Secundario" },
+      { "actor": "Jonathan Majors", "character": "El que permanece", "role": "Antagonista" }
+    ],
+    "crew": [
+      { "name": "Kate Herron", "role": "Directora" },
+      { "name": "Michael Waldron", "role": "Creador/Guionista" },
+      { "name": "Stan Lee", "role": "Creador de personajes" },
+      { "name": "Jack Kirby", "role": "Creador de personajes" }
+    ],
+    "technical": {
+      "language": "Español",
+      "subtitles": ["Inglés", "Francés", "Portugués"],
+      "country": "Estados Unidos",
+      "budget": { "amount": 150000000, "currency": "USD" },
+      "boxOffice": { "amount": null, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg",
+    "trailer": "https://www.youtube.com/watch?v=nW948Va-l10",
+    "tags": ["Marvel", "Loki", "multiverso", "TVA"],
+    "isActive": true
+  },
+  {
+    "title": "WandaVision",
+    "synopsis": "Wanda Maximoff y Vision viven una vida ideal en los suburbios, pero pronto comienzan a sospechar que todo no es lo que parece.",
+    "releaseDate": "2021-01-15",
+    "duration": 40,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Matt Shakman",
+    "producer": "Marvel Studios",
+    "genres": ["Ciencia ficción", "Drama", "Misterio"],
+    "rating": { "tmdb": { "score": 82, "votes": 12500 } },
+    "cast": [
+      { "actor": "Elizabeth Olsen", "character": "Wanda Maximoff", "role": "Protagonista" },
+      { "actor": "Paul Bettany", "character": "Vision", "role": "Protagonista" },
+      { "actor": "Kathryn Hahn", "character": "Agatha Harkness", "role": "Antagonista" },
+      { "actor": "Teyonah Parris", "character": "Monica Rambeau", "role": "Secundario" },
+      { "actor": "Evan Peters", "character": "Ralph Bohner", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Matt Shakman", "role": "Director" },
+      { "name": "Jac Schaeffer", "role": "Creadora/Guionista" },
+      { "name": "Stan Lee", "role": "Creador de personajes" },
+      { "name": "Jack Kirby", "role": "Creador de personajes" }
+    ],
+    "technical": {
+      "language": "Español",
+      "subtitles": ["Inglés", "Francés", "Italiano"],
+      "country": "Estados Unidos",
+      "budget": { "amount": 225000000, "currency": "USD" },
+      "boxOffice": { "amount": null, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
+    "trailer": "https://www.youtube.com/watch?v=sj9J2ecsSpo",
+    "tags": ["Marvel", "Wanda", "Vision", "sitcom", "hechicería"],
+    "isActive": true
+  },
+  {
+    "title": "The Falcon and the Winter Soldier",
+    "synopsis": "Sam Wilson y Bucky Barnes unen fuerzas en una aventura global que pone a prueba sus habilidades, su paciencia y su fe.",
+    "releaseDate": "2021-03-19",
+    "duration": 50,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Kari Skogland",
+    "producer": "Marvel Studios",
+    "genres": ["Acción", "Aventura", "Drama"],
+    "rating": { "tmdb": { "score": 78, "votes": 9500 } },
+    "cast": [
+      { "actor": "Anthony Mackie", "character": "Sam Wilson / Falcon", "role": "Protagonista" },
+      { "actor": "Sebastian Stan", "character": "Bucky Barnes / Winter Soldier", "role": "Protagonista" },
+      { "actor": "Wyatt Russell", "character": "John Walker", "role": "Antagonista" },
+      { "actor": "Daniel Brühl", "character": "Barón Zemo", "role": "Antagonista" },
+      { "actor": "Emily VanCamp", "character": "Sharon Carter", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Kari Skogland", "role": "Directora" },
+      { "name": "Malcolm Spellman", "role": "Creador/Guionista" },
+      { "name": "Stan Lee", "role": "Creador de personajes" },
+      { "name": "Jack Kirby", "role": "Creador de personajes" }
+    ],
+    "technical": {
+      "language": "Español",
+      "subtitles": ["Inglés", "Francés", "Portugués"],
+      "country": "Estados Unidos",
+      "budget": { "amount": 150000000, "currency": "USD" },
+      "boxOffice": { "amount": null, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
+    "trailer": "https://www.youtube.com/watch?v=IWBsDaFWyTE",
+    "tags": ["Marvel", "Falcon", "Winter Soldier", "Capitán América"],
+    "isActive": true
+  },
+  {
+    "title": "Hawkeye",
+    "synopsis": "Clint Barton, alias Hawkeye, se enfrenta a amenazas de su pasado mientras entrena a una joven arquera llamada Kate Bishop en la ciudad de Nueva York.",
+    "releaseDate": "2021-11-24",
+    "duration": 50,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Rhys Thomas",
+    "producer": "Marvel Studios",
+    "genres": ["Acción", "Aventura", "Comedia"],
+    "rating": { "tmdb": { "score": 79, "votes": 8500 } },
+    "cast": [
+      { "actor": "Jeremy Renner", "character": "Clint Barton / Hawkeye", "role": "Protagonista" },
+      { "actor": "Hailee Steinfeld", "character": "Kate Bishop", "role": "Protagonista" },
+      { "actor": "Florence Pugh", "character": "Yelena Belova", "role": "Secundario" },
+      { "actor": "Alaqua Cox", "character": "Maya Lopez / Echo", "role": "Secundario" },
+      { "actor": "Tony Dalton", "character": "Jack Duquesne", "role": "Antagonista" }
+    ],
+    "crew": [
+      { "name": "Rhys Thomas", "role": "Director" },
+      { "name": "Jonathan Igla", "role": "Creador/Guionista" },
+      { "name": "Stan Lee", "role": "Creador de personajes" }
+    ],
+    "technical": {
+      "language": "Español",
+      "subtitles": ["Inglés", "Francés", "Italiano"],
+      "country": "Estados Unidos",
+      "budget": { "amount": 150000000, "currency": "USD" },
+      "boxOffice": { "amount": null, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ct5i8ncb1l0lHIaYlrh5rSe7uYk.jpg",
+    "trailer": "https://www.youtube.com/watch?v=5VYb3B1ETlk",
+    "tags": ["Marvel", "Hawkeye", "Kate Bishop", "arquería"],
+    "isActive": true
+  },
+  {
+    "title": "Moon Knight",
+    "synopsis": "Steven Grant, un empleado de una tienda de regalos, comienza a experimentar apagones y recuerdos de otra vida como el mercenario Marc Spector, avatar del dios egipcio Khonshu.",
+    "releaseDate": "2022-03-30",
+    "duration": 50,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Mohamed Diab",
+    "producer": "Marvel Studios",
+    "genres": ["Acción", "Aventura", "Fantasía"],
+    "rating": { "tmdb": { "score": 78, "votes": 9000 } },
+    "cast": [
+      { "actor": "Oscar Isaac", "character": "Marc Spector / Moon Knight", "role": "Protagonista" },
+      { "actor": "Ethan Hawke", "character": "Arthur Harrow", "role": "Antagonista" },
+      { "actor": "May Calamawy", "character": "Layla El-Faouly", "role": "Secundario" },
+      { "actor": "F. Murray Abraham", "character": "Khonshu (voz)", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Mohamed Diab", "role": "Director" },
+      { "name": "Jeremy Slater", "role": "Creador/Guionista" },
+      { "name": "Doug Moench", "role": "Creador de personajes" },
+      { "name": "Don Perlin", "role": "Creador de personajes" }
+    ],
+    "technical": {
+      "language": "Español",
+      "subtitles": ["Inglés", "Francés", "Portugués"],
+      "country": "Estados Unidos",
+      "budget": { "amount": 150000000, "currency": "USD" },
+      "boxOffice": { "amount": null, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/94o3z0x0qJk9T0l7QIW1zRXLma7.jpg",
+    "trailer": "https://www.youtube.com/watch?v=x7Krla_UxRg",
+    "tags": ["Marvel", "Moon Knight", "Khonshu", "Egipto"],
+    "isActive": true
+  },
+
+
+  {
+    "title": "Ms. Marvel",
+    "synopsis": "Kamala Khan, una adolescente musulmana de Nueva Jersey, obtiene poderes cósmicos y se convierte en la heroína que siempre soñó ser: Ms. Marvel.",
+    "releaseDate": "2022-06-08",
+    "duration": 45,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Adil El Arbi, Bilall Fallah",
+    "producer": "Marvel Studios",
+    "genres": ["Acción", "Aventura", "Ciencia ficción"],
+    "rating": { "tmdb": { "score": 66, "votes": 4500 } },
+    "cast": [
+      { "actor": "Iman Vellani", "character": "Kamala Khan / Ms. Marvel", "role": "Protagonista" },
+      { "actor": "Matt Lintz", "character": "Bruno Carrelli", "role": "Secundario" },
+      { "actor": "Yasmeen Fletcher", "character": "Nakia Bahadir", "role": "Secundario" },
+      { "actor": "Zenobia Shroff", "character": "Muneeba Khan", "role": "Secundario" },
+      { "actor": "Mohan Kapur", "character": "Yusuf Khan", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Bisha K. Ali", "role": "Creadora/Guionista" },
+      { "name": "Adil El Arbi", "role": "Director" },
+      { "name": "Bilall Fallah", "role": "Director" },
+      { "name": "Stan Lee", "role": "Creador de personajes" }
+    ],
+    "technical": {
+      "language": "Español",
+      "subtitles": ["Inglés", "Francés", "Árabe"],
+      "country": "Estados Unidos",
+      "budget": { "amount": 150000000, "currency": "USD" },
+      "boxOffice": { "amount": null, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/84Kz8Sd2cwqisf7WwV7EN6Epb7Q.jpg",
+    "trailer": "https://www.youtube.com/watch?v=m9EX0f6V11Y",
+    "tags": ["Marvel", "Kamala Khan", "Ms. Marvel", "adolescencia"],
+    "isActive": true
+  },
+  {
+    "title": "She-Hulk: Defensora de Héroes",
+    "synopsis": "Jennifer Walters, una abogada especializada en casos legales de superhumanos, debe equilibrar su vida como profesional y como superhéroe tras recibir poderes de Hulk.",
+    "releaseDate": "2022-08-18",
+    "duration": 35,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Kat Coiro",
+    "producer": "Marvel Studios",
+    "genres": ["Comedia", "Acción", "Ciencia ficción"],
+    "rating": { "tmdb": { "score": 59, "votes": 5000 } },
+    "cast": [
+      { "actor": "Tatiana Maslany", "character": "Jennifer Walters / She-Hulk", "role": "Protagonista" },
+      { "actor": "Mark Ruffalo", "character": "Bruce Banner / Hulk", "role": "Secundario" },
+      { "actor": "Tim Roth", "character": "Emil Blonsky / Abominación", "role": "Antagonista" },
+      { "actor": "Ginger Gonzaga", "character": "Nikki Ramos", "role": "Secundario" },
+      { "actor": "Jameela Jamil", "character": "Titania", "role": "Antagonista" }
+    ],
+    "crew": [
+      { "name": "Kat Coiro", "role": "Directora" },
+      { "name": "Jessica Gao", "role": "Creadora/Guionista" },
+      { "name": "Stan Lee", "role": "Creador de personajes" },
+      { "name": "John Buscema", "role": "Creador de personajes" }
+    ],
+    "technical": {
+      "language": "Español",
+      "subtitles": ["Inglés", "Francés", "Portugués"],
+      "country": "Estados Unidos",
+      "budget": { "amount": 150000000, "currency": "USD" },
+      "boxOffice": { "amount": null, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
+    "trailer": "https://www.youtube.com/watch?v=u7JsKhI2An0",
+    "tags": ["Marvel", "She-Hulk", "Hulk", "abogada"],
+    "isActive": true
+  },
+  {
+    "title": "Secret Invasion",
+    "synopsis": "Nick Fury y Talos descubren una invasión clandestina de los Skrulls, una raza alienígena que se ha infiltrado en la Tierra durante años.",
+    "releaseDate": "2023-06-21",
+    "duration": 45,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Ali Selim",
+    "producer": "Marvel Studios",
+    "genres": ["Acción", "Ciencia ficción", "Suspenso"],
+    "rating": { "tmdb": { "score": 62, "votes": 4200 } },
+    "cast": [
+      { "actor": "Samuel L. Jackson", "character": "Nick Fury", "role": "Protagonista" },
+      { "actor": "Ben Mendelsohn", "character": "Talos", "role": "Protagonista" },
+      { "actor": "Kingsley Ben-Adir", "character": "Gravik", "role": "Antagonista" },
+      { "actor": "Emilia Clarke", "character": "G'iah", "role": "Secundario" },
+      { "actor": "Olivia Colman", "character": "Sonya Falsworth", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Ali Selim", "role": "Director" },
+      { "name": "Kyle Bradstreet", "role": "Creador/Guionista" },
+      { "name": "Brian Michael Bendis", "role": "Creador de personajes" },
+      { "name": "Mark Millar", "role": "Creador de personajes" }
+    ],
+    "technical": {
+      "language": "Español",
+      "subtitles": ["Inglés", "Francés", "Italiano"],
+      "country": "Estados Unidos",
+      "budget": { "amount": 212000000, "currency": "USD" },
+      "boxOffice": { "amount": null, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qVNyhhCgm20BrYzGTJrLRIkt6l8.jpg",
+    "trailer": "https://www.youtube.com/watch?v=Tp_YZNqNBhw",
+    "tags": ["Marvel", "Nick Fury", "Skrulls", "invasión secreta"],
+    "isActive": true
+  },
+  {
+    "title": "What If...?",
+    "synopsis": "Una serie animada que explora realidades alternativas del Universo Cinematográfico de Marvel, mostrando lo que sucedería si los eventos ocurrieran de manera diferente.",
+    "releaseDate": "2021-08-11",
+    "duration": 33,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Bryan Andrews",
+    "producer": "Marvel Studios",
+    "genres": ["Animación", "Ciencia ficción", "Aventura"],
+    "rating": { "tmdb": { "score": 79, "votes": 8000 } },
+    "cast": [
+      { "actor": "Jeffrey Wright", "character": "The Watcher (voz)", "role": "Protagonista" },
+      { "actor": "Chadwick Boseman", "character": "T'Challa (voz)", "role": "Secundario" },
+      { "actor": "Hayley Atwell", "character": "Peggy Carter (voz)", "role": "Secundario" },
+      { "actor": "Benedict Cumberbatch", "character": "Doctor Strange (voz)", "role": "Secundario" },
+      { "actor": "Samuel L. Jackson", "character": "Nick Fury (voz)", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Bryan Andrews", "role": "Director" },
+      { "name": "A.C. Bradley", "role": "Creadora/Guionista" },
+      { "name": "Stan Lee", "role": "Creador de personajes" }
+    ],
+    "technical": {
+      "language": "Español",
+      "subtitles": ["Inglés", "Francés", "Portugués"],
+      "country": "Estados Unidos",
+      "budget": { "amount": 150000000, "currency": "USD" },
+      "boxOffice": { "amount": null, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lztz5XBMG1x6Y5ubz7CxfPFsAcW.jpg",
+    "trailer": "https://www.youtube.com/watch?v=x9D0uUKJ5KI",
+    "tags": ["Marvel", "multiverso", "animación", "universos alternativos"],
+    "isActive": true
+  },
+  {
+    "title": "Echo",
+    "synopsis": "Maya Lopez, conocida como Echo, regresa a su ciudad natal para enfrentar su pasado y reconectar con sus raíces nativas americanas mientras lidia con su identidad de heroína.",
+    "releaseDate": "2024-01-09",
+    "duration": 45,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Sydney Freeland",
+    "producer": "Marvel Studios",
+    "genres": ["Acción", "Crimen", "Drama"],
+    "rating": { "tmdb": { "score": 67, "votes": 1200 } },
+    "cast": [
+      { "actor": "Alaqua Cox", "character": "Maya Lopez / Echo", "role": "Protagonista" },
+      { "actor": "Zahn McClarnon", "character": "William Lopez", "role": "Secundario" },
+      { "actor": "Vincent D'Onofrio", "character": "Wilson Fisk / Kingpin", "role": "Antagonista" },
+      { "actor": "Charlie Cox", "character": "Matt Murdock / Daredevil", "role": "Secundario" },
+      { "actor": "Devery Jacobs", "character": "Bonnie", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Sydney Freeland", "role": "Directora" },
+      { "name": "Marion Dayre", "role": "Creadora/Guionista" },
+      { "name": "David Mack", "role": "Creador de personajes" },
+      { "name": "Joe Quesada", "role": "Creador de personajes" }
+    ],
+    "technical": {
+      "language": "Español",
+      "subtitles": ["Inglés", "Francés", "Portugués"],
+      "country": "Estados Unidos",
+      "budget": { "amount": 150000000, "currency": "USD" },
+      "boxOffice": { "amount": null, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qnx7BfBcz1MZSkYMcR6L1zWQCkC.jpg",
+    "trailer": "https://www.youtube.com/watch?v=1ajh4pRfgWc",
+    "tags": ["Marvel", "Echo", "Kingpin", "Daredevil"],
+    "isActive": true
+  },
+
+  {
+    "title": "Daredevil: Born Again",
+    "synopsis": "Matt Murdock, abogado ciego de día y justiciero por la noche, regresa para enfrentar a nuevos y viejos enemigos en Hell’s Kitchen tras los sucesos de 'Echo'.",
+    "releaseDate": "2025-03-01",
+    "duration": 50,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Michael Cuesta",
+    "producer": "Marvel Studios",
+    "genres": ["Acción", "Crimen", "Drama"],
+    "rating": { "tmdb": { "score": null, "votes": null } },
+    "cast": [
+      { "actor": "Charlie Cox", "character": "Matt Murdock / Daredevil", "role": "Protagonista" },
+      { "actor": "Vincent D'Onofrio", "character": "Wilson Fisk / Kingpin", "role": "Antagonista" },
+      { "actor": "Deborah Ann Woll", "character": "Karen Page", "role": "Secundario" },
+      { "actor": "Elden Henson", "character": "Foggy Nelson", "role": "Secundario" },
+      { "actor": "Jon Bernthal", "character": "Frank Castle / The Punisher", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Matt Corman", "role": "Creador/Guionista" },
+      { "name": "Chris Ord", "role": "Creador/Guionista" },
+      { "name": "Stan Lee", "role": "Creador de personajes" },
+      { "name": "Bill Everett", "role": "Creador de personajes" }
+    ],
+    "technical": {
+      "language": "Español",
+      "subtitles": ["Inglés", "Francés", "Portugués"],
+      "country": "Estados Unidos",
+      "budget": { "amount": 200000000, "currency": "USD" },
+      "boxOffice": { "amount": null, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yfXc2gX2hbgxYwWjWwr0fZxvv6x.jpg",
+    "trailer": "https://www.youtube.com/watch?v=6pTZ2ac2aFg",
+    "tags": ["Marvel", "Daredevil", "Kingpin", "Hell’s Kitchen"],
+    "isActive": true
+  },
+  {
+    "title": "Agatha: Darkhold Diaries",
+    "synopsis": "Agatha Harkness regresa tras los eventos de 'WandaVision', explorando los secretos del Darkhold y enfrentando fuerzas mágicas oscuras.",
+    "releaseDate": "2025-09-19",
+    "duration": 45,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Jac Schaeffer",
+    "producer": "Marvel Studios",
+    "genres": ["Fantasía", "Ciencia ficción", "Comedia"],
+    "rating": { "tmdb": { "score": null, "votes": null } },
+    "cast": [
+      { "actor": "Kathryn Hahn", "character": "Agatha Harkness", "role": "Protagonista" },
+      { "actor": "Aubrey Plaza", "character": "Rio Vidal", "role": "Secundario" },
+      { "actor": "Joe Locke", "character": "Teen", "role": "Secundario" },
+      { "actor": "Emma Caulfield", "character": "Dottie Jones", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Jac Schaeffer", "role": "Directora/Guionista" },
+      { "name": "Stan Lee", "role": "Creador de personajes" },
+      { "name": "Jack Kirby", "role": "Creador de personajes" }
+    ],
+    "technical": {
+      "language": "Español",
+      "subtitles": ["Inglés", "Francés", "Portugués"],
+      "country": "Estados Unidos",
+      "budget": { "amount": 150000000, "currency": "USD" },
+      "boxOffice": { "amount": null, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mhSkU9sWi8PkmCrzoB6lGmEypFE.jpg",
+    "trailer": "https://www.youtube.com/watch?v=98ZtCK2shfs",
+    "tags": ["Marvel", "Agatha", "Darkhold", "magia"],
+    "isActive": true
+  },
+  {
+    "title": "Ironheart",
+    "synopsis": "Riri Williams, una joven genio de la ingeniería, construye su propia armadura al estilo de Iron Man y se convierte en Ironheart.",
+    "releaseDate": "2025-05-01",
+    "duration": 45,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Sam Bailey, Angela Barnes",
+    "producer": "Marvel Studios",
+    "genres": ["Acción", "Ciencia ficción"],
+    "rating": { "tmdb": { "score": null, "votes": null } },
+    "cast": [
+      { "actor": "Dominique Thorne", "character": "Riri Williams / Ironheart", "role": "Protagonista" },
+      { "actor": "Anthony Ramos", "character": "Parker Robbins / The Hood", "role": "Antagonista" },
+      { "actor": "Alden Ehrenreich", "character": "Zeke Stane", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Chinaka Hodge", "role": "Creadora/Guionista" },
+      { "name": "Brian Michael Bendis", "role": "Creador de personajes" },
+      { "name": "Mike Deodato", "role": "Creador de personajes" }
+    ],
+    "technical": {
+      "language": "Español",
+      "subtitles": ["Inglés", "Francés", "Italiano"],
+      "country": "Estados Unidos",
+      "budget": { "amount": 150000000, "currency": "USD" },
+      "boxOffice": { "amount": null, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ypu1hiuKQ8VryzyA94VpYImIazZ.jpg",
+    "trailer": "https://www.youtube.com/watch?v=bs9vto0-5j0",
+    "tags": ["Marvel", "Ironheart", "Riri Williams", "Iron Man"],
+    "isActive": true
+  },
+  {
+    "title": "X-Men '97",
+    "synopsis": "Serie animada que continúa la historia de la clásica caricatura de los 90, retomando a los X-Men después de la muerte del Profesor Xavier.",
+    "releaseDate": "2024-03-20",
+    "duration": 30,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Jake Castorena",
+    "producer": "Marvel Animation",
+    "genres": ["Animación", "Acción", "Ciencia ficción"],
+    "rating": { "tmdb": { "score": 83, "votes": 2500 } },
+    "cast": [
+      { "actor": "Cal Dodd", "character": "Logan / Wolverine (voz)", "role": "Protagonista" },
+      { "actor": "Lenore Zann", "character": "Rogue (voz)", "role": "Secundario" },
+      { "actor": "George Buza", "character": "Beast (voz)", "role": "Secundario" },
+      { "actor": "Jennifer Hale", "character": "Jean Grey (voz)", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Beau DeMayo", "role": "Creador/Guionista" },
+      { "name": "Stan Lee", "role": "Creador de personajes" },
+      { "name": "Jack Kirby", "role": "Creador de personajes" }
+    ],
+    "technical": {
+      "language": "Español",
+      "subtitles": ["Inglés", "Francés", "Portugués"],
+      "country": "Estados Unidos",
+      "budget": { "amount": 100000000, "currency": "USD" },
+      "boxOffice": { "amount": null, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jM6fZznFtyg6IVgJgxUM51HIwzi.jpg",
+    "trailer": "https://www.youtube.com/watch?v=pv3Ss8o9gGQ",
+    "tags": ["Marvel", "X-Men", "animación", "mutantes"],
+    "isActive": true
+  },
+  {
+    "title": "The Punisher",
+    "synopsis": "Frank Castle, un veterano de guerra, se convierte en un vigilante implacable tras el asesinato de su familia, desatando una guerra contra el crimen en Nueva York.",
+    "releaseDate": "2017-11-17",
+    "duration": 55,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Steve Lightfoot",
+    "producer": "Marvel Television",
+    "genres": ["Acción", "Crimen", "Drama"],
+    "rating": { "tmdb": { "score": 81, "votes": 8500 } },
+    "cast": [
+      { "actor": "Jon Bernthal", "character": "Frank Castle / The Punisher", "role": "Protagonista" },
+      { "actor": "Ben Barnes", "character": "Billy Russo", "role": "Antagonista" },
+      { "actor": "Amber Rose Revah", "character": "Dinah Madani", "role": "Secundario" },
+      { "actor": "Ebon Moss-Bachrach", "character": "David Lieberman", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Steve Lightfoot", "role": "Creador/Guionista" },
+      { "name": "Stan Lee", "role": "Creador de personajes" },
+      { "name": "Gerry Conway", "role": "Creador de personajes" }
+    ],
+    "technical": {
+      "language": "Español",
+      "subtitles": ["Inglés", "Francés", "Italiano"],
+      "country": "Estados Unidos",
+      "budget": { "amount": 120000000, "currency": "USD" },
+      "boxOffice": { "amount": null, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j8Gx5wJ9h5Hs7nZPo3o5jHnOQFF.jpg",
+    "trailer": "https://www.youtube.com/watch?v=stO3HXx-WNs",
+    "tags": ["Marvel", "Punisher", "vigilante", "venganza"],
+    "isActive": true
+  },
+
+  {
+    "title": "Jessica Jones",
+    "synopsis": "Tras un trágico final en su carrera de superhéroe, Jessica Jones reconstruye su vida como detective privada en Nueva York, enfrentándose a traumas y peligrosos enemigos.",
+    "releaseDate": "2015-11-20",
+    "duration": 55,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Melissa Rosenberg",
+    "producer": "Marvel Television",
+    "genres": ["Crimen", "Drama", "Suspenso"],
+    "rating": { "tmdb": { "score": 77, "votes": 2800 } },
+    "cast": [
+      { "actor": "Krysten Ritter", "character": "Jessica Jones", "role": "Protagonista" },
+      { "actor": "David Tennant", "character": "Kilgrave", "role": "Antagonista" },
+      { "actor": "Rachael Taylor", "character": "Trish Walker", "role": "Secundario" },
+      { "actor": "Mike Colter", "character": "Luke Cage", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Melissa Rosenberg", "role": "Creadora/Guionista" },
+      { "name": "Brian Michael Bendis", "role": "Creador de personajes" },
+      { "name": "Michael Gaydos", "role": "Creador de personajes" }
+    ],
+    "technical": {
+      "language": "Español",
+      "subtitles": ["Inglés", "Francés", "Portugués"],
+      "country": "Estados Unidos",
+      "budget": { "amount": 120000000, "currency": "USD" },
+      "boxOffice": { "amount": null, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5g0pHYXiQ6NgsXqgZrSdH3yZH44.jpg",
+    "trailer": "https://www.youtube.com/watch?v=nWHUjuJ8zxE",
+    "tags": ["Marvel", "Jessica Jones", "detective", "Kilgrave"],
+    "isActive": true
+  },
+  {
+    "title": "Luke Cage",
+    "synopsis": "Un exconvicto con fuerza sobrehumana y piel irrompible lucha por limpiar su nombre y defender su barrio en Harlem.",
+    "releaseDate": "2016-09-30",
+    "duration": 55,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Cheo Hodari Coker",
+    "producer": "Marvel Television",
+    "genres": ["Acción", "Crimen", "Drama"],
+    "rating": { "tmdb": { "score": 72, "votes": 2200 } },
+    "cast": [
+      { "actor": "Mike Colter", "character": "Luke Cage", "role": "Protagonista" },
+      { "actor": "Mahershala Ali", "character": "Cornell 'Cottonmouth' Stokes", "role": "Antagonista" },
+      { "actor": "Alfre Woodard", "character": "Mariah Dillard", "role": "Antagonista" },
+      { "actor": "Simone Missick", "character": "Misty Knight", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Cheo Hodari Coker", "role": "Creador/Guionista" },
+      { "name": "Archie Goodwin", "role": "Creador de personajes" },
+      { "name": "John Romita Sr.", "role": "Creador de personajes" }
+    ],
+    "technical": {
+      "language": "Español",
+      "subtitles": ["Inglés", "Francés", "Italiano"],
+      "country": "Estados Unidos",
+      "budget": { "amount": 120000000, "currency": "USD" },
+      "boxOffice": { "amount": null, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cJiG9hTnbnoRt8MPR2pJssYRN0z.jpg",
+    "trailer": "https://www.youtube.com/watch?v=hfJ0m9PY6mw",
+    "tags": ["Marvel", "Luke Cage", "Harlem", "superhéroes"],
+    "isActive": true
+  },
+  {
+    "title": "The Defenders",
+    "synopsis": "Daredevil, Jessica Jones, Luke Cage y Iron Fist unen fuerzas para salvar Nueva York de una organización criminal conocida como La Mano.",
+    "releaseDate": "2017-08-18",
+    "duration": 50,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "S.J. Clarkson",
+    "producer": "Marvel Television",
+    "genres": ["Acción", "Crimen", "Aventura"],
+    "rating": { "tmdb": { "score": 72, "votes": 2100 } },
+    "cast": [
+      { "actor": "Charlie Cox", "character": "Matt Murdock / Daredevil", "role": "Protagonista" },
+      { "actor": "Krysten Ritter", "character": "Jessica Jones", "role": "Protagonista" },
+      { "actor": "Mike Colter", "character": "Luke Cage", "role": "Protagonista" },
+      { "actor": "Finn Jones", "character": "Danny Rand / Iron Fist", "role": "Protagonista" },
+      { "actor": "Sigourney Weaver", "character": "Alexandra Reid", "role": "Antagonista" }
+    ],
+    "crew": [
+      { "name": "Douglas Petrie", "role": "Creador/Guionista" },
+      { "name": "Marco Ramirez", "role": "Creador/Guionista" },
+      { "name": "Stan Lee", "role": "Creador de personajes" },
+      { "name": "Jack Kirby", "role": "Creador de personajes" }
+    ],
+    "technical": {
+      "language": "Español",
+      "subtitles": ["Inglés", "Francés", "Portugués"],
+      "country": "Estados Unidos",
+      "budget": { "amount": 150000000, "currency": "USD" },
+      "boxOffice": { "amount": null, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7lLJ1UQZa5oZgfwcMNSh2rbcvFm.jpg",
+    "trailer": "https://www.youtube.com/watch?v=D_6J9BqgonU",
+    "tags": ["Marvel", "Defenders", "La Mano", "Daredevil", "Jessica Jones"],
+    "isActive": true
+  },
+  {
+    "title": "Agents of S.H.I.E.L.D.",
+    "synopsis": "El agente Phil Coulson lidera un equipo de agentes de S.H.I.E.L.D. para investigar casos extraños en un mundo lleno de superhéroes y amenazas alienígenas.",
+    "releaseDate": "2013-09-24",
+    "duration": 43,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Joss Whedon",
+    "producer": "Marvel Television",
+    "genres": ["Acción", "Drama", "Ciencia ficción"],
+    "rating": { "tmdb": { "score": 74, "votes": 4000 } },
+    "cast": [
+      { "actor": "Clark Gregg", "character": "Phil Coulson", "role": "Protagonista" },
+      { "actor": "Ming-Na Wen", "character": "Melinda May", "role": "Protagonista" },
+      { "actor": "Chloe Bennet", "character": "Daisy Johnson / Quake", "role": "Protagonista" },
+      { "actor": "Iain De Caestecker", "character": "Leo Fitz", "role": "Secundario" },
+      { "actor": "Elizabeth Henstridge", "character": "Jemma Simmons", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Joss Whedon", "role": "Creador" },
+      { "name": "Jed Whedon", "role": "Creador" },
+      { "name": "Maurissa Tancharoen", "role": "Creadora" }
+    ],
+    "technical": {
+      "language": "Español",
+      "subtitles": ["Inglés", "Francés", "Italiano"],
+      "country": "Estados Unidos",
+      "budget": { "amount": 220000000, "currency": "USD" },
+      "boxOffice": { "amount": null, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qtr5i6hOm6oVzTYl3jOQAYP3oc7.jpg",
+    "trailer": "https://www.youtube.com/watch?v=T3T-evQZiQo",
+    "tags": ["Marvel", "S.H.I.E.L.D.", "Phil Coulson", "superhéroes"],
+    "isActive": true
+  },
+  {
+    "title": "Agent Carter",
+    "synopsis": "Peggy Carter, tras perder a Steve Rogers, lucha contra el sexismo en la SSR mientras ayuda a Howard Stark y combate amenazas secretas en los años 40.",
+    "releaseDate": "2015-01-06",
+    "duration": 42,
+    "type": "68d31d4a400438b1d9661986",
+    "director": "Christopher Markus, Stephen McFeely",
+    "producer": "Marvel Television",
+    "genres": ["Acción", "Drama", "Historia"],
+    "rating": { "tmdb": { "score": 76, "votes": 1800 } },
+    "cast": [
+      { "actor": "Hayley Atwell", "character": "Peggy Carter", "role": "Protagonista" },
+      { "actor": "James D'Arcy", "character": "Edwin Jarvis", "role": "Secundario" },
+      { "actor": "Enver Gjokaj", "character": "Daniel Sousa", "role": "Secundario" },
+      { "actor": "Dominic Cooper", "character": "Howard Stark", "role": "Secundario" }
+    ],
+    "crew": [
+      { "name": "Christopher Markus", "role": "Creador/Guionista" },
+      { "name": "Stephen McFeely", "role": "Creador/Guionista" },
+      { "name": "Stan Lee", "role": "Creador de personajes" },
+      { "name": "Jack Kirby", "role": "Creador de personajes" }
+    ],
+    "technical": {
+      "language": "Español",
+      "subtitles": ["Inglés", "Francés", "Portugués"],
+      "country": "Estados Unidos",
+      "budget": { "amount": 100000000, "currency": "USD" },
+      "boxOffice": { "amount": null, "currency": "USD" }
+    },
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jMbQ04lsYn80vY6Nnz1z93zLMFg.jpg",
+    "trailer": "https://www.youtube.com/watch?v=MfzL1pZpLrk",
+    "tags": ["Marvel", "Peggy Carter", "SSR", "Howard Stark"],
+    "isActive": true
+  }
+
+
+]

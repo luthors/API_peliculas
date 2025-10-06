@@ -11,13 +11,15 @@ export const connectDB = async () => {
       return null;
     }
 
-    // Opciones de conexión optimizadas
+    // Opciones de conexión optimizadas para MongoDB Atlas
     const options = {
       maxPoolSize: 10, // Máximo número de conexiones en el pool
-      serverSelectionTimeoutMS: 10000, // Timeout aumentado para selección de servidor
+      serverSelectionTimeoutMS: 30000, // Timeout aumentado para selección de servidor
       socketTimeoutMS: 45000, // Timeout para operaciones de socket
-      bufferCommands: false, // Deshabilitar buffering de comandos
+      bufferCommands: true, // Habilitar buffering de comandos para evitar errores
       family: 4, // Forzar IPv4 para evitar problemas de DNS
+      retryWrites: true, // Habilitar reintentos de escritura
+      connectTimeoutMS: 30000, // Timeout de conexión
     };
 
     // Conectar a MongoDB

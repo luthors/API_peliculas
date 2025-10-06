@@ -120,6 +120,7 @@ const getDirectorById = async (req, res, next) => {
 const createDirector = async (req, res, next) => {
   try {
     // Validar errores de entrada
+    console.log("🪰🪰🪰🪰🪰🪰🪰🤷‍♂️🤷‍♂️ aqui", req.body);
     const errors = validationResult(req);
     if (!errors.isEmpty()) {
       return res.status(400).json({

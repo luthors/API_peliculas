@@ -1,0 +1,350 @@
+{
+  "media": [
+    {
+      "title": "Peaky Blinders",
+      "synopsis": "Una familia de gánsteres en Birmingham, Inglaterra, se abre camino en el crimen organizado después de la Primera Guerra Mundial.",
+      "releaseDate": "2013-09-12",
+      "duration": 55,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090344",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "imdb": {
+          "score": 8.8,
+          "votes": 600000
+        }
+      },
+      "cast": [
+        {
+          "actor": "Cillian Murphy",
+          "character": "Thomas Shelby",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Paul Anderson",
+          "character": "Arthur Shelby",
+          "role": "Protagonista"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Steven Knight",
+          "role": "Creador"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French"
+        ],
+        "country": "United Kingdom"
+      },
+      "poster": "https://image.tmdb.org/t/p/w500/peakyblinders.jpg",
+      "trailer": "https://www.youtube.com/watch?v=oVzVdvGIC7U",
+      "tags": [
+        "gangsters",
+        "crime",
+        "britain"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "House of the Dragon",
+      "synopsis": "Precuela de Game of Thrones que narra la guerra civil de la Casa Targaryen conocida como la Danza de los Dragones.",
+      "releaseDate": "2022-08-21",
+      "duration": 60,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090344",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "imdb": {
+          "score": 8.5,
+          "votes": 400000
+        }
+      },
+      "cast": [
+        {
+          "actor": "Emma D'Arcy",
+          "character": "Rhaenyra Targaryen",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Matt Smith",
+          "character": "Daemon Targaryen",
+          "role": "Protagonista"
+        }
+      ],
+      "crew": [
+        {
+          "name": "George R.R. Martin",
+          "role": "Autor original"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "Portuguese"
+        ],
+        "country": "United States"
+      },
+      "poster": "https://image.tmdb.org/t/p/w500/houseofthedragon.jpg",
+      "trailer": "https://www.youtube.com/watch?v=DotnJ7tTA34",
+      "tags": [
+        "dragons",
+        "fantasy",
+        "civil war"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Loki",
+      "synopsis": "Después de robar el Teseracto, Loki es llevado ante la Autoridad de Variación Temporal, que lo obliga a reparar la línea temporal.",
+      "releaseDate": "2021-06-09",
+      "duration": 52,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090343",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "imdb": {
+          "score": 8.2,
+          "votes": 400000
+        }
+      },
+      "cast": [
+        {
+          "actor": "Tom Hiddleston",
+          "character": "Loki",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Sophia Di Martino",
+          "character": "Sylvie",
+          "role": "Protagonista"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Kate Herron",
+          "role": "Directora (T1)"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French"
+        ],
+        "country": "United States"
+      },
+      "poster": "https://image.tmdb.org/t/p/w500/loki.jpg",
+      "trailer": "https://www.youtube.com/watch?v=nW948Va-l10",
+      "tags": [
+        "marvel",
+        "multiverse",
+        "sci-fi"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "La Casa de Papel",
+      "synopsis": "Un misterioso hombre apodado 'El Profesor' reúne a un grupo de ocho delincuentes con habilidades únicas para llevar a cabo el mayor atraco de la historia: entrar a la Fábrica Nacional de Moneda y Timbre de España y robar 2.400 millones de euros.",
+      "releaseDate": "2017-05-02",
+      "duration": 70,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090344",
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "imdb": {
+          "score": 8.2,
+          "votes": 550000
+        }
+      },
+      "cast": [
+        {
+          "actor": "Álvaro Morte",
+          "character": "Sergio Marquina 'El Profesor'",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Úrsula Corberó",
+          "character": "Silene Oliveira 'Tokio'",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Pedro Alonso",
+          "character": "Andrés de Fonollosa 'Berlín'",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Itziar Ituño",
+          "character": "Raquel Murillo / Lisboa",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Miguel Herrán",
+          "character": "Aníbal Cortés 'Río'",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Jaime Lorente",
+          "character": "Daniel Ramos 'Denver'",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Darko Perić",
+          "character": "Yashin Dasáyev 'Helsinki'",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Alba Flores",
+          "character": "Ágata Jiménez 'Nairobi'",
+          "role": "Protagonista"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Álex Pina",
+          "role": "Creador"
+        },
+        {
+          "name": "Jesús Colmenar",
+          "role": "Director"
+        },
+        {
+          "name": "Manel Santisteban",
+          "role": "Compositor"
+        }
+      ],
+      "technical": {
+        "language": "Spanish",
+        "subtitles": [
+          "English",
+          "French",
+          "Portuguese",
+          "German"
+        ],
+        "country": "Spain"
+      },
+      "poster": "https://image.tmdb.org/t/p/w500/lacasadepapel.jpg",
+      "trailer": "https://www.youtube.com/watch?v=To_kVMMu-Ls",
+      "tags": [
+        "heist",
+        "robbery",
+        "thriller",
+        "drama",
+        "Spain"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Loki",
+      "synopsis": "Después de robar el Teseracto, una variante de Loki es llevada ante la Autoridad de Variación Temporal, una organización burocrática que existe fuera del tiempo y el espacio.",
+      "releaseDate": "2021-06-09",
+      "duration": 52,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba04090360",
+      "genres": [
+        "68e2ccbee06821ba04090343",
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 82,
+          "votes": 12000
+        }
+      },
+      "cast": [
+        {
+          "actor": "Tom Hiddleston",
+          "character": "Loki",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Owen Wilson",
+          "character": "Mobius M. Mobius",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Sophia Di Martino",
+          "character": "Sylvie",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Gugu Mbatha-Raw",
+          "character": "Ravonna Renslayer",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Jonathan Majors",
+          "character": "El que permanece",
+          "role": "Antagonista"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Kate Herron",
+          "role": "Directora"
+        },
+        {
+          "name": "Michael Waldron",
+          "role": "Creador/Guionista"
+        },
+        {
+          "name": "Stan Lee",
+          "role": "Creador de personajes"
+        },
+        {
+          "name": "Jack Kirby",
+          "role": "Creador de personajes"
+        }
+      ],
+      "technical": {
+        "language": "Español",
+        "subtitles": [
+          "Inglés",
+          "Francés",
+          "Portugués"
+        ],
+        "country": "Estados Unidos",
+        "budget": {
+          "amount": 150000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": null,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg",
+      "trailer": "https://www.youtube.com/watch?v=nW948Va-l10",
+      "tags": [
+        "Marvel",
+        "Loki",
+        "multiverso",
+        "TVA"
+      ],
+      "isActive": true
+    }
+  ]
+}

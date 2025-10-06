@@ -1,0 +1,409 @@
+{
+  "media": [
+    {
+      "title": "Los Cuatro Fantásticos: Primeros pasos",
+      "synopsis": "Con un mundo retrofuturista inspirado en los años 60 como telón de fondo, la Primera Familia de Marvel deberá hacer frente a su mayor desafío hasta la fecha. Obligados a buscar el equilibrio entre su papel de héroes y sus fuertes vínculos familiares, tendrán que defender la Tierra de un hambriento dios espacial llamado Galactus y su intrigante heraldo, Estela Plateada.",
+      "releaseDate": "2025-07-24",
+      "duration": 115,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba04090360",
+      "genres": [
+        "68e2ccbee06821ba04090343",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 72,
+          "votes": null
+        }
+      },
+      "cast": [
+        {
+          "actor": "Pedro Pascal",
+          "character": "Reed Richards / Mr. Fantástico",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Vanessa Kirby",
+          "character": "Sue Storm / Mujer Invisible",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Joseph Quinn",
+          "character": "Johnny Storm / Antorcha Humana",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Ebon Moss-Bachrach",
+          "character": "Ben Grimm / La Mole",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Por confirmar",
+          "character": "Galactus",
+          "role": "Antagonista"
+        },
+        {
+          "actor": "Por confirmar",
+          "character": "Estela Plateada",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Eric Pearson",
+          "role": "Guionista"
+        },
+        {
+          "name": "Ian Springer",
+          "role": "Guionista"
+        },
+        {
+          "name": "Josh Friedman",
+          "role": "Guionista"
+        },
+        {
+          "name": "Jeff Kaplan",
+          "role": "Guionista"
+        },
+        {
+          "name": "Kat Wood",
+          "role": "Guionista"
+        },
+        {
+          "name": "Stan Lee",
+          "role": "Creador de personajes"
+        },
+        {
+          "name": "Jack Kirby",
+          "role": "Creador de personajes"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French",
+          "Portuguese"
+        ],
+        "country": "United States",
+        "budget": {
+          "amount": null,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": null,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ckfiXWGEMWrUP53cc6QyHijLlhl.jpg",
+      "trailer": "https://www.youtube.com/watch?v=L1lCRrgTOc4",
+      "tags": [
+        "Marvel",
+        "superhéroes",
+        "Galactus",
+        "Estela Plateada",
+        "retro-futurista",
+        "familia"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Avengers: Endgame",
+      "synopsis": "Después de los devastadores eventos de 'Infinity War', los Vengadores restantes deben encontrar una forma de revertir el daño causado por Thanos y restaurar el equilibrio del universo.",
+      "releaseDate": "2019-04-26",
+      "duration": 181,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "imdb": {
+          "score": 8.4,
+          "votes": 1300000
+        },
+        "rottenTomatoes": 94,
+        "metacritic": 78
+      },
+      "cast": [
+        {
+          "actor": "Robert Downey Jr.",
+          "character": "Tony Stark / Iron Man",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Chris Evans",
+          "character": "Steve Rogers / Capitán América",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Josh Brolin",
+          "character": "Thanos",
+          "role": "Antagonista"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Christopher Markus",
+          "role": "Guionista"
+        },
+        {
+          "name": "Stephen McFeely",
+          "role": "Guionista"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French",
+          "Portuguese"
+        ],
+        "country": "United States",
+        "budget": {
+          "amount": 356000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 2797800564,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+      "trailer": "https://www.youtube.com/watch?v=TcMBFSGVi1c",
+      "tags": [
+        "Marvel",
+        "superhéroes",
+        "batalla final",
+        "universo"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "The Dark Knight",
+      "synopsis": "Batman, con la ayuda del fiscal Harvey Dent y el teniente Gordon, enfrenta al criminal más peligroso de Gotham: el Joker, que desata el caos en la ciudad.",
+      "releaseDate": "2008-07-18",
+      "duration": 152,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "imdb": {
+          "score": 9.0,
+          "votes": 2700000
+        },
+        "rottenTomatoes": 94,
+        "metacritic": 84
+      },
+      "cast": [
+        {
+          "actor": "Christian Bale",
+          "character": "Bruce Wayne / Batman",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Heath Ledger",
+          "character": "Joker",
+          "role": "Antagonista"
+        },
+        {
+          "actor": "Aaron Eckhart",
+          "character": "Harvey Dent / Dos Caras",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Jonathan Nolan",
+          "role": "Guionista"
+        },
+        {
+          "name": "Wally Pfister",
+          "role": "Cinematógrafo"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "German",
+          "French"
+        ],
+        "country": "United States",
+        "budget": {
+          "amount": 185000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 1004558444,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "trailer": "https://www.youtube.com/watch?v=EXeTwQWrcwY",
+      "tags": [
+        "Batman",
+        "Joker",
+        "Gotham",
+        "DC Comics"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Inception",
+      "synopsis": "Un ladrón especializado en entrar en los sueños de las personas para robar secretos corporativos debe realizar la misión más difícil: implantar una idea en lugar de robarla.",
+      "releaseDate": "2010-07-16",
+      "duration": 148,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "imdb": {
+          "score": 8.8,
+          "votes": 2400000
+        },
+        "rottenTomatoes": 87,
+        "metacritic": 74
+      },
+      "cast": [
+        {
+          "actor": "Leonardo DiCaprio",
+          "character": "Dom Cobb",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Joseph Gordon-Levitt",
+          "character": "Arthur",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Tom Hardy",
+          "character": "Eames",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Christopher Nolan",
+          "role": "Guionista"
+        },
+        {
+          "name": "Hans Zimmer",
+          "role": "Música"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French",
+          "Portuguese"
+        ],
+        "country": "United States",
+        "budget": {
+          "amount": 160000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 829895144,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://image.tmdb.org/t/p/w500/edv5CZvWj09upOsy2Y6IwDhK8bt.jpg",
+      "trailer": "https://www.youtube.com/watch?v=YoHD9XEInc0",
+      "tags": [
+        "sueños",
+        "realidad",
+        "psicología",
+        "acción"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Avatar",
+      "synopsis": "Un ex marine parapléjico es enviado a Pandora, un planeta habitado por los Na'vi, donde debe decidir entre cumplir su misión militar o unirse a los nativos en su lucha por sobrevivir.",
+      "releaseDate": "2009-12-18",
+      "duration": 162,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "imdb": {
+          "score": 7.9,
+          "votes": 1400000
+        },
+        "rottenTomatoes": 82,
+        "metacritic": 83
+      },
+      "cast": [
+        {
+          "actor": "Sam Worthington",
+          "character": "Jake Sully",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Zoe Saldaña",
+          "character": "Neytiri",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Stephen Lang",
+          "character": "Coronel Miles Quaritch",
+          "role": "Antagonista"
+        }
+      ],
+      "crew": [
+        {
+          "name": "James Cameron",
+          "role": "Guionista"
+        },
+        {
+          "name": "Mauro Fiore",
+          "role": "Cinematógrafo"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French",
+          "German"
+        ],
+        "country": "United States",
+        "budget": {
+          "amount": 237000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 2923706026,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://image.tmdb.org/t/p/w500/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",
+      "trailer": "https://www.youtube.com/watch?v=5PSNL1qE6VY",
+      "tags": [
+        "Pandora",
+        "Na'vi",
+        "ecología",
+        "ciencia ficción"
+      ],
+      "isActive": true
+    }
+  ]
+}

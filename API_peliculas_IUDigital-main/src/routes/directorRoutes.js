@@ -1,26 +1,16 @@
 import express from 'express';
 import { body, param, query } from 'express-validator';
-// Importar controlador mock temporalmente para pruebas sin MongoDB
+// Importar controlador real que usa MongoDB
 import {
   getAllDirectors,
   getDirectorById,
   createDirector,
   updateDirector,
   deleteDirector,
+  getActiveDirectors,
+  getDirectorsByNationality,
   getDirectorStats
-} from '../controllers/directorControllerMock.js';
-
-// Controlador original (comentado temporalmente)
-// import {
-//   getAllDirectors,
-//   getDirectorById,
-//   createDirector,
-//   updateDirector,
-//   deleteDirector,
-//   getActiveDirectors,
-//   getDirectorsByNationality,
-//   getDirectorStats
-// } from '../controllers/directorController.js';
+} from '../controllers/directorController.js';
 
 const router = express.Router();
 
@@ -260,7 +250,7 @@ const queryValidation = [
 ];
 
 /**
- * Rutas del módulo Director
+ * Rutas del módulo de Directores
  */
 
 // @route   GET /api/v1/directors/stats
@@ -268,16 +258,15 @@ const queryValidation = [
 // @access  Public
 router.get('/stats', getDirectorStats);
 
-// Rutas temporalmente comentadas (no implementadas en mock)
 // @route   GET /api/v1/directors/active
 // @desc    Obtener directores activos
 // @access  Public
-// router.get('/active', getActiveDirectors);
+router.get('/active', getActiveDirectors);
 
 // @route   GET /api/v1/directors/nationality/:nationality
 // @desc    Obtener directores por nacionalidad
 // @access  Public
-// router.get('/nationality/:nationality', nationalityValidation, getDirectorsByNationality);
+router.get('/nationality/:nationality', nationalityValidation, getDirectorsByNationality);
 
 // @route   GET /api/v1/directors
 // @desc    Obtener todos los directores con paginación y filtros

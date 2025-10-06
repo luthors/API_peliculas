@@ -216,15 +216,25 @@ directorSchema.set('toJSON', {
 // Validación personalizada para evitar nombres duplicados (case-insensitive)
 directorSchema.pre('save', async function(next) {
   if (this.isModified('name')) {
-    const existingDirector = await this.constructor.findOne({
-      name: { $regex: new RegExp(`^${this.name}$`, 'i') },
-      _id: { $ne: this._id }
-    });
-    
-    if (existingDirector) {
-      const error = new Error(`Ya existe un director con el nombre '${this.name}'`);
-      error.code = 11000;
-      return next(error);
+    try {
+      // Verificar si la conexión está lista antes de hacer la consulta
+      if (mongoose.connection.readyState !== 1) {
+        return next();
+      }
+      
+      const existingDirector = await this.constructor.findOne({
+        name: { $regex: new RegExp(`^${this.name}$`, 'i') },
+        _id: { $ne: this._id }
+      });
+      
+      if (existingDirector) {
+        const error = new Error(`Ya existe un director con el nombre '${this.name}'`);
+        error.code = 11000;
+        return next(error);
+      }
+    } catch (error) {
+      // Si hay un error de conexión, continuar sin validación
+      console.warn('Advertencia: No se pudo validar nombre duplicado debido a problemas de conexión');
     }
   }
   next();
