@@ -1,0 +1,54 @@
+{
+  "title": "Avatar",
+  "originalTitle": "Avatar",
+  "synopsis": "En el exuberante mundo alienígena de Pandora viven los Na'vi, seres que parecen ser primitivos pero que en realidad son muy evolucionados. Debido a que el ambiente de Pandora es venenoso, los híbridos humanos/Na'vi, llamados Avatares, están unidos a las mentes humanas, lo que les permite moverse libremente por Pandora.",
+  "releaseDate": "2009-12-18",
+  "duration": 162,
+  "type": "68e1e3e5133c69fe31ca30b6",
+  "director": "68e1e42b133c69fe31ca30bf",
+  "producer": "68e1e406133c69fe31ca30b9",
+  "genres": ["68e1e419133c69fe31ca30bc"],
+  "rating": {
+    "imdb": {
+      "score": 7.9,
+      "votes": 1200000
+    },
+    "metacritic": 83,
+    "rottenTomatoes": 82
+  },
+  "cast": [
+    {
+      "actor": "Sam Worthington",
+      "character": "Jake Sully",
+      "role": "Protagonista"
+    },
+    {
+      "actor": "Zoe Saldana",
+      "character": "Neytiri",
+      "role": "Protagonista"
+    }
+  ],
+  "crew": [
+    {
+      "name": "James Cameron",
+      "role": "Guionista"
+    }
+  ],
+  "technical": {
+    "language": "Inglés",
+    "subtitles": ["Español", "Francés"],
+    "country": "Estados Unidos",
+    "budget": {
+      "amount": 237000000,
+      "currency": "USD"
+    },
+    "boxOffice": {
+      "amount": 2923706026,
+      "currency": "USD"
+    }
+  },
+  "poster": "https://example.com/avatar-poster.jpg",
+  "trailer": "https://www.youtube.com/watch?v=5PSNL1qE6VY",
+  "tags": ["ciencia ficción", "aventura", "3d", "pandora"],
+  "isActive": true
+}

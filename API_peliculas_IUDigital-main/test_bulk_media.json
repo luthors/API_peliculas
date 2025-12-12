@@ -1,0 +1,49 @@
+{
+  "media": [
+    {
+      "title": "Interstellar",
+      "type": "68e1e3e5133c69fe31ca30b6",
+      "director": "68e1e42b133c69fe31ca30bf",
+      "producer": "68e1e406133c69fe31ca30b9",
+      "genres": ["68e1fc3fb4c607d3ea3315a5", "68e1fc3fb4c607d3ea3315a2"],
+      "releaseDate": "2014-11-07",
+      "duration": 169,
+      "synopsis": "Un grupo de exploradores hace uso de un agujero de gusano recién descubierto para superar las limitaciones de los viajes espaciales tripulados y vencer las inmensas distancias que tiene un viaje interestelar.",
+      "rating": "PG-13",
+      "language": "Inglés",
+      "country": "Estados Unidos",
+      "budget": 165000000,
+      "boxOffice": 677471339
+    },
+    {
+      "title": "Pulp Fiction",
+      "type": "68e1e3e5133c69fe31ca30b6",
+      "director": "68e1e42b133c69fe31ca30bf",
+      "producer": "68e1e406133c69fe31ca30b9",
+      "genres": ["68e1fc3fb4c607d3ea3315a2", "68e1e419133c69fe31ca30bc"],
+      "releaseDate": "1994-10-14",
+      "duration": 154,
+      "synopsis": "La vida de un boxeador, dos sicarios, la esposa de un gángster y dos bandidos se entrelaza en cuatro historias de violencia y redención.",
+      "rating": "R",
+      "language": "Inglés",
+      "country": "Estados Unidos",
+      "budget": 8000000,
+      "boxOffice": 214179088
+    },
+    {
+      "title": "Lady Bird",
+      "type": "68e1e3e5133c69fe31ca30b6",
+      "director": "68e1e42b133c69fe31ca30bf",
+      "producer": "68e1e406133c69fe31ca30b9",
+      "genres": ["68e1fc3fb4c607d3ea3315a2", "68e1fc3fb4c607d3ea3315a3"],
+      "releaseDate": "2017-11-03",
+      "duration": 94,
+      "synopsis": "Una estudiante de secundaria de Sacramento sueña con escapar a la costa este para la universidad, dejando atrás su ciudad natal y su complicada relación con su madre.",
+      "rating": "R",
+      "language": "Inglés",
+      "country": "Estados Unidos",
+      "budget": 10000000,
+      "boxOffice": 78965854
+    }
+  ]
+}

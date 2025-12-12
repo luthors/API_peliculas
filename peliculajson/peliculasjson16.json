@@ -1,0 +1,408 @@
+{
+  "media": [
+    {
+      "title": "Agatha: Darkhold Diaries",
+      "synopsis": "Agatha Harkness regresa tras los eventos de 'WandaVision', explorando los secretos del Darkhold y enfrentando fuerzas mágicas oscuras.",
+      "releaseDate": "2025-09-19",
+      "duration": 45,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba04090360",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090343",
+        "68e2ccbee06821ba04090345"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": null,
+          "votes": null
+        }
+      },
+      "cast": [
+        {
+          "actor": "Kathryn Hahn",
+          "character": "Agatha Harkness",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Aubrey Plaza",
+          "character": "Rio Vidal",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Joe Locke",
+          "character": "Teen",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Emma Caulfield",
+          "character": "Dottie Jones",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Jac Schaeffer",
+          "role": "Directora/Guionista"
+        },
+        {
+          "name": "Stan Lee",
+          "role": "Creador de personajes"
+        },
+        {
+          "name": "Jack Kirby",
+          "role": "Creador de personajes"
+        }
+      ],
+      "technical": {
+        "language": "Español",
+        "subtitles": [
+          "Inglés",
+          "Francés",
+          "Portugués"
+        ],
+        "country": "Estados Unidos",
+        "budget": {
+          "amount": 150000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": null,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mhSkU9sWi8PkmCrzoB6lGmEypFE.jpg",
+      "trailer": "https://www.youtube.com/watch?v=98ZtCK2shfs",
+      "tags": [
+        "Marvel",
+        "Agatha",
+        "Darkhold",
+        "magia"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Ironheart",
+      "synopsis": "Riri Williams, una joven genio de la ingeniería, construye su propia armadura al estilo de Iron Man y se convierte en Ironheart.",
+      "releaseDate": "2025-05-01",
+      "duration": 45,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba04090360",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090343"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": null,
+          "votes": null
+        }
+      },
+      "cast": [
+        {
+          "actor": "Dominique Thorne",
+          "character": "Riri Williams / Ironheart",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Anthony Ramos",
+          "character": "Parker Robbins / The Hood",
+          "role": "Antagonista"
+        },
+        {
+          "actor": "Alden Ehrenreich",
+          "character": "Zeke Stane",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Chinaka Hodge",
+          "role": "Creadora/Guionista"
+        },
+        {
+          "name": "Brian Michael Bendis",
+          "role": "Creador de personajes"
+        },
+        {
+          "name": "Mike Deodato",
+          "role": "Creador de personajes"
+        }
+      ],
+      "technical": {
+        "language": "Español",
+        "subtitles": [
+          "Inglés",
+          "Francés",
+          "Italiano"
+        ],
+        "country": "Estados Unidos",
+        "budget": {
+          "amount": 150000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": null,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ypu1hiuKQ8VryzyA94VpYImIazZ.jpg",
+      "trailer": "https://www.youtube.com/watch?v=bs9vto0-5j0",
+      "tags": [
+        "Marvel",
+        "Ironheart",
+        "Riri Williams",
+        "Iron Man"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "X-Men '97",
+      "synopsis": "Serie animada que continúa la historia de la clásica caricatura de los 90, retomando a los X-Men después de la muerte del Profesor Xavier.",
+      "releaseDate": "2024-03-20",
+      "duration": 30,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090343"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 83,
+          "votes": 2500
+        }
+      },
+      "cast": [
+        {
+          "actor": "Cal Dodd",
+          "character": "Logan / Wolverine (voz)",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Lenore Zann",
+          "character": "Rogue (voz)",
+          "role": "Secundario"
+        },
+        {
+          "actor": "George Buza",
+          "character": "Beast (voz)",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Jennifer Hale",
+          "character": "Jean Grey (voz)",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Beau DeMayo",
+          "role": "Creador/Guionista"
+        },
+        {
+          "name": "Stan Lee",
+          "role": "Creador de personajes"
+        },
+        {
+          "name": "Jack Kirby",
+          "role": "Creador de personajes"
+        }
+      ],
+      "technical": {
+        "language": "Español",
+        "subtitles": [
+          "Inglés",
+          "Francés",
+          "Portugués"
+        ],
+        "country": "Estados Unidos",
+        "budget": {
+          "amount": 100000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": null,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jM6fZznFtyg6IVgJgxUM51HIwzi.jpg",
+      "trailer": "https://www.youtube.com/watch?v=pv3Ss8o9gGQ",
+      "tags": [
+        "Marvel",
+        "X-Men",
+        "animación",
+        "mutantes"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "The Punisher",
+      "synopsis": "Frank Castle, un veterano de guerra, se convierte en un vigilante implacable tras el asesinato de su familia, desatando una guerra contra el crimen en Nueva York.",
+      "releaseDate": "2017-11-17",
+      "duration": 55,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090344"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 81,
+          "votes": 8500
+        }
+      },
+      "cast": [
+        {
+          "actor": "Jon Bernthal",
+          "character": "Frank Castle / The Punisher",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Ben Barnes",
+          "character": "Billy Russo",
+          "role": "Antagonista"
+        },
+        {
+          "actor": "Amber Rose Revah",
+          "character": "Dinah Madani",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Ebon Moss-Bachrach",
+          "character": "David Lieberman",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Steve Lightfoot",
+          "role": "Creador/Guionista"
+        },
+        {
+          "name": "Stan Lee",
+          "role": "Creador de personajes"
+        },
+        {
+          "name": "Gerry Conway",
+          "role": "Creador de personajes"
+        }
+      ],
+      "technical": {
+        "language": "Español",
+        "subtitles": [
+          "Inglés",
+          "Francés",
+          "Italiano"
+        ],
+        "country": "Estados Unidos",
+        "budget": {
+          "amount": 120000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": null,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j8Gx5wJ9h5Hs7nZPo3o5jHnOQFF.jpg",
+      "trailer": "https://www.youtube.com/watch?v=stO3HXx-WNs",
+      "tags": [
+        "Marvel",
+        "Punisher",
+        "vigilante",
+        "venganza"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Jessica Jones",
+      "synopsis": "Tras un trágico final en su carrera de superhéroe, Jessica Jones reconstruye su vida como detective privada en Nueva York, enfrentándose a traumas y peligrosos enemigos.",
+      "releaseDate": "2015-11-20",
+      "duration": 55,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090344",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 77,
+          "votes": 2800
+        }
+      },
+      "cast": [
+        {
+          "actor": "Krysten Ritter",
+          "character": "Jessica Jones",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "David Tennant",
+          "character": "Kilgrave",
+          "role": "Antagonista"
+        },
+        {
+          "actor": "Rachael Taylor",
+          "character": "Trish Walker",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Mike Colter",
+          "character": "Luke Cage",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Melissa Rosenberg",
+          "role": "Creadora/Guionista"
+        },
+        {
+          "name": "Brian Michael Bendis",
+          "role": "Creador de personajes"
+        },
+        {
+          "name": "Michael Gaydos",
+          "role": "Creador de personajes"
+        }
+      ],
+      "technical": {
+        "language": "Español",
+        "subtitles": [
+          "Inglés",
+          "Francés",
+          "Portugués"
+        ],
+        "country": "Estados Unidos",
+        "budget": {
+          "amount": 120000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": null,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5g0pHYXiQ6NgsXqgZrSdH3yZH44.jpg",
+      "trailer": "https://www.youtube.com/watch?v=nWHUjuJ8zxE",
+      "tags": [
+        "Marvel",
+        "Jessica Jones",
+        "detective",
+        "Kilgrave"
+      ],
+      "isActive": true
+    }
+  ]
+}

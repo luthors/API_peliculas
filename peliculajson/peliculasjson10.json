@@ -1,0 +1,449 @@
+{
+  "media": [
+    {
+      "title": "The Suicide Squad",
+      "synopsis": "Un grupo de supervillanos es enviado en una misión suicida a una isla infestada de enemigos, bajo las órdenes de Amanda Waller.",
+      "releaseDate": "2021-08-06",
+      "duration": 132,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090345"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 77,
+          "votes": 8000
+        }
+      },
+      "cast": [
+        {
+          "actor": "Margot Robbie",
+          "character": "Harley Quinn",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Idris Elba",
+          "character": "Bloodsport",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "John Cena",
+          "character": "Peacemaker",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Joel Kinnaman",
+          "character": "Rick Flag",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Sylvester Stallone",
+          "character": "King Shark (voz)",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "James Gunn",
+          "role": "Director/Guionista"
+        },
+        {
+          "name": "John Ostrander",
+          "role": "Creador de personajes"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French",
+          "Portuguese"
+        ],
+        "country": "United States",
+        "budget": {
+          "amount": 185000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 168000000,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mbG5JwCkQaaAgf3Ugz4sDJwLP9Z.jpg",
+      "trailer": "https://www.youtube.com/watch?v=JuDLepNa7hw",
+      "tags": [
+        "DC Comics",
+        "escuadrón suicida",
+        "villanos",
+        "Harley Quinn"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "The Flash",
+      "synopsis": "Barry Allen utiliza sus superpoderes para viajar en el tiempo con el fin de cambiar los acontecimientos del pasado. Pero su intento de salvar a su familia altera el futuro.",
+      "releaseDate": "2023-06-16",
+      "duration": 144,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090343"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 67,
+          "votes": 4500
+        }
+      },
+      "cast": [
+        {
+          "actor": "Ezra Miller",
+          "character": "Barry Allen / The Flash",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Sasha Calle",
+          "character": "Kara Zor-El / Supergirl",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Michael Keaton",
+          "character": "Bruce Wayne / Batman (Tierra alterna)",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Ben Affleck",
+          "character": "Bruce Wayne / Batman",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Michael Shannon",
+          "character": "General Zod",
+          "role": "Antagonista"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Andy Muschietti",
+          "role": "Director"
+        },
+        {
+          "name": "Christina Hodson",
+          "role": "Guionista"
+        },
+        {
+          "name": "Gardner Fox",
+          "role": "Creador de personajes"
+        },
+        {
+          "name": "Harry Lampert",
+          "role": "Creador de personajes"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French",
+          "Italian"
+        ],
+        "country": "United States",
+        "budget": {
+          "amount": 200000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 271000000,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+      "trailer": "https://www.youtube.com/watch?v=hebWYacbdvc",
+      "tags": [
+        "DC Comics",
+        "Flashpoint",
+        "Batman",
+        "Supergirl",
+        "multiverso"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Aquaman y el Reino Perdido",
+      "synopsis": "Aquaman debe forjar una alianza incómoda con un antiguo enemigo para proteger a Atlantis y al mundo de una devastadora amenaza que pone en riesgo todo el planeta.",
+      "releaseDate": "2023-12-20",
+      "duration": 124,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 63,
+          "votes": 2500
+        }
+      },
+      "cast": [
+        {
+          "actor": "Jason Momoa",
+          "character": "Arthur Curry / Aquaman",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Patrick Wilson",
+          "character": "Orm",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Amber Heard",
+          "character": "Mera",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Yahya Abdul-Mateen II",
+          "character": "Black Manta",
+          "role": "Antagonista"
+        },
+        {
+          "actor": "Nicole Kidman",
+          "character": "Atlanna",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "James Wan",
+          "role": "Director"
+        },
+        {
+          "name": "David Leslie Johnson-McGoldrick",
+          "role": "Guionista"
+        },
+        {
+          "name": "Paul Norris",
+          "role": "Creador de personajes"
+        },
+        {
+          "name": "Mort Weisinger",
+          "role": "Creador de personajes"
+        }
+      ],
+      "technical": {
+        "language": "Español",
+        "subtitles": [
+          "Inglés",
+          "Francés",
+          "Portugués"
+        ],
+        "country": "Estados Unidos",
+        "budget": {
+          "amount": 205000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 423000000,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mYpT2R7639KvKZ668uoQGS2QNFp.jpg",
+      "trailer": "https://www.youtube.com/watch?v=UGc5Tzz19UY",
+      "tags": [
+        "DC Comics",
+        "Aquaman",
+        "Atlantis",
+        "superhéroes",
+        "fantasía"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Blue Beetle",
+      "synopsis": "Jaime Reyes, un joven recién graduado, encuentra un antiguo escarabajo alienígena que le otorga una armadura biomecánica con poderes extraordinarios.",
+      "releaseDate": "2023-08-18",
+      "duration": 127,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090343",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 69,
+          "votes": 2200
+        }
+      },
+      "cast": [
+        {
+          "actor": "Xolo Maridueña",
+          "character": "Jaime Reyes / Blue Beetle",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Bruna Marquezine",
+          "character": "Jenny Kord",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Susan Sarandon",
+          "character": "Victoria Kord",
+          "role": "Antagonista"
+        },
+        {
+          "actor": "George Lopez",
+          "character": "Rudy Reyes",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Belissa Escobedo",
+          "character": "Milagro Reyes",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Ángel Manuel Soto",
+          "role": "Director"
+        },
+        {
+          "name": "Gareth Dunnet-Alcocer",
+          "role": "Guionista"
+        },
+        {
+          "name": "Keith Giffen",
+          "role": "Creador de personajes"
+        },
+        {
+          "name": "Cully Hamner",
+          "role": "Creador de personajes"
+        }
+      ],
+      "technical": {
+        "language": "Español",
+        "subtitles": [
+          "Inglés",
+          "Francés",
+          "Italiano"
+        ],
+        "country": "Estados Unidos",
+        "budget": {
+          "amount": 104000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 130000000,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg",
+      "trailer": "https://www.youtube.com/watch?v=4wxyy8Rcz4k",
+      "tags": [
+        "DC Comics",
+        "Blue Beetle",
+        "Latino",
+        "superhéroes"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Wonder Woman 1984",
+      "synopsis": "Diana Prince entra en conflicto con el magnate Maxwell Lord y con su antigua amiga Barbara Minerva, quien se convierte en la feroz Cheetah.",
+      "releaseDate": "2020-12-25",
+      "duration": 151,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 64,
+          "votes": 7000
+        }
+      },
+      "cast": [
+        {
+          "actor": "Gal Gadot",
+          "character": "Diana Prince / Wonder Woman",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Chris Pine",
+          "character": "Steve Trevor",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Kristen Wiig",
+          "character": "Barbara Minerva / Cheetah",
+          "role": "Antagonista"
+        },
+        {
+          "actor": "Pedro Pascal",
+          "character": "Maxwell Lord",
+          "role": "Antagonista"
+        },
+        {
+          "actor": "Robin Wright",
+          "character": "Antíope",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Patty Jenkins",
+          "role": "Directora/Guionista"
+        },
+        {
+          "name": "Geoff Johns",
+          "role": "Guionista"
+        },
+        {
+          "name": "William Moulton Marston",
+          "role": "Creador de personajes"
+        }
+      ],
+      "technical": {
+        "language": "Español",
+        "subtitles": [
+          "Inglés",
+          "Francés",
+          "Portugués"
+        ],
+        "country": "Estados Unidos",
+        "budget": {
+          "amount": 200000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 169000000,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
+      "trailer": "https://www.youtube.com/watch?v=XW2E2Fnh52w",
+      "tags": [
+        "DC Comics",
+        "Wonder Woman",
+        "Cheetah",
+        "Maxwell Lord"
+      ],
+      "isActive": true
+    }
+  ]
+}

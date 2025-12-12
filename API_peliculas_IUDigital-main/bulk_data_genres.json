@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Acción",
+    "description": "Películas y series con secuencias de acción, persecuciones y combates",
+    "tags": ["accion", "aventura", "combate"]
+  },
+  {
+    "name": "Drama",
+    "description": "Contenido que se centra en el desarrollo de personajes y situaciones emocionales",
+    "tags": ["drama", "emocional", "personajes"]
+  },
+  {
+    "name": "Comedia",
+    "description": "Entretenimiento diseñado para hacer reír y divertir al público",
+    "tags": ["comedia", "humor", "divertido"]
+  },
+  {
+    "name": "Terror",
+    "description": "Contenido diseñado para asustar, crear suspense y generar miedo",
+    "tags": ["terror", "miedo", "suspense"]
+  },
+  {
+    "name": "Ciencia Ficción",
+    "description": "Historias basadas en conceptos científicos futuristas o especulativos",
+    "tags": ["ciencia-ficcion", "futuro", "tecnologia"]
+  },
+  {
+    "name": "Romance",
+    "description": "Historias centradas en relaciones amorosas y románticas",
+    "tags": ["romance", "amor", "relaciones"]
+  },
+  {
+    "name": "Animación",
+    "description": "Contenido creado mediante técnicas de animación tradicional o digital",
+    "tags": ["animacion", "dibujos", "digital"]
+  },
+  {
+    "name": "Documental",
+    "description": "Contenido no ficticio que documenta la realidad con propósitos informativos",
+    "tags": ["documental", "realidad", "informativo"]
+  },
+  {
+    "name": "Musical",
+    "description": "Producciones que incorporan música y canciones como elemento central",
+    "tags": ["musical", "musica", "canciones"]
+  },
+  {
+    "name": "Aventura",
+    "description": "Historias de exploración, viajes y experiencias emocionantes",
+    "tags": ["aventura", "exploracion", "viajes"]
+  },
+  {
+    "name": "Fantasía",
+    "description": "Contenido con elementos mágicos, sobrenaturales o mundos imaginarios",
+    "tags": ["fantasia", "magia", "sobrenatural"]
+  },
+  {
+    "name": "Misterio",
+    "description": "Historias que involucran enigmas, secretos y elementos por resolver",
+    "tags": ["misterio", "enigma", "secretos"]
+  },
+  {
+    "name": "Crimen",
+    "description": "Contenido centrado en actividades criminales y su investigación",
+    "tags": ["crimen", "policial", "investigacion"]
+  },
+  {
+    "name": "Guerra",
+    "description": "Historias ambientadas en conflictos bélicos y sus consecuencias",
+    "tags": ["guerra", "belico", "conflicto"]
+  },
+  {
+    "name": "Western",
+    "description": "Historias ambientadas en el Oeste americano del siglo XIX",
+    "tags": ["western", "oeste", "vaqueros"]
+  }
+]

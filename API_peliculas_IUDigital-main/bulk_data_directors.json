@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Christopher Nolan",
+    "biography": "Director británico-estadounidense conocido por sus películas complejas y no lineales como Inception, Interstellar y The Dark Knight.",
+    "birthDate": "1970-07-30",
+    "nationality": "Reino Unido",
+    "awards": [
+      {
+        "name": "Oscar al Mejor Director",
+        "year": 2024,
+        "category": "Mejor Director por Oppenheimer"
+      }
+    ],
+    "socialMedia": {
+      "website": "https://www.christophernolan.net"
+    }
+  },
+  {
+    "name": "Quentin Tarantino",
+    "biography": "Director estadounidense famoso por su estilo único, diálogos memorables y narrativas no lineales en películas como Pulp Fiction y Kill Bill.",
+    "birthDate": "1963-03-27",
+    "nationality": "Estados Unidos",
+    "awards": [
+      {
+        "name": "Oscar al Mejor Guión Original",
+        "year": 1995,
+        "category": "Pulp Fiction"
+      },
+      {
+        "name": "Oscar al Mejor Guión Original",
+        "year": 2013,
+        "category": "Django Unchained"
+      }
+    ]
+  },
+  {
+    "name": "Martin Scorsese",
+    "biography": "Legendario director estadounidense conocido por sus películas sobre crimen organizado como Goodfellas, Casino y The Departed.",
+    "birthDate": "1942-11-17",
+    "nationality": "Estados Unidos",
+    "awards": [
+      {
+        "name": "Oscar al Mejor Director",
+        "year": 2007,
+        "category": "The Departed"
+      }
+    ]
+  },
+  {
+    "name": "Greta Gerwig",
+    "biography": "Directora y guionista estadounidense conocida por Lady Bird y Little Women, reconocida por su enfoque en personajes femeninos complejos.",
+    "birthDate": "1983-08-04",
+    "nationality": "Estados Unidos",
+    "awards": [
+      {
+        "name": "Nominación al Oscar",
+        "year": 2018,
+        "category": "Mejor Director por Lady Bird"
+      }
+    ]
+  },
+  {
+    "name": "Denis Villeneuve",
+    "biography": "Director canadiense aclamado por películas de ciencia ficción como Arrival, Blade Runner 2049 y Dune.",
+    "birthDate": "1967-10-03",
+    "nationality": "Canadá",
+    "awards": [
+      {
+        "name": "BAFTA al Mejor Director",
+        "year": 2017,
+        "category": "Arrival"
+      }
+    ]
+  },
+  {
+    "name": "Rian Johnson",
+    "biography": "Director estadounidense conocido por Knives Out, Looper y por dirigir Star Wars: The Last Jedi.",
+    "birthDate": "1973-12-17",
+    "nationality": "Estados Unidos"
+  },
+  {
+    "name": "Jordan Peele",
+    "biography": "Director, guionista y productor estadounidense conocido por revolucionar el género de terror con Get Out y Us.",
+    "birthDate": "1979-02-21",
+    "nationality": "Estados Unidos",
+    "awards": [
+      {
+        "name": "Oscar al Mejor Guión Original",
+        "year": 2018,
+        "category": "Get Out"
+      }
+    ]
+  },
+  {
+    "name": "Bong Joon-ho",
+    "biography": "Director surcoreano que ganó reconocimiento mundial con Parasite, convirtiéndose en el primer director asiático en ganar el Oscar al Mejor Director.",
+    "birthDate": "1969-09-14",
+    "nationality": "Corea del Sur",
+    "awards": [
+      {
+        "name": "Oscar al Mejor Director",
+        "year": 2020,
+        "category": "Parasite"
+      },
+      {
+        "name": "Palma de Oro",
+        "year": 2019,
+        "category": "Parasite"
+      }
+    ]
+  },
+  {
+    "name": "Kathryn Bigelow",
+    "biography": "Primera mujer en ganar el Oscar al Mejor Director por The Hurt Locker, conocida por sus thrillers de acción intensos.",
+    "birthDate": "1951-11-27",
+    "nationality": "Estados Unidos",
+    "awards": [
+      {
+        "name": "Oscar al Mejor Director",
+        "year": 2010,
+        "category": "The Hurt Locker"
+      }
+    ]
+  },
+  {
+    "name": "Guillermo del Toro",
+    "biography": "Director mexicano conocido por sus películas de fantasía oscura como Pan's Labyrinth y The Shape of Water.",
+    "birthDate": "1964-10-09",
+    "nationality": "México",
+    "awards": [
+      {
+        "name": "Oscar al Mejor Director",
+        "year": 2018,
+        "category": "The Shape of Water"
+      }
+    ]
+  }
+]

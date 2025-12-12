@@ -1,0 +1,62 @@
+# Archivos y directorios a ignorar en la imagen Docker
+
+# Dependencias
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Archivos de entorno (se configuran en Railway)
+.env
+.env.*
+!.env.example
+
+# Archivos de desarrollo
+.git/
+.gitignore
+README.md
+*.md
+
+# Archivos de testing
+test/
+tests/
+*.test.js
+*.spec.js
+coverage/
+.nyc_output/
+
+# Archivos de configuración de desarrollo
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+logs/
+*.log
+
+# Archivos temporales
+tmp/
+temp/
+.tmp/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de datos de prueba
+test_*.json
+bulk_data_*.json
+test-connection.js
+
+# Archivos específicos del proyecto
+Dashboard_frontend.js
+types_array.json
+*.ps1
+
+# Archivos de documentación
+Caso_Estudio_Peliculas.pdf
+INFORME_FINAL_PROYECTO.md
+MER_Sistema_Peliculas.md

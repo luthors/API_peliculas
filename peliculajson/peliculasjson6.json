@@ -1,0 +1,374 @@
+{
+  "media": [
+    {
+      "title": "Inception",
+      "synopsis": "Un ladrón especializado en entrar en los sueños de las personas para robar secretos corporativos debe realizar la misión más difícil: implantar una idea en lugar de robarla.",
+      "releaseDate": "2010-07-16",
+      "duration": 148,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "imdb": {
+          "score": 8.8,
+          "votes": 2400000
+        },
+        "rottenTomatoes": 87,
+        "metacritic": 74
+      },
+      "cast": [
+        {
+          "actor": "Leonardo DiCaprio",
+          "character": "Dom Cobb",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Joseph Gordon-Levitt",
+          "character": "Arthur",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Tom Hardy",
+          "character": "Eames",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Christopher Nolan",
+          "role": "Guionista"
+        },
+        {
+          "name": "Hans Zimmer",
+          "role": "Música"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French",
+          "Portuguese"
+        ],
+        "country": "United States",
+        "budget": {
+          "amount": 160000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 829895144,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://image.tmdb.org/t/p/w500/edv5CZvWj09upOsy2Y6IwDhK8bt.jpg",
+      "trailer": "https://www.youtube.com/watch?v=YoHD9XEInc0",
+      "tags": [
+        "sueños",
+        "realidad",
+        "psicología",
+        "acción"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Avatar",
+      "synopsis": "Un ex marine parapléjico es enviado a Pandora, un planeta habitado por los Na'vi, donde debe decidir entre cumplir su misión militar o unirse a los nativos en su lucha por sobrevivir.",
+      "releaseDate": "2009-12-18",
+      "duration": 162,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "imdb": {
+          "score": 7.9,
+          "votes": 1400000
+        },
+        "rottenTomatoes": 82,
+        "metacritic": 83
+      },
+      "cast": [
+        {
+          "actor": "Sam Worthington",
+          "character": "Jake Sully",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Zoe Saldaña",
+          "character": "Neytiri",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Stephen Lang",
+          "character": "Coronel Miles Quaritch",
+          "role": "Antagonista"
+        }
+      ],
+      "crew": [
+        {
+          "name": "James Cameron",
+          "role": "Guionista"
+        },
+        {
+          "name": "Mauro Fiore",
+          "role": "Cinematógrafo"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French",
+          "German"
+        ],
+        "country": "United States",
+        "budget": {
+          "amount": 237000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 2923706026,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://image.tmdb.org/t/p/w500/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",
+      "trailer": "https://www.youtube.com/watch?v=5PSNL1qE6VY",
+      "tags": [
+        "Pandora",
+        "Na'vi",
+        "ecología",
+        "ciencia ficción"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Titanic",
+      "synopsis": "Una joven de clase alta se enamora de un humilde artista a bordo del lujoso Titanic, en un romance condenado por el destino del barco.",
+      "releaseDate": "1997-12-19",
+      "duration": 195,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "imdb": {
+          "score": 7.9,
+          "votes": 1300000
+        },
+        "rottenTomatoes": 88,
+        "metacritic": 75
+      },
+      "cast": [
+        {
+          "actor": "Leonardo DiCaprio",
+          "character": "Jack Dawson",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Kate Winslet",
+          "character": "Rose DeWitt Bukater",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Billy Zane",
+          "character": "Cal Hockley",
+          "role": "Antagonista"
+        }
+      ],
+      "crew": [
+        {
+          "name": "James Cameron",
+          "role": "Guionista"
+        },
+        {
+          "name": "James Horner",
+          "role": "Música"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French",
+          "German"
+        ],
+        "country": "United States",
+        "budget": {
+          "amount": 200000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 2260000000,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "trailer": "https://www.youtube.com/watch?v=kVrqfYjkTdQ",
+      "tags": [
+        "romance",
+        "tragedia",
+        "barco",
+        "historia"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "The Godfather",
+      "synopsis": "La historia de la familia Corleone, una de las más poderosas de la mafia italiana en Nueva York, liderada por Don Vito Corleone.",
+      "releaseDate": "1972-03-24",
+      "duration": 175,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "imdb": {
+          "score": 9.2,
+          "votes": 2000000
+        },
+        "rottenTomatoes": 97,
+        "metacritic": 100
+      },
+      "cast": [
+        {
+          "actor": "Marlon Brando",
+          "character": "Don Vito Corleone",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Al Pacino",
+          "character": "Michael Corleone",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "James Caan",
+          "character": "Sonny Corleone",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Francis Ford Coppola",
+          "role": "Guionista"
+        },
+        {
+          "name": "Mario Puzo",
+          "role": "Guionista"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "Italian",
+          "French"
+        ],
+        "country": "United States",
+        "budget": {
+          "amount": 6000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 250000000,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "trailer": "https://www.youtube.com/watch?v=sY1S34973zA",
+      "tags": [
+        "mafia",
+        "familia",
+        "crimen",
+        "clásico"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Jurassic Park",
+      "synopsis": "Un parque temático de dinosaurios clonados se convierte en un caos cuando las criaturas escapan y amenazan a los visitantes.",
+      "releaseDate": "1993-06-11",
+      "duration": 127,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "imdb": {
+          "score": 8.2,
+          "votes": 1000000
+        },
+        "rottenTomatoes": 91,
+        "metacritic": 68
+      },
+      "cast": [
+        {
+          "actor": "Sam Neill",
+          "character": "Dr. Alan Grant",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Laura Dern",
+          "character": "Dr. Ellie Sattler",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Jeff Goldblum",
+          "character": "Dr. Ian Malcolm",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Michael Crichton",
+          "role": "Historia original"
+        },
+        {
+          "name": "David Koepp",
+          "role": "Guionista"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French",
+          "German"
+        ],
+        "country": "United States",
+        "budget": {
+          "amount": 63000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 1040000000,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://image.tmdb.org/t/p/w500/c414cDeQ9b6qLPLeKmiJuLDUREJ.jpg",
+      "trailer": "https://www.youtube.com/watch?v=lc0UehYemQA",
+      "tags": [
+        "dinosaurios",
+        "parque",
+        "ciencia ficción",
+        "aventura"
+      ],
+      "isActive": true
+    }
+  ]
+}

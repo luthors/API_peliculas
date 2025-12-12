@@ -1,0 +1,99 @@
+{
+  "types": [
+    {
+      "name": "Película",
+      "description": "Contenido cinematográfico de larga duración, típicamente entre 90-180 minutos",
+      "category": "Entretenimiento",
+      "format": "Digital/Físico",
+      "duration": "90-180 minutos",
+      "characteristics": [
+        "Narrativa completa",
+        "Producción cinematográfica",
+        "Distribución teatral",
+        "Formato audiovisual"
+      ],
+      "platforms": [
+        "Cines",
+        "Streaming",
+        "DVD/Blu-ray",
+        "Video on Demand"
+      ]
+    },
+    {
+      "name": "Serie",
+      "description": "Contenido episódico dividido en temporadas y capítulos",
+      "category": "Entretenimiento",
+      "format": "Digital",
+      "duration": "20-60 minutos por episodio",
+      "characteristics": [
+        "Narrativa episódica",
+        "Múltiples temporadas",
+        "Desarrollo de personajes a largo plazo",
+        "Formato seriado"
+      ],
+      "platforms": [
+        "Televisión",
+        "Streaming",
+        "Cable",
+        "Plataformas digitales"
+      ]
+    },
+    {
+      "name": "Documental",
+      "description": "Contenido informativo y educativo basado en hechos reales",
+      "category": "Educativo",
+      "format": "Digital/Físico",
+      "duration": "60-120 minutos",
+      "characteristics": [
+        "Contenido factual",
+        "Propósito educativo",
+        "Investigación periodística",
+        "Testimonios reales"
+      ],
+      "platforms": [
+        "Cines",
+        "Televisión educativa",
+        "Streaming",
+        "Festivales"
+      ]
+    },
+    {
+      "name": "Miniserie",
+      "description": "Serie de duración limitada con historia completa en pocos episodios",
+      "category": "Entretenimiento",
+      "format": "Digital",
+      "duration": "45-90 minutos por episodio",
+      "characteristics": [
+        "Historia cerrada",
+        "Pocos episodios (2-10)",
+        "Alta calidad de producción",
+        "Narrativa concentrada"
+      ],
+      "platforms": [
+        "Streaming",
+        "Televisión premium",
+        "Cable",
+        "Video on Demand"
+      ]
+    },
+    {
+      "name": "Cortometraje",
+      "description": "Producción cinematográfica de corta duración",
+      "category": "Arte",
+      "format": "Digital",
+      "duration": "5-30 minutos",
+      "characteristics": [
+        "Duración reducida",
+        "Narrativa concisa",
+        "Experimentación artística",
+        "Bajo presupuesto"
+      ],
+      "platforms": [
+        "Festivales de cine",
+        "Plataformas online",
+        "Cines independientes",
+        "Redes sociales"
+      ]
+    }
+  ]
+}

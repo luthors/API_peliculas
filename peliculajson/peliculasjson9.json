@@ -1,0 +1,448 @@
+{
+  "media": [
+    {
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "synopsis": "Doctor Strange abre un portal al multiverso y, con la ayuda de nuevos y viejos aliados, enfrenta una misteriosa y poderosa nueva adversaria: Wanda Maximoff.",
+      "releaseDate": "2022-05-06",
+      "duration": 126,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba04090360",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 72,
+          "votes": 9000
+        }
+      },
+      "cast": [
+        {
+          "actor": "Benedict Cumberbatch",
+          "character": "Stephen Strange / Doctor Strange",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Elizabeth Olsen",
+          "character": "Wanda Maximoff / Scarlet Witch",
+          "role": "Antagonista"
+        },
+        {
+          "actor": "Xochitl Gomez",
+          "character": "America Chavez",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Chiwetel Ejiofor",
+          "character": "Karl Mordo",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Benedict Wong",
+          "character": "Wong",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Sam Raimi",
+          "role": "Director"
+        },
+        {
+          "name": "Michael Waldron",
+          "role": "Guionista"
+        },
+        {
+          "name": "Stan Lee",
+          "role": "Creador de personajes"
+        },
+        {
+          "name": "Steve Ditko",
+          "role": "Creador de personajes"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French",
+          "Portuguese"
+        ],
+        "country": "United States",
+        "budget": {
+          "amount": 200000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 955000000,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+      "trailer": "https://www.youtube.com/watch?v=aWzlQ2N6qqg",
+      "tags": [
+        "Marvel",
+        "Doctor Strange",
+        "multiverso",
+        "Wanda",
+        "hechicería"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Thor: Love and Thunder",
+      "synopsis": "Thor se embarca en un viaje diferente a todo lo que ha vivido: una búsqueda de la paz interior. Sin embargo, Gorr, el asesino de dioses, interrumpe su retiro.",
+      "releaseDate": "2022-07-08",
+      "duration": 119,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba04090360",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090345"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 64,
+          "votes": 8000
+        }
+      },
+      "cast": [
+        {
+          "actor": "Chris Hemsworth",
+          "character": "Thor",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Natalie Portman",
+          "character": "Jane Foster / Mighty Thor",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Christian Bale",
+          "character": "Gorr",
+          "role": "Antagonista"
+        },
+        {
+          "actor": "Tessa Thompson",
+          "character": "Valkyrie",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Russell Crowe",
+          "character": "Zeus",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Taika Waititi",
+          "role": "Director/Guionista"
+        },
+        {
+          "name": "Stan Lee",
+          "role": "Creador de personajes"
+        },
+        {
+          "name": "Jack Kirby",
+          "role": "Creador de personajes"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French",
+          "German"
+        ],
+        "country": "United States",
+        "budget": {
+          "amount": 250000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 760000000,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+      "trailer": "https://www.youtube.com/watch?v=Go8nTmfrQd8",
+      "tags": [
+        "Marvel",
+        "Thor",
+        "dioses",
+        "Jane Foster",
+        "Gorr"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Eternals",
+      "synopsis": "Un grupo de héroes inmortales emerge después de miles de años ocultos para proteger a la humanidad de los Desviantes.",
+      "releaseDate": "2021-11-05",
+      "duration": 157,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba04090360",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 70,
+          "votes": 8500
+        }
+      },
+      "cast": [
+        {
+          "actor": "Gemma Chan",
+          "character": "Sersi",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Richard Madden",
+          "character": "Ikaris",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Angelina Jolie",
+          "character": "Thena",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Salma Hayek",
+          "character": "Ajak",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Kumail Nanjiani",
+          "character": "Kingo",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Chloé Zhao",
+          "role": "Directora/Guionista"
+        },
+        {
+          "name": "Patrick Burleigh",
+          "role": "Guionista"
+        },
+        {
+          "name": "Ryan Firpo",
+          "role": "Guionista"
+        },
+        {
+          "name": "Kaz Firpo",
+          "role": "Guionista"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French",
+          "Portuguese"
+        ],
+        "country": "United States",
+        "budget": {
+          "amount": 200000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 402000000,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b6qUu00iIIkXX13szFy7d0CyNcg.jpg",
+      "trailer": "https://www.youtube.com/watch?v=x_me3xsvDgk",
+      "tags": [
+        "Marvel",
+        "inmortales",
+        "Desviantes",
+        "universo"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "synopsis": "Shang-Chi se enfrenta al pasado que pensó haber dejado atrás cuando se ve envuelto en la red de la misteriosa organización de los Diez Anillos.",
+      "releaseDate": "2021-09-03",
+      "duration": 132,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba04090360",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 77,
+          "votes": 9500
+        }
+      },
+      "cast": [
+        {
+          "actor": "Simu Liu",
+          "character": "Shang-Chi",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Awkwafina",
+          "character": "Katy",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Tony Leung Chiu-wai",
+          "character": "Xu Wenwu",
+          "role": "Antagonista"
+        },
+        {
+          "actor": "Meng'er Zhang",
+          "character": "Xialing",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Michelle Yeoh",
+          "character": "Ying Nan",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Destin Daniel Cretton",
+          "role": "Director/Guionista"
+        },
+        {
+          "name": "Dave Callaham",
+          "role": "Guionista"
+        },
+        {
+          "name": "Andrew Lanham",
+          "role": "Guionista"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French",
+          "German"
+        ],
+        "country": "United States",
+        "budget": {
+          "amount": 150000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 432000000,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg",
+      "trailer": "https://www.youtube.com/watch?v=giWIr7U1deA",
+      "tags": [
+        "Marvel",
+        "Shang-Chi",
+        "Diez Anillos",
+        "Kung-fu"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Venom: Let There Be Carnage",
+      "synopsis": "Eddie Brock y su simbionte Venom deben enfrentarse a Cletus Kasady, un asesino serial que adquiere un simbionte propio llamado Carnage.",
+      "releaseDate": "2021-10-01",
+      "duration": 97,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090343"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 70,
+          "votes": 6500
+        }
+      },
+      "cast": [
+        {
+          "actor": "Tom Hardy",
+          "character": "Eddie Brock / Venom",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Woody Harrelson",
+          "character": "Cletus Kasady / Carnage",
+          "role": "Antagonista"
+        },
+        {
+          "actor": "Michelle Williams",
+          "character": "Anne Weying",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Naomie Harris",
+          "character": "Frances Barrison / Shriek",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Reid Scott",
+          "character": "Dan Lewis",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Andy Serkis",
+          "role": "Director"
+        },
+        {
+          "name": "Kelly Marcel",
+          "role": "Guionista"
+        },
+        {
+          "name": "Tom Hardy",
+          "role": "Historia"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French",
+          "Italian"
+        ],
+        "country": "United States",
+        "budget": {
+          "amount": 110000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 506000000,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg",
+      "trailer": "https://www.youtube.com/watch?v=-FmWuCgJmxo",
+      "tags": [
+        "Marvel",
+        "Venom",
+        "Carnage",
+        "simbionte"
+      ],
+      "isActive": true
+    }
+  ]
+}

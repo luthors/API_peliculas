@@ -1,0 +1,72 @@
+{
+  "genres": [
+    {
+      "name": "Fantasía",
+      "description": "Historias que incluyen elementos mágicos y sobrenaturales",
+      "tags": ["fantasia", "magia", "sobrenatural"]
+    },
+    {
+      "name": "Aventura",
+      "description": "Contenido lleno de emoción, viajes y descubrimientos",
+      "tags": ["aventura", "viajes", "descubrimiento"]
+    }
+  ],
+  "directors": [
+    {
+      "name": "Denis Villeneuve",
+      "biography": "Director canadiense conocido por sus películas de ciencia ficción visualmente impresionantes",
+      "birthDate": "1967-10-03",
+      "nationality": "Canadiense",
+      "awards": [
+        {
+          "name": "Premio BAFTA",
+          "year": 2022,
+          "category": "Mejor Director"
+        }
+      ],
+      "socialMedia": {
+        "website": "https://www.denisvilleneuve.com"
+      }
+    }
+  ],
+  "producers": [
+    {
+      "name": "Legendary Entertainment",
+      "description": "Compañía de entretenimiento estadounidense especializada en blockbusters",
+      "foundedYear": 2000,
+      "country": "Estados Unidos",
+      "headquarters": {
+        "city": "Burbank",
+        "address": "2900 W Alameda Ave",
+        "zipCode": "91505"
+      },
+      "contact": {
+        "website": "https://www.legendary.com",
+        "email": "info@legendary.com",
+        "phone": "+1-818-238-7000"
+      },
+      "specialties": ["Blockbuster", "Ciencia Ficción", "Acción"],
+      "budget": {
+        "currency": "USD",
+        "range": "Alto"
+      }
+    }
+  ],
+  "types": [
+    {
+      "name": "Miniserie",
+      "description": "Serie limitada con un número específico de episodios",
+      "category": "Serie TV",
+      "format": "Digital",
+      "duration": {
+        "typical": {
+          "min": 45,
+          "max": 90
+        },
+        "unit": "minutos"
+      },
+      "characteristics": ["Limitada", "Historia completa"],
+      "platforms": ["TV", "Streaming"]
+    }
+  ]
+}

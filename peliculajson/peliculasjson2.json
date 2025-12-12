@@ -1,0 +1,374 @@
+{
+  "media": [
+    {
+      "title": "Titanic",
+      "synopsis": "Una joven de clase alta se enamora de un humilde artista a bordo del lujoso Titanic, en un romance condenado por el destino del barco.",
+      "releaseDate": "1997-12-19",
+      "duration": 195,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "imdb": {
+          "score": 7.9,
+          "votes": 1300000
+        },
+        "rottenTomatoes": 88,
+        "metacritic": 75
+      },
+      "cast": [
+        {
+          "actor": "Leonardo DiCaprio",
+          "character": "Jack Dawson",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Kate Winslet",
+          "character": "Rose DeWitt Bukater",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Billy Zane",
+          "character": "Cal Hockley",
+          "role": "Antagonista"
+        }
+      ],
+      "crew": [
+        {
+          "name": "James Cameron",
+          "role": "Guionista"
+        },
+        {
+          "name": "James Horner",
+          "role": "Música"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French",
+          "German"
+        ],
+        "country": "United States",
+        "budget": {
+          "amount": 200000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 2260000000,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "trailer": "https://www.youtube.com/watch?v=kVrqfYjkTdQ",
+      "tags": [
+        "romance",
+        "tragedia",
+        "barco",
+        "historia"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "The Godfather",
+      "synopsis": "La historia de la familia Corleone, una de las más poderosas de la mafia italiana en Nueva York, liderada por Don Vito Corleone.",
+      "releaseDate": "1972-03-24",
+      "duration": 175,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "imdb": {
+          "score": 9.2,
+          "votes": 2000000
+        },
+        "rottenTomatoes": 97,
+        "metacritic": 100
+      },
+      "cast": [
+        {
+          "actor": "Marlon Brando",
+          "character": "Don Vito Corleone",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Al Pacino",
+          "character": "Michael Corleone",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "James Caan",
+          "character": "Sonny Corleone",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Francis Ford Coppola",
+          "role": "Guionista"
+        },
+        {
+          "name": "Mario Puzo",
+          "role": "Guionista"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "Italian",
+          "French"
+        ],
+        "country": "United States",
+        "budget": {
+          "amount": 6000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 250000000,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "trailer": "https://www.youtube.com/watch?v=sY1S34973zA",
+      "tags": [
+        "mafia",
+        "familia",
+        "crimen",
+        "clásico"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Jurassic Park",
+      "synopsis": "Un parque temático de dinosaurios clonados se convierte en un caos cuando las criaturas escapan y amenazan a los visitantes.",
+      "releaseDate": "1993-06-11",
+      "duration": 127,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "imdb": {
+          "score": 8.2,
+          "votes": 1000000
+        },
+        "rottenTomatoes": 91,
+        "metacritic": 68
+      },
+      "cast": [
+        {
+          "actor": "Sam Neill",
+          "character": "Dr. Alan Grant",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Laura Dern",
+          "character": "Dr. Ellie Sattler",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Jeff Goldblum",
+          "character": "Dr. Ian Malcolm",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Michael Crichton",
+          "role": "Historia original"
+        },
+        {
+          "name": "David Koepp",
+          "role": "Guionista"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French",
+          "German"
+        ],
+        "country": "United States",
+        "budget": {
+          "amount": 63000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 1040000000,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://image.tmdb.org/t/p/w500/c414cDeQ9b6qLPLeKmiJuLDUREJ.jpg",
+      "trailer": "https://www.youtube.com/watch?v=lc0UehYemQA",
+      "tags": [
+        "dinosaurios",
+        "parque",
+        "ciencia ficción",
+        "aventura"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "The Matrix",
+      "synopsis": "Un programador descubre que la realidad es una simulación creada por máquinas, y se une a la resistencia para liberar a la humanidad.",
+      "releaseDate": "1999-03-31",
+      "duration": 136,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "imdb": {
+          "score": 8.7,
+          "votes": 1900000
+        },
+        "rottenTomatoes": 88,
+        "metacritic": 73
+      },
+      "cast": [
+        {
+          "actor": "Keanu Reeves",
+          "character": "Neo",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Laurence Fishburne",
+          "character": "Morpheus",
+          "role": "Mentor"
+        },
+        {
+          "actor": "Hugo Weaving",
+          "character": "Agente Smith",
+          "role": "Antagonista"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Lana Wachowski",
+          "role": "Guionista"
+        },
+        {
+          "name": "Lilly Wachowski",
+          "role": "Guionista"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French",
+          "Portuguese"
+        ],
+        "country": "United States",
+        "budget": {
+          "amount": 63000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 466000000,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+      "trailer": "https://www.youtube.com/watch?v=m8e-FF8MsqU",
+      "tags": [
+        "simulación",
+        "filosofía",
+        "acción",
+        "cyberpunk"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Forrest Gump",
+      "synopsis": "La historia de un hombre con un bajo coeficiente intelectual que, sin proponérselo, se convierte en testigo y protagonista de algunos de los momentos más importantes de la historia de Estados Unidos.",
+      "releaseDate": "1994-07-06",
+      "duration": 142,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "imdb": {
+          "score": 8.8,
+          "votes": 2200000
+        },
+        "rottenTomatoes": 71,
+        "metacritic": 82
+      },
+      "cast": [
+        {
+          "actor": "Tom Hanks",
+          "character": "Forrest Gump",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Robin Wright",
+          "character": "Jenny Curran",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Gary Sinise",
+          "character": "Teniente Dan Taylor",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Eric Roth",
+          "role": "Guionista"
+        },
+        {
+          "name": "Winston Groom",
+          "role": "Historia original"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French",
+          "German"
+        ],
+        "country": "United States",
+        "budget": {
+          "amount": 55000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 678000000,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
+      "trailer": "https://www.youtube.com/watch?v=bLvqoHBptjg",
+      "tags": [
+        "historia",
+        "vida",
+        "superación",
+        "romance"
+      ],
+      "isActive": true
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "media": [
+    {
+      "title": "The Mandalorian",
+      "synopsis": "Un cazarrecompensas mandaloriano recorre la galaxia cuidando a un misterioso niño de la misma especie que Yoda.",
+      "releaseDate": "2019-11-12",
+      "duration": 40,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090343",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "imdb": {
+          "score": 8.7,
+          "votes": 500000
+        }
+      },
+      "cast": [
+        {
+          "actor": "Pedro Pascal",
+          "character": "Din Djarin",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Giancarlo Esposito",
+          "character": "Moff Gideon",
+          "role": "Antagonista"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Dave Filoni",
+          "role": "Productor"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French"
+        ],
+        "country": "United States"
+      },
+      "poster": "https://image.tmdb.org/t/p/w500/mandalorian.jpg",
+      "trailer": "https://www.youtube.com/watch?v=aOC8E8z_ifw",
+      "tags": [
+        "star wars",
+        "bounty hunter",
+        "sci-fi"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "The Last of Us",
+      "synopsis": "Un contrabandista debe escoltar a una niña inmune a través de un Estados Unidos postapocalíptico devastado por un hongo letal.",
+      "releaseDate": "2023-01-15",
+      "duration": 55,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090344",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "imdb": {
+          "score": 8.8,
+          "votes": 600000
+        }
+      },
+      "cast": [
+        {
+          "actor": "Pedro Pascal",
+          "character": "Joel Miller",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Bella Ramsey",
+          "character": "Ellie",
+          "role": "Protagonista"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Neil Druckmann",
+          "role": "Creador original"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "Portuguese"
+        ],
+        "country": "United States"
+      },
+      "poster": "https://image.tmdb.org/t/p/w500/lastofus.jpg",
+      "trailer": "https://www.youtube.com/watch?v=uLtkt8BonwM",
+      "tags": [
+        "apocalypse",
+        "fungus",
+        "survival"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "The Boys",
+      "synopsis": "Un grupo de vigilantes intenta derribar a superhéroes corruptos que abusan de su fama y poder.",
+      "releaseDate": "2019-07-26",
+      "duration": 60,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090344"
+      ],
+      "rating": {
+        "imdb": {
+          "score": 8.7,
+          "votes": 600000
+        }
+      },
+      "cast": [
+        {
+          "actor": "Karl Urban",
+          "character": "Billy Butcher",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Antony Starr",
+          "character": "Homelander",
+          "role": "Antagonista"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Seth Rogen",
+          "role": "Productor"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French"
+        ],
+        "country": "United States"
+      },
+      "poster": "https://image.tmdb.org/t/p/w500/theboys.jpg",
+      "trailer": "https://www.youtube.com/watch?v=06rueu_fh30",
+      "tags": [
+        "superheroes",
+        "dark comedy",
+        "violence"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Peaky Blinders",
+      "synopsis": "Una familia de gánsteres en Birmingham, Inglaterra, se abre camino en el crimen organizado después de la Primera Guerra Mundial.",
+      "releaseDate": "2013-09-12",
+      "duration": 55,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090344",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "imdb": {
+          "score": 8.8,
+          "votes": 600000
+        }
+      },
+      "cast": [
+        {
+          "actor": "Cillian Murphy",
+          "character": "Thomas Shelby",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Paul Anderson",
+          "character": "Arthur Shelby",
+          "role": "Protagonista"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Steven Knight",
+          "role": "Creador"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French"
+        ],
+        "country": "United Kingdom"
+      },
+      "poster": "https://image.tmdb.org/t/p/w500/peakyblinders.jpg",
+      "trailer": "https://www.youtube.com/watch?v=oVzVdvGIC7U",
+      "tags": [
+        "gangsters",
+        "crime",
+        "britain"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "House of the Dragon",
+      "synopsis": "Precuela de Game of Thrones que narra la guerra civil de la Casa Targaryen conocida como la Danza de los Dragones.",
+      "releaseDate": "2022-08-21",
+      "duration": 60,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090344",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "imdb": {
+          "score": 8.5,
+          "votes": 400000
+        }
+      },
+      "cast": [
+        {
+          "actor": "Emma D'Arcy",
+          "character": "Rhaenyra Targaryen",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Matt Smith",
+          "character": "Daemon Targaryen",
+          "role": "Protagonista"
+        }
+      ],
+      "crew": [
+        {
+          "name": "George R.R. Martin",
+          "role": "Autor original"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "Portuguese"
+        ],
+        "country": "United States"
+      },
+      "poster": "https://image.tmdb.org/t/p/w500/houseofthedragon.jpg",
+      "trailer": "https://www.youtube.com/watch?v=DotnJ7tTA34",
+      "tags": [
+        "dragons",
+        "fantasy",
+        "civil war"
+      ],
+      "isActive": true
+    }
+  ]
+}

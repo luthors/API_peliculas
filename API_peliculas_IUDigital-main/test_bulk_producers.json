@@ -1,0 +1,46 @@
+{
+  "producers": [
+    {
+      "name": "Warner Bros. Pictures",
+      "description": "Una de las principales productoras de Hollywood",
+      "foundedYear": 1923,
+      "country": "Estados Unidos",
+      "headquarters": {
+        "city": "Burbank",
+        "address": "4000 Warner Blvd",
+        "zipCode": "91522"
+      },
+      "contact": {
+        "website": "https://www.warnerbros.com",
+        "email": "info@warnerbros.com",
+        "phone": "+1-818-954-6000"
+      },
+      "specialties": ["Blockbuster", "Drama", "Acción"],
+      "budget": {
+        "currency": "USD",
+        "range": "Alto"
+      }
+    },
+    {
+      "name": "Universal Pictures",
+      "description": "Estudio cinematográfico estadounidense fundado en 1912",
+      "foundedYear": 1912,
+      "country": "Estados Unidos",
+      "headquarters": {
+        "city": "Universal City",
+        "address": "100 Universal City Plaza",
+        "zipCode": "91608"
+      },
+      "contact": {
+        "website": "https://www.universalpictures.com",
+        "email": "contact@universal.com",
+        "phone": "+1-818-777-1000"
+      },
+      "specialties": ["Blockbuster", "Terror", "Comedia"],
+      "budget": {
+        "currency": "USD",
+        "range": "Alto"
+      }
+    }
+  ]
+}

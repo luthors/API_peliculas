@@ -1,0 +1,412 @@
+{
+  "media": [
+    {
+      "title": "The Matrix",
+      "synopsis": "Un programador descubre que la realidad es una simulación creada por máquinas, y se une a la resistencia para liberar a la humanidad.",
+      "releaseDate": "1999-03-31",
+      "duration": 136,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "imdb": {
+          "score": 8.7,
+          "votes": 1900000
+        },
+        "rottenTomatoes": 88,
+        "metacritic": 73
+      },
+      "cast": [
+        {
+          "actor": "Keanu Reeves",
+          "character": "Neo",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Laurence Fishburne",
+          "character": "Morpheus",
+          "role": "Mentor"
+        },
+        {
+          "actor": "Hugo Weaving",
+          "character": "Agente Smith",
+          "role": "Antagonista"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Lana Wachowski",
+          "role": "Guionista"
+        },
+        {
+          "name": "Lilly Wachowski",
+          "role": "Guionista"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French",
+          "Portuguese"
+        ],
+        "country": "United States",
+        "budget": {
+          "amount": 63000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 466000000,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+      "trailer": "https://www.youtube.com/watch?v=m8e-FF8MsqU",
+      "tags": [
+        "simulación",
+        "filosofía",
+        "acción",
+        "cyberpunk"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Forrest Gump",
+      "synopsis": "La historia de un hombre con un bajo coeficiente intelectual que, sin proponérselo, se convierte en testigo y protagonista de algunos de los momentos más importantes de la historia de Estados Unidos.",
+      "releaseDate": "1994-07-06",
+      "duration": 142,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090342",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "imdb": {
+          "score": 8.8,
+          "votes": 2200000
+        },
+        "rottenTomatoes": 71,
+        "metacritic": 82
+      },
+      "cast": [
+        {
+          "actor": "Tom Hanks",
+          "character": "Forrest Gump",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Robin Wright",
+          "character": "Jenny Curran",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Gary Sinise",
+          "character": "Teniente Dan Taylor",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Eric Roth",
+          "role": "Guionista"
+        },
+        {
+          "name": "Winston Groom",
+          "role": "Historia original"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French",
+          "German"
+        ],
+        "country": "United States",
+        "budget": {
+          "amount": 55000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 678000000,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
+      "trailer": "https://www.youtube.com/watch?v=bLvqoHBptjg",
+      "tags": [
+        "historia",
+        "vida",
+        "superación",
+        "romance"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Dune: Part Two",
+      "synopsis": "Paul Atreides se une a Chani y a los Fremen mientras busca venganza contra los conspiradores que destruyeron a su familia. Enfrentará una elección entre el amor de su vida y el destino del universo conocido.",
+      "releaseDate": "2024-02-29",
+      "duration": 166,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090343",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 83,
+          "votes": 6500
+        }
+      },
+      "cast": [
+        {
+          "actor": "Timothée Chalamet",
+          "character": "Paul Atreides",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Zendaya",
+          "character": "Chani",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Rebecca Ferguson",
+          "character": "Lady Jessica Atreides",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Javier Bardem",
+          "character": "Stilgar",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Stellan Skarsgård",
+          "character": "Barón Harkonnen",
+          "role": "Antagonista"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Denis Villeneuve",
+          "role": "Director"
+        },
+        {
+          "name": "Jon Spaihts",
+          "role": "Guionista"
+        },
+        {
+          "name": "Frank Herbert",
+          "role": "Autor de la novela"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French",
+          "German"
+        ],
+        "country": "United States",
+        "budget": {
+          "amount": 190000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 710000000,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg",
+      "trailer": "https://www.youtube.com/watch?v=U2Qp5pL3ovA",
+      "tags": [
+        "sci-fi",
+        "Fremen",
+        "Atreides",
+        "Arrakis",
+        "desierto"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Oppenheimer",
+      "synopsis": "La historia del físico J. Robert Oppenheimer y su papel en el desarrollo de la bomba atómica durante la Segunda Guerra Mundial.",
+      "releaseDate": "2023-07-21",
+      "duration": 180,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090344",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 85,
+          "votes": 9500
+        }
+      },
+      "cast": [
+        {
+          "actor": "Cillian Murphy",
+          "character": "J. Robert Oppenheimer",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Emily Blunt",
+          "character": "Katherine 'Kitty' Oppenheimer",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Matt Damon",
+          "character": "Leslie Groves",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Robert Downey Jr.",
+          "character": "Lewis Strauss",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Florence Pugh",
+          "character": "Jean Tatlock",
+          "role": "Secundario"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Christopher Nolan",
+          "role": "Director/Guionista"
+        },
+        {
+          "name": "Kai Bird",
+          "role": "Autor de libro biográfico"
+        },
+        {
+          "name": "Martin Sherwin",
+          "role": "Autor de libro biográfico"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French",
+          "Italian"
+        ],
+        "country": "United States",
+        "budget": {
+          "amount": 100000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 950000000,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bAFmcrkRNYVmsvvA8ydVF9SLRAm.jpg",
+      "trailer": "https://www.youtube.com/watch?v=uYPbbksJxIg",
+      "tags": [
+        "biopic",
+        "segunda guerra mundial",
+        "ciencia",
+        "historia"
+      ],
+      "isActive": true
+    },
+    {
+      "title": "Barbie",
+      "synopsis": "Barbie y Ken disfrutan de la perfección en el mundo de Barbie Land hasta que tienen la oportunidad de ir al mundo real.",
+      "releaseDate": "2023-07-21",
+      "duration": 114,
+      "type": "68e2cd77e06821ba04090350",
+      "director": "68e2cde5e06821ba0409035b",
+      "producer": "68e2cdf1e06821ba0409035f",
+      "genres": [
+        "68e2ccbee06821ba04090345",
+        "68e2ccbee06821ba04090342"
+      ],
+      "rating": {
+        "tmdb": {
+          "score": 72,
+          "votes": 12000
+        }
+      },
+      "cast": [
+        {
+          "actor": "Margot Robbie",
+          "character": "Barbie",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "Ryan Gosling",
+          "character": "Ken",
+          "role": "Protagonista"
+        },
+        {
+          "actor": "America Ferrera",
+          "character": "Gloria",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Kate McKinnon",
+          "character": "Barbie rara",
+          "role": "Secundario"
+        },
+        {
+          "actor": "Will Ferrell",
+          "character": "CEO de Mattel",
+          "role": "Antagonista"
+        }
+      ],
+      "crew": [
+        {
+          "name": "Greta Gerwig",
+          "role": "Directora/Guionista"
+        },
+        {
+          "name": "Noah Baumbach",
+          "role": "Guionista"
+        },
+        {
+          "name": "Ruth Handler",
+          "role": "Creadora de Barbie"
+        }
+      ],
+      "technical": {
+        "language": "English",
+        "subtitles": [
+          "Spanish",
+          "French",
+          "Portuguese"
+        ],
+        "country": "United States",
+        "budget": {
+          "amount": 145000000,
+          "currency": "USD"
+        },
+        "boxOffice": {
+          "amount": 1446000000,
+          "currency": "USD"
+        }
+      },
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "trailer": "https://www.youtube.com/watch?v=pBk4NYhWNMM",
+      "tags": [
+        "fantasía",
+        "comedia",
+        "Ken",
+        "Mattel",
+        "auto-descubrimiento"
+      ],
+      "isActive": true
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "title": "AVATAR",
+  "originalTitle": "AVATAR",
+  "synopsis": "Prueba de validación de título con mayúsculas para verificar que la validación sea case-insensitive.",
+  "releaseDate": "2009-12-18",
+  "duration": 162,
+  "type": "68e1e3e5133c69fe31ca30b6",
+  "director": "68e1e42b133c69fe31ca30bf",
+  "producer": "68e1e406133c69fe31ca30b9",
+  "genres": ["68e1e419133c69fe31ca30bc"],
+  "cast": [
+    {
+      "actor": "Test Actor",
+      "character": "Test Character",
+      "role": "Protagonista"
+    }
+  ],
+  "crew": [
+    {
+      "name": "Test Director",
+      "role": "Guionista"
+    }
+  ],
+  "technical": {
+    "language": "Inglés",
+    "country": "Estados Unidos"
+  },
+  "isActive": true
+}

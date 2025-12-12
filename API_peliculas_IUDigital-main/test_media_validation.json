@@ -1,0 +1,22 @@
+{
+  "title": "Película de Prueba",
+  "synopsis": "Una película para probar la validación de referencias",
+  "releaseDate": "2024-01-01",
+  "duration": 120,
+  "type": "68d31d4a400438b1d9661986",
+  "director": "68d37ccf90259a0395f694d4",
+  "producer": "68d3795c90259a0395f694ad",
+  "genres": ["68d35480400438b1d96619af", "68d361c2400438b1d96619bf"],
+  "cast": [
+    {
+      "actor": "Actor de Prueba",
+      "character": "Protagonista",
+      "role": "Protagonista"
+    }
+  ],
+  "technical": {
+    "language": "Español",
+    "country": "Colombia"
+  },
+  "tags": ["prueba", "validación"]
+}

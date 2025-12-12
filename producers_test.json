@@ -1,0 +1,25 @@
+{
+  "producers": [
+    {
+      "name": "Warner Bros Pictures",
+      "foundedYear": 1923,
+      "country": "United States",
+      "headquarters": "Burbank, California",
+      "description": "Major American film and entertainment studio"
+    },
+    {
+      "name": "Sony Pictures Entertainment",
+      "foundedYear": 1987,
+      "country": "United States",
+      "headquarters": "Culver City, California",
+      "description": "American diversified multinational mass media and entertainment studio"
+    },
+    {
+      "name": "Legendary Entertainment",
+      "foundedYear": 2000,
+      "country": "United States",
+      "headquarters": "Burbank, California",
+      "description": "American film production and mass media company"
+    }
+  ]
+}

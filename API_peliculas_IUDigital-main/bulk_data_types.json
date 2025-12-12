@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Película",
+    "description": "Largometraje cinematográfico para exhibición en salas de cine",
+    "category": "Largometraje",
+    "format": "Único",
+    "duration": {
+      "typical": {
+        "min": 90,
+        "max": 180
+      },
+      "unit": "minutos"
+    },
+    "characteristics": ["Narrativa completa", "Exhibición teatral", "Duración estándar"],
+    "platforms": ["Cine", "Streaming", "Blu-ray/DVD"]
+  },
+  {
+    "name": "Serie",
+    "description": "Contenido televisivo dividido en múltiples episodios y temporadas",
+    "category": "Serie TV",
+    "format": "Temporadas",
+    "duration": {
+      "typical": {
+        "min": 20,
+        "max": 60
+      },
+      "unit": "minutos"
+    },
+    "characteristics": ["Múltiples episodios", "Desarrollo continuo", "Arcos narrativos largos"],
+    "platforms": ["Televisión", "Streaming"]
+  },
+  {
+    "name": "Documental",
+    "description": "Contenido no ficticio que documenta aspectos de la realidad",
+    "category": "Documental",
+    "format": "Único",
+    "duration": {
+      "typical": {
+        "min": 60,
+        "max": 150
+      },
+      "unit": "minutos"
+    },
+    "characteristics": ["No ficción", "Educativo", "Basado en hechos reales"],
+    "platforms": ["Cine", "Televisión", "Streaming", "Festival"]
+  },
+  {
+    "name": "Miniserie",
+    "description": "Serie de televisión con un número limitado de episodios",
+    "category": "Serie TV",
+    "format": "Episódico",
+    "duration": {
+      "typical": {
+        "min": 45,
+        "max": 90
+      },
+      "unit": "minutos"
+    },
+    "characteristics": ["Historia cerrada", "Pocos episodios", "Alta producción"],
+    "platforms": ["Televisión", "Streaming"]
+  },
+  {
+    "name": "Cortometraje",
+    "description": "Película de corta duración, generalmente menos de 40 minutos",
+    "category": "Largometraje",
+    "format": "Único",
+    "duration": {
+      "typical": {
+        "min": 5,
+        "max": 40
+      },
+      "unit": "minutos"
+    },
+    "characteristics": ["Duración corta", "Narrativa concisa", "Experimental"],
+    "platforms": ["Festival", "Digital", "Streaming"]
+  },
+  {
+    "name": "Telefilme",
+    "description": "Película producida específicamente para televisión",
+    "category": "Especial",
+    "format": "Único",
+    "duration": {
+      "typical": {
+        "min": 90,
+        "max": 120
+      },
+      "unit": "minutos"
+    },
+    "characteristics": ["Producción televisiva", "Presupuesto medio", "Audiencia masiva"],
+    "platforms": ["Televisión", "Streaming"]
+  },
+  {
+    "name": "Especial TV",
+    "description": "Programa especial de televisión para eventos o celebraciones",
+    "category": "Especial",
+    "format": "Único",
+    "duration": {
+      "typical": {
+        "min": 30,
+        "max": 120
+      },
+      "unit": "minutos"
+    },
+    "characteristics": ["Evento especial", "Temática específica", "Transmisión única"],
+    "platforms": ["Televisión", "Streaming"]
+  },
+  {
+    "name": "Webserie",
+    "description": "Serie producida específicamente para plataformas digitales",
+    "category": "Contenido Digital",
+    "format": "Episódico",
+    "duration": {
+      "typical": {
+        "min": 5,
+        "max": 30
+      },
+      "unit": "minutos"
+    },
+    "characteristics": ["Formato digital", "Episodios cortos", "Distribución online"],
+    "platforms": ["Digital", "Streaming"]
+  }
+]
