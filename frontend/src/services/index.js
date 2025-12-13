@@ -1,13 +1,15 @@
 // Central export file for all services
-import genreService from './genreService';
-import directorService from './directorService';
-import producerService from './producerService';
-import typeService from './typeService';
-import mediaService from './mediaService';
-import api, { endpoints, apiHelpers } from './api';
+import genreService from "./genreService";
+import directorService from "./directorService";
+import producerService from "./producerService";
+import typeService from "./typeService";
+import mediaService from "./mediaService";
+import authService from "./authService";
+import api, { endpoints, apiHelpers } from "./api";
 
 // Export all services with both naming conventions
 export {
+  authService,
   genreService,
   directorService,
   producerService,
@@ -20,6 +22,7 @@ export {
 
 // Export with PascalCase names for consistency
 export {
+  authService as AuthService,
   genreService as GenreService,
   directorService as DirectorService,
   producerService as ProducerService,
@@ -34,6 +37,7 @@ export default {
   producer: producerService,
   type: typeService,
   media: mediaService,
+  auth: authService,
   api,
   endpoints,
   apiHelpers,

@@ -1,4 +1,4 @@
-import { apiHelpers, endpoints } from './api';
+import { apiHelpers, endpoints } from "./api";
 
 /**
  * Type Service - Handles all type-related API operations
@@ -143,7 +143,7 @@ class TypeService {
    * @returns {Array<string>} Array of available categories
    */
   getAvailableCategories() {
-    return ['audiovisual', 'streaming', 'broadcast'];
+    return ["audiovisual", "streaming", "broadcast"];
   }
 
   /**
@@ -151,7 +151,7 @@ class TypeService {
    * @returns {Array<string>} Array of available formats
    */
   getAvailableFormats() {
-    return ['digital', 'physical', 'streaming'];
+    return ["digital", "physical", "streaming"];
   }
 
   /**
@@ -160,7 +160,16 @@ class TypeService {
    */
   async getTypePlatforms() {
     const stats = await this.getTypeStats();
-    return stats.platformDistribution?.map(item => item._id) || [];
+    return stats.platformDistribution?.map((item) => item._id) || [];
+  }
+
+  /**
+   * Alias for getAllTypes - for backward compatibility
+   * @param {Object} params - Query parameters
+   * @returns {Promise<Object>} Response with types data
+   */
+  async getAll(params = {}) {
+    return await this.getAllTypes(params);
   }
 }
 

@@ -1,0 +1,341 @@
+{
+  "info": {
+    "name": "API Películas - Autenticación",
+    "description": "Colección de pruebas para el sistema de autenticación",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "1. Crear Usuario Admin",
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "exec": [
+              "// Guardar token automáticamente",
+              "if (pm.response.code === 201) {",
+              "    var jsonData = pm.response.json();",
+              "    pm.environment.set('token', jsonData.data.token);",
+              "    pm.environment.set('refreshToken', jsonData.data.refreshToken);",
+              "    pm.environment.set('userId', jsonData.data.user.id);",
+              "}"
+            ]
+          }
+        }
+      ],
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"firstName\": \"Admin\",\n  \"lastName\": \"Sistema\",\n  \"email\": \"admin@peliculas.com\",\n  \"password\": \"Admin123\",\n  \"role\": \"admin\"\n}"
+        },
+        "url": {
+          "raw": "{{baseUrl}}/auth/register",
+          "host": ["{{baseUrl}}"],
+          "path": ["auth", "register"]
+        }
+      }
+    },
+    {
+      "name": "2. Login Admin",
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "exec": [
+              "if (pm.response.code === 200) {",
+              "    var jsonData = pm.response.json();",
+              "    pm.environment.set('token', jsonData.data.token);",
+              "    pm.environment.set('refreshToken', jsonData.data.refreshToken);",
+              "}"
+            ]
+          }
+        }
+      ],
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"email\": \"admin@peliculas.com\",\n  \"password\": \"Admin123\"\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "{{baseUrl}}/auth/login",
+          "host": ["{{baseUrl}}"],
+          "path": ["auth", "login"]
+        }
+      }
+    },
+    {
+      "name": "3. Registrar Usuario Normal",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"firstName\": \"Juan\",\n  \"lastName\": \"Pérez\",\n  \"email\": \"juan@example.com\",\n  \"password\": \"User123\"\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "{{baseUrl}}/auth/register",
+          "host": ["{{baseUrl}}"],
+          "path": ["auth", "register"]
+        }
+      }
+    },
+    {
+      "name": "4. Obtener Mi Perfil",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "url": {
+          "raw": "{{baseUrl}}/auth/profile",
+          "host": ["{{baseUrl}}"],
+          "path": ["auth", "profile"]
+        }
+      }
+    },
+    {
+      "name": "5. Actualizar Mi Perfil",
+      "request": {
+        "method": "PUT",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"firstName\": \"Admin\",\n  \"lastName\": \"Actualizado\",\n  \"avatar\": \"https://example.com/avatar.jpg\"\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "{{baseUrl}}/auth/profile",
+          "host": ["{{baseUrl}}"],
+          "path": ["auth", "profile"]
+        }
+      }
+    },
+    {
+      "name": "6. Cambiar Contraseña",
+      "request": {
+        "method": "PUT",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"currentPassword\": \"Admin123\",\n  \"newPassword\": \"NewAdmin123\"\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "{{baseUrl}}/auth/change-password",
+          "host": ["{{baseUrl}}"],
+          "path": ["auth", "change-password"]
+        }
+      }
+    },
+    {
+      "name": "7. Refrescar Token",
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "exec": [
+              "if (pm.response.code === 200) {",
+              "    var jsonData = pm.response.json();",
+              "    pm.environment.set('token', jsonData.data.token);",
+              "}"
+            ]
+          }
+        }
+      ],
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"refreshToken\": \"{{refreshToken}}\"\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "{{baseUrl}}/auth/refresh-token",
+          "host": ["{{baseUrl}}"],
+          "path": ["auth", "refresh-token"]
+        }
+      }
+    },
+    {
+      "name": "8. Listar Usuarios (Admin)",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "url": {
+          "raw": "{{baseUrl}}/auth/users?page=1&limit=10&sort=createdAt&order=desc",
+          "host": ["{{baseUrl}}"],
+          "path": ["auth", "users"],
+          "query": [
+            {
+              "key": "page",
+              "value": "1"
+            },
+            {
+              "key": "limit",
+              "value": "10"
+            },
+            {
+              "key": "sort",
+              "value": "createdAt"
+            },
+            {
+              "key": "order",
+              "value": "desc"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "9. Obtener Usuario por ID (Admin)",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "url": {
+          "raw": "{{baseUrl}}/auth/users/{{userId}}",
+          "host": ["{{baseUrl}}"],
+          "path": ["auth", "users", "{{userId}}"]
+        }
+      }
+    },
+    {
+      "name": "10. Actualizar Usuario (Admin)",
+      "request": {
+        "method": "PUT",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"firstName\": \"Usuario\",\n  \"lastName\": \"Actualizado\",\n  \"role\": \"admin\",\n  \"isActive\": true\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "{{baseUrl}}/auth/users/{{userId}}",
+          "host": ["{{baseUrl}}"],
+          "path": ["auth", "users", "{{userId}}"]
+        }
+      }
+    },
+    {
+      "name": "11. Estadísticas de Usuarios (Admin)",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "url": {
+          "raw": "{{baseUrl}}/auth/stats",
+          "host": ["{{baseUrl}}"],
+          "path": ["auth", "stats"]
+        }
+      }
+    },
+    {
+      "name": "12. Desactivar Usuario (Admin)",
+      "request": {
+        "method": "DELETE",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "url": {
+          "raw": "{{baseUrl}}/auth/users/{{userId}}",
+          "host": ["{{baseUrl}}"],
+          "path": ["auth", "users", "{{userId}}"]
+        }
+      }
+    },
+    {
+      "name": "13. Logout",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "url": {
+          "raw": "{{baseUrl}}/auth/logout",
+          "host": ["{{baseUrl}}"],
+          "path": ["auth", "logout"]
+        }
+      }
+    }
+  ],
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:3001/api/v1",
+      "type": "string"
+    }
+  ]
+}

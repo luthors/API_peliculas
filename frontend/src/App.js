@@ -1,95 +1,67 @@
-import React from 'react';
-import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
-import { ThemeProvider, createTheme } from '@mui/material/styles';
-import { CssBaseline, Box } from '@mui/material';
-import Layout from './components/layout/Layout';
-import {
-  Dashboard,
-  Genres,
-  Directors,
-  Producers,
-  Types,
-  Media,
-} from './pages';
-import './App.css';
-
-// Create Material-UI theme
-const theme = createTheme({
-  palette: {
-    primary: {
-      main: '#1976d2',
-    },
-    secondary: {
-      main: '#dc004e',
-    },
-    background: {
-      default: '#f5f5f5',
-    },
-  },
-  typography: {
-    fontFamily: '"Roboto", "Helvetica", "Arial", sans-serif',
-    h4: {
-      fontWeight: 600,
-    },
-    h6: {
-      fontWeight: 600,
-    },
-  },
-  components: {
-    MuiButton: {
-      styleOverrides: {
-        root: {
-          textTransform: 'none',
-          borderRadius: 8,
-        },
-      },
-    },
-    MuiCard: {
-      styleOverrides: {
-        root: {
-          borderRadius: 12,
-        },
-      },
-    },
-    MuiPaper: {
-      styleOverrides: {
-        root: {
-          borderRadius: 8,
-        },
-      },
-    },
-  },
-});
+import React from "react";
+import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-dom";
+import { CssBaseline, Box } from "@mui/material";
+import { AuthProvider } from "./contexts/AuthContext";
+import { ThemeProvider } from "./contexts/ThemeContext";
+import { ProtectedRoute } from "./components/common";
+import Layout from "./components/layout/Layout";
+import { Dashboard, Genres, Directors, Producers, Types, Media, Catalog, Login, Register } from "./pages";
+import DatabaseSeeder from "./components/admin/DatabaseSeeder";
+import "./App.css";
 
 /**
  * Main Application Component
- * Configures routing, theme, and global layout
+ * Configures routing, theme, authentication, and global layout
  */
 function App() {
   return (
-    <ThemeProvider theme={theme}>
+    <ThemeProvider>
       <CssBaseline />
-      <Router>
-        <Box sx={{ display: 'flex', minHeight: '100vh' }}>
-          <Layout>
-            <Routes>
-              {/* Default route redirects to dashboard */}
-              <Route path="/" element={<Navigate to="/dashboard" replace />} />
-              
-              {/* Main application routes */}
-              <Route path="/dashboard" element={<Dashboard />} />
-              <Route path="/genres" element={<Genres />} />
-              <Route path="/directors" element={<Directors />} />
-              <Route path="/producers" element={<Producers />} />
-              <Route path="/types" element={<Types />} />
-              <Route path="/media" element={<Media />} />
-              
-              {/* Catch-all route for 404 */}
-              <Route path="*" element={<Navigate to="/dashboard" replace />} />
-            </Routes>
-          </Layout>
-        </Box>
-      </Router>
+      <AuthProvider>
+        <Router>
+          <Routes>
+            {/* Public Routes - Accessible without authentication */}
+            <Route path="/" element={<Catalog />} />
+            <Route path="/catalog" element={<Catalog />} />
+            <Route path="/login" element={<Login />} />
+            <Route path="/register" element={<Register />} />
+
+            {/* Protected Admin Routes - Only for authenticated admins */}
+            <Route
+              path="/admin/*"
+              element={
+                <ProtectedRoute roles={["admin"]}>
+                  <Box sx={{ display: "flex", minHeight: "100vh" }}>
+                    <Layout>
+                      <Routes>
+                        {/* Admin dashboard as default */}
+                        <Route path="/" element={<Dashboard />} />
+                        <Route path="/dashboard" element={<Dashboard />} />
+
+                        {/* Admin management routes */}
+                        <Route path="/genres" element={<Genres />} />
+                        <Route path="/directors" element={<Directors />} />
+                        <Route path="/producers" element={<Producers />} />
+                        <Route path="/types" element={<Types />} />
+                        <Route path="/media" element={<Media />} />
+
+                        {/* RUTA TEMPORAL PARA CARGAR DATOS */}
+                        <Route path="/admin/seed" element={<DatabaseSeeder />} />
+
+                        {/* Catch-all route redirects to dashboard */}
+                        <Route path="*" element={<Navigate to="/admin/dashboard" replace />} />
+                      </Routes>
+                    </Layout>
+                  </Box>
+                </ProtectedRoute>
+              }
+            />
+
+            {/* Catch-all route for undefined paths */}
+            <Route path="*" element={<Navigate to="/" replace />} />
+          </Routes>
+        </Router>
+      </AuthProvider>
     </ThemeProvider>
   );
 }

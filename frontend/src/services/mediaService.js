@@ -1,4 +1,4 @@
-import { apiHelpers, endpoints } from './api';
+import { apiHelpers, endpoints } from "./api";
 
 /**
  * Media Service - Handles all media-related API operations (Movies and Series)
@@ -203,7 +203,7 @@ class MediaService {
    */
   async getMovies(page = 1, limit = 10) {
     // This would need to be implemented based on how movie types are identified
-    return await this.getAllMedia({ page, limit, category: 'movie' });
+    return await this.getAllMedia({ page, limit, category: "movie" });
   }
 
   /**
@@ -214,7 +214,7 @@ class MediaService {
    */
   async getSeries(page = 1, limit = 10) {
     // This would need to be implemented based on how series types are identified
-    return await this.getAllMedia({ page, limit, category: 'series' });
+    return await this.getAllMedia({ page, limit, category: "series" });
   }
 
   /**
@@ -223,7 +223,7 @@ class MediaService {
    * @returns {Promise<Object>} Top rated media
    */
   async getTopRatedMedia(limit = 10) {
-    return await this.getAllMedia({ minRating: 8, limit, sort: 'rating' });
+    return await this.getAllMedia({ minRating: 8, limit, sort: "rating" });
   }
 
   /**
@@ -232,7 +232,7 @@ class MediaService {
    * @returns {Promise<Object>} Recently added media
    */
   async getRecentMedia(limit = 10) {
-    return await this.getAllMedia({ limit, sort: 'createdAt' });
+    return await this.getAllMedia({ limit, sort: "createdAt" });
   }
 
   /**
@@ -251,6 +251,15 @@ class MediaService {
    */
   async advancedSearch(filters, page = 1, limit = 10) {
     const params = { ...filters, page, limit };
+    return await this.getAllMedia(params);
+  }
+
+  /**
+   * Alias for getAllMedia - for backward compatibility
+   * @param {Object} params - Query parameters
+   * @returns {Promise<Object>} Response with media data
+   */
+  async getAll(params = {}) {
     return await this.getAllMedia(params);
   }
 }

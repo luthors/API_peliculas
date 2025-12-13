@@ -12,12 +12,13 @@ import { notFound } from "./middleware/notFound.js";
 import { errorHandler } from "./middleware/errorHandler.js";
 
 // Importar rutas
+import authRoutes from "./routes/authRoutes.js";
 import genreRoutes from "./routes/genreRoutes.js";
 import directorRoutes from "./routes/directorRoutes.js";
 import productorRoutes from "./routes/producerRoutes.js";
 import typeRoutes from "./routes/typeRoutes.js";
 import mediaRoutes from "./routes/mediaRoutes.js";
-
+import bulkRoutes from "./routes/bulkRoutes.js";
 
 // Crear instancia de Express
 const app = express();
@@ -46,11 +47,13 @@ app.get("/health", (req, res) => {
 
 // Rutas principales de la API
 const apiPrefix = process.env.API_PREFIX || "/api/v1";
+app.use(`${apiPrefix}/auth`, authRoutes);
 app.use(`${apiPrefix}/genres`, genreRoutes);
 app.use(`${apiPrefix}/directors`, directorRoutes);
 app.use(`${apiPrefix}/producers`, productorRoutes);
 app.use(`${apiPrefix}/types`, typeRoutes);
 app.use(`${apiPrefix}/media`, mediaRoutes);
+app.use(`${apiPrefix}/bulk`, bulkRoutes);
 
 // Ruta de bienvenida
 app.get("/", (req, res) => {
@@ -59,6 +62,7 @@ app.get("/", (req, res) => {
     version: process.env.API_VERSION || "v1",
     endpoints: {
       health: "/health",
+      auth: `${apiPrefix}/auth`,
       genres: `${apiPrefix}/genres`,
       directors: `${apiPrefix}/directors`,
       producers: `${apiPrefix}/producers`,
@@ -81,15 +85,15 @@ const startServer = async () => {
   try {
     // Conectar a la base de datos antes de inicializar el servidor
     await connectDB();
-    
+
     // Iniciar el servidor solo después de conectar a la base de datos
     app.listen(PORT, () => {
       console.log(`🚀 Servidor ejecutándose en puerto ${PORT}`);
-      console.log(`🌐 Entorno: ${process.env.NODE_ENV || 'development'}`);
+      console.log(`🌐 Entorno: ${process.env.NODE_ENV || "development"}`);
       console.log(`📋 Health check: http://localhost:${PORT}/health`);
     });
   } catch (error) {
-    console.error('❌ Error al inicializar la aplicación:', error);
+    console.error("❌ Error al inicializar la aplicación:", error);
     process.exit(1);
   }
 };
@@ -98,13 +102,13 @@ const startServer = async () => {
 startServer();
 
 // Manejo de cierre graceful
-process.on('SIGTERM', () => {
-  console.log('🛑 Cerrando servidor...');
+process.on("SIGTERM", () => {
+  console.log("🛑 Cerrando servidor...");
   process.exit(0);
 });
 
-process.on('SIGINT', () => {
-  console.log('🛑 Cerrando servidor...');
+process.on("SIGINT", () => {
+  console.log("🛑 Cerrando servidor...");
   process.exit(0);
 });
 

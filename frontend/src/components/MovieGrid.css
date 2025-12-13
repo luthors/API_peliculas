@@ -1,0 +1,36 @@
+.movie-grid {
+  display: grid;
+  gap: 20px;
+  padding: 20px;
+  justify-items: center; /* Centra las cards en sus celdas */
+  /* Por defecto (móvil) una columna */
+  grid-template-columns: repeat(1, 1fr);
+}
+
+/* Tablet: Ajuste automático */
+@media (min-width: 768px) {
+  .movie-grid {
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  }
+}
+
+/* Pantallas Grandes: Forzar exactamente 5 columnas */
+@media (min-width: 1200px) {
+  .movie-grid {
+    grid-template-columns: repeat(5, 1fr);
+  }
+}
+
+/* La tarjeta tiene un ancho fijo */
+.movie-card {
+  width: 240px; /* Ancho fijo solicitado */
+  display: flex;
+  flex-direction: column;
+  /* Asegura que la imagen respete el ancho */
+}
+
+.movie-card img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}

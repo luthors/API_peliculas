@@ -1,4 +1,4 @@
-import { apiHelpers, endpoints } from './api';
+import { apiHelpers, endpoints } from "./api";
 
 /**
  * Genre Service - Handles all genre-related API operations
@@ -89,6 +89,15 @@ class GenreService {
    */
   async getPaginatedGenres(page = 1, limit = 10) {
     return await this.getAllGenres({ page, limit });
+  }
+
+  /**
+   * Alias for getAllGenres - for backward compatibility
+   * @param {Object} params - Query parameters
+   * @returns {Promise<Object>} Response with genres data
+   */
+  async getAll(params = {}) {
+    return await this.getAllGenres(params);
   }
 }
 
