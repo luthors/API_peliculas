@@ -1,0 +1,55 @@
+{
+    "buildCommand": "npm run build",
+    "outputDirectory": "build",
+    "devCommand": "npm start",
+    "installCommand": "npm install",
+    "framework": "create-react-app",
+    "rewrites": [
+        {
+            "source": "/(.*)",
+            "destination": "/index.html"
+        }
+    ],
+    "headers": [
+        {
+            "source": "/static/(.*)",
+            "headers": [
+                {
+                    "key": "Cache-Control",
+                    "value": "public, max-age=31536000, immutable"
+                }
+            ]
+        },
+        {
+            "source": "/(.*)",
+            "headers": [
+                {
+                    "key": "X-Frame-Options",
+                    "value": "SAMEORIGIN"
+                },
+                {
+                    "key": "X-Content-Type-Options",
+                    "value": "nosniff"
+                },
+                {
+                    "key": "X-XSS-Protection",
+                    "value": "1; mode=block"
+                }
+            ]
+        }
+    ],
+    "env": {
+        "REACT_APP_API_URL": {
+            "description": "URL del backend API",
+            "value": "https://your-backend.railway.app/api/v1"
+        },
+        "REACT_APP_NAME": {
+            "description": "Nombre de la aplicación",
+            "value": "Sistema de Gestión de Películas y Series"
+        },
+        "REACT_APP_VERSION": {
+            "description": "Versión de la aplicación",
+            "value": "1.0.0"
+        }
+    }
+}

@@ -1,0 +1,146 @@
+name: CI - Tests Automáticos
+
+on:
+  push:
+    branches: [main, develop]
+  pull_request:
+    branches: [main, develop]
+
+jobs:
+  # ==========================================
+  # Tests del Backend
+  # ==========================================
+  test-backend:
+    name: 🧪 Tests Backend
+    runs-on: ubuntu-latest
+    
+    defaults:
+      run:
+        working-directory: ./API_peliculas_IUDigital-main
+    
+    steps:
+      - name: 📥 Checkout código
+        uses: actions/checkout@v4
+      
+      - name: 🟢 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'pnpm'
+          cache-dependency-path: './API_peliculas_IUDigital-main/pnpm-lock.yaml'
+      
+      - name: 📦 Instalar pnpm
+        run: npm install -g pnpm
+      
+      - name: 📦 Instalar dependencias
+        run: pnpm install --frozen-lockfile
+      
+      - name: 🧪 Ejecutar tests
+        run: pnpm test
+        env:
+          NODE_ENV: test
+          MONGODB_URI: mongodb://localhost:27017/test_db
+      
+      - name: ✅ Tests completados
+        if: success()
+        run: echo "✅ Todos los tests del backend pasaron exitosamente"
+      
+      - name: ❌ Tests fallidos
+        if: failure()
+        run: echo "❌ Algunos tests del backend fallaron"
+
+  # ==========================================
+  # Tests del Frontend
+  # ==========================================
+  test-frontend:
+    name: 🧪 Tests Frontend
+    runs-on: ubuntu-latest
+    
+    defaults:
+      run:
+        working-directory: ./frontend
+    
+    steps:
+      - name: 📥 Checkout código
+        uses: actions/checkout@v4
+      
+      - name: 🟢 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+          cache-dependency-path: './frontend/package-lock.json'
+      
+      - name: 📦 Instalar dependencias
+        run: npm ci
+      
+      - name: 🧪 Ejecutar tests
+        run: npm test -- --passWithNoTests --watchAll=false
+        env:
+          CI: true
+          REACT_APP_API_URL: http://localhost:3001/api/v1
+      
+      - name: ✅ Tests completados
+        if: success()
+        run: echo "✅ Todos los tests del frontend pasaron exitosamente"
+      
+      - name: ❌ Tests fallidos
+        if: failure()
+        run: echo "❌ Algunos tests del frontend fallaron"
+
+  # ==========================================
+  # Lint (opcional pero recomendado)
+  # ==========================================
+  lint-backend:
+    name: 📝 Lint Backend
+    runs-on: ubuntu-latest
+    
+    defaults:
+      run:
+        working-directory: ./API_peliculas_IUDigital-main
+    
+    steps:
+      - name: 📥 Checkout código
+        uses: actions/checkout@v4
+      
+      - name: 🟢 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+      
+      - name: 📦 Instalar pnpm
+        run: npm install -g pnpm
+      
+      - name: 📦 Instalar dependencias
+        run: pnpm install --frozen-lockfile
+      
+      - name: 📝 Ejecutar linter
+        run: pnpm lint || echo "⚠️  Lint warnings encontradas (no bloquea pipeline)"
+        continue-on-error: true
+
+  # ==========================================
+  # Resumen de CI
+  # ==========================================
+  ci-summary:
+    name: 📊 Resumen CI
+    runs-on: ubuntu-latest
+    needs: [test-backend, test-frontend, lint-backend]
+    if: always()
+    
+    steps:
+      - name: 📊 Estado del pipeline
+        run: |
+          echo "🔍 Resumen de Integración Continua"
+          echo "=================================="
+          echo "Backend Tests: ${{ needs.test-backend.result }}"
+          echo "Frontend Tests: ${{ needs.test-frontend.result }}"
+          echo "Backend Lint: ${{ needs.lint-backend.result }}"
+          
+          if [[ "${{ needs.test-backend.result }}" == "success" ]] && \
+             [[ "${{ needs.test-frontend.result }}" == "success" ]]; then
+            echo "✅ Pipeline CI completado exitosamente"
+            exit 0
+          else
+            echo "❌ Pipeline CI falló"
+            exit 1
+          fi
